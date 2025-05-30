@@ -1,0 +1,91 @@
+{
+    "track_name": "Holy Mama",
+    "album_name": "Holy Mama",
+    "recording_year": "1977",
+    "in_30_corpus": true,
+    "bandleader": "Junior Mance",
+    "pianist": "Junior Mance",
+    "channel_overrides": {},
+    "mbz_id": "9983c9b5-42f8-430f-803c-1afa05bfd4bd",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": 8.64,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=h262lO97UQU"
+        ]
+    },
+    "excerpt_duration": "02:30",
+    "timestamps": {
+        "start": "01:34",
+        "end": "04:04"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Junior Mance",
+        "bassist": "Martin Rivera",
+        "drummer": "Salvatore LaRocca",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "mancej-holymama-riveramlaroccas-1977-9983c9b5",
+    "tempo": 217.91429078531382,
+    "validation": {
+        "piano": {
+            "f_score": 0.8720999405116002,
+            "precision": 0.9278481012658227,
+            "recall": 0.8226711560044894,
+            "mean_asynchrony": -0.006545987200545007,
+            "fraction_matched": 0.8226711560044894
+        },
+        "bass": {
+            "f_score": 0.9584438549955792,
+            "precision": 0.9442508710801394,
+            "recall": 0.9730700179533214,
+            "mean_asynchrony": -0.003542268073801093,
+            "fraction_matched": 0.9730700179533214
+        },
+        "drums": {
+            "f_score": 0.95,
+            "precision": 0.938508064516129,
+            "recall": 0.9617768595041323,
+            "mean_asynchrony": -0.009301070951664861,
+            "fraction_matched": 0.9617768595041323
+        },
+        "mix": {
+            "f_score": 0.96875,
+            "precision": 0.96875,
+            "recall": 0.96875,
+            "mean_asynchrony": -0.010912795231499326,
+            "fraction_matched": 0.96875
+        },
+        "mix_downbeats": {
+            "f_score": 0.9560439560439561,
+            "precision": 0.9560439560439561,
+            "recall": 0.9560439560439561,
+            "mean_asynchrony": -0.012498631637931077,
+            "fraction_matched": 0.9560439560439561
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.023333176134281763,
+        "bass": 0.02571413715254467,
+        "drums": 0.0
+    }
+}

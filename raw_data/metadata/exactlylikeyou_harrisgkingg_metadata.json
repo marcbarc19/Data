@@ -1,0 +1,60 @@
+{
+    "track_name": "Exactly Like You",
+    "album_name": "The Best of the Concord Years",
+    "recording_year": "1984",
+    "in_30_corpus": false,
+    "bandleader": "Ray Brown",
+    "pianist": "Gene Harris",
+    "channel_overrides": {},
+    "mbz_id": "d4a69949-20c8-44f4-8946-39cc771d4e38",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=sODs71nYjVE"
+        ]
+    },
+    "excerpt_duration": "01:37",
+    "timestamps": {
+        "start": "00:49",
+        "end": "02:26"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Gene Harris",
+        "bassist": "Ray Brown",
+        "drummer": "Gerryck King",
+        "leader": "bassist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "brownr-exactlylikeyou-harrisgkingg-1984-d4a69949",
+    "tempo": 165.77420745377404,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.14025481631565317,
+        "bass": 0.20439738644117122,
+        "drums": 0.0
+    }
+}

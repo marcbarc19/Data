@@ -1,0 +1,60 @@
+{
+    "track_name": "There Is No Greater Love",
+    "album_name": "Beyond Expectations",
+    "recording_year": "1993",
+    "in_30_corpus": true,
+    "bandleader": "John Hicks",
+    "pianist": "John Hicks",
+    "channel_overrides": {},
+    "mbz_id": "52e6c99d-2681-4568-bd60-f5e00ec25728",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 8.98,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=cGkzSfatzqw"
+        ]
+    },
+    "excerpt_duration": "03:32",
+    "timestamps": {
+        "start": "02:08",
+        "end": "05:40"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "John Hicks",
+        "bassist": "Ray Drummond",
+        "drummer": "Marvin \"Smitty\" Smith",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hicksj-thereisnogreaterlove-drummondrsmittym-1993-52e6c99d",
+    "tempo": 188.1814468598708,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.005955314604895734,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "No Greater Love",
+    "album_name": "Impressions",
+    "recording_year": "1988",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Drew",
+    "pianist": "Kenny Drew",
+    "channel_overrides": {},
+    "mbz_id": "321d8806-747f-4120-be12-03ab6fd6bedf",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=jDmeQi7KgFU"
+        ]
+    },
+    "excerpt_duration": "02:30",
+    "timestamps": {
+        "start": "00:47",
+        "end": "03:17"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Drew",
+        "bassist": "Niels-Henning \u00d8rsted Pedersen",
+        "drummer": "Alvin Queen",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "drewk-nogreaterlove-rstednqueena-1988-321d8806",
+    "tempo": 257.3859577922078,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.026583675184479016,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

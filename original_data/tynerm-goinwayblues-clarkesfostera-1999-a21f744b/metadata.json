@@ -1,0 +1,60 @@
+{
+    "track_name": "Goin Way Blues",
+    "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+    "recording_year": "1999",
+    "in_30_corpus": false,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "a21f744b-10c4-4dda-b7c4-529282c44ffd",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=lXIRAi4l5GU"
+        ]
+    },
+    "excerpt_duration": "02:50",
+    "timestamps": {
+        "start": "00:40",
+        "end": "03:30"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "Stanley Clarke",
+        "drummer": "Al Foster",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-goinwayblues-clarkesfostera-1999-a21f744b",
+    "tempo": 152.5999061419342,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.023396634801205796,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

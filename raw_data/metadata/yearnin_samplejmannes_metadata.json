@@ -1,0 +1,60 @@
+{
+    "track_name": "Yearnin",
+    "album_name": "The Three",
+    "recording_year": "1975",
+    "in_30_corpus": false,
+    "bandleader": "Ray Brown",
+    "pianist": "Joe Sample",
+    "channel_overrides": {},
+    "mbz_id": "39c44c5d-1c53-4c6b-ac63-c4b25d3ca8b9",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=yKg-8qRLlmM"
+        ]
+    },
+    "excerpt_duration": "01:11",
+    "timestamps": {
+        "start": "01:16",
+        "end": "02:27"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Joe Sample",
+        "bassist": "Ray Brown",
+        "drummer": "Shelly Manne",
+        "leader": "bassist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "brownr-yearnin-samplejmannes-1975-39c44c5d",
+    "tempo": 120.59814321750258,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.11188039385005288,
+        "bass": 0.08424753077272895,
+        "drums": 0.0
+    }
+}

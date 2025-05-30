@@ -1,0 +1,60 @@
+{
+    "track_name": "Honeysuckle Rose",
+    "album_name": "My Foolish Heart Live at Montreux",
+    "recording_year": "2001",
+    "in_30_corpus": false,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "85766730-fea1-407a-9ee2-080771322df3",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=bKBf7cGdEAA"
+        ]
+    },
+    "excerpt_duration": "02:34",
+    "timestamps": {
+        "start": "00:35",
+        "end": "03:09"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Gary Peacock",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-honeysucklerose-peacockgdejohnettej-2001-85766730",
+    "tempo": 245.87721965296333,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.07695098274393097,
+        "drums": 0.01349950901208019
+    }
+}

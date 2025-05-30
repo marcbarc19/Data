@@ -1,0 +1,60 @@
+{
+    "track_name": "Liza All the Cloudsll Roll Away",
+    "album_name": "The Unique Thelonious Monk",
+    "recording_year": "1956",
+    "in_30_corpus": false,
+    "bandleader": "Thelonious Monk",
+    "pianist": "Thelonious Monk",
+    "channel_overrides": {},
+    "mbz_id": "97f12de7-6f51-47da-9159-10a1e8fc1be4",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=7Eb3ln43Z18"
+        ]
+    },
+    "excerpt_duration": "00:54",
+    "timestamps": {
+        "start": "00:30",
+        "end": "01:24"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Thelonious Monk",
+        "bassist": "Oscar Pettiford",
+        "drummer": "Art Blakey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "monkt-lizaallthecloudsllroll-pettifordoblakeya-1956-97f12de7",
+    "tempo": 280.28122460784164,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.20535573677327468,
+        "bass": 0.04262268142883552,
+        "drums": 0.0
+    }
+}

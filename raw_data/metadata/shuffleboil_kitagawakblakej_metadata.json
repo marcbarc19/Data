@@ -1,0 +1,91 @@
+{
+    "track_name": "Shuffle Boil",
+    "album_name": "Book of Intuition",
+    "recording_year": "2015",
+    "in_30_corpus": true,
+    "bandleader": "Kenny Barron",
+    "pianist": "Kenny Barron",
+    "channel_overrides": {},
+    "mbz_id": "3a37bdb6-b048-480b-b367-43d0f60e2313",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 5.5,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=oG8CNh11G10"
+        ]
+    },
+    "excerpt_duration": "01:15",
+    "timestamps": {
+        "start": "02:20",
+        "end": "03:35"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Barron",
+        "bassist": "Kiyoshi Kitagawa",
+        "drummer": "Johnathan Blake",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "barronk-shuffleboil-kitagawakblakej-2015-3a37bdb6",
+    "tempo": 196.22647612994032,
+    "validation": {
+        "piano": {
+            "f_score": 0.9298892988929889,
+            "precision": 0.9379652605459057,
+            "recall": 0.9219512195121952,
+            "mean_asynchrony": -0.005971217410053069,
+            "fraction_matched": 0.9219512195121952
+        },
+        "bass": {
+            "f_score": 0.9148580968280468,
+            "precision": 0.9256756756756757,
+            "recall": 0.9042904290429042,
+            "mean_asynchrony": -0.002639488905109577,
+            "fraction_matched": 0.9042904290429042
+        },
+        "drums": {
+            "f_score": 0.9573459715639812,
+            "precision": 0.9805825242718447,
+            "recall": 0.9351851851851852,
+            "mean_asynchrony": -0.003439976658415745,
+            "fraction_matched": 0.9351851851851852
+        },
+        "mix": {
+            "f_score": 0.9878048780487805,
+            "precision": 0.9878048780487805,
+            "recall": 0.9878048780487805,
+            "mean_asynchrony": -0.0011475976008230718,
+            "fraction_matched": 0.9878048780487805
+        },
+        "mix_downbeats": {
+            "f_score": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "mean_asynchrony": -0.00044199103278692295,
+            "fraction_matched": 1.0
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.010137112180494734,
+        "bass": 0.10743114163422218,
+        "drums": 0.0
+    }
+}

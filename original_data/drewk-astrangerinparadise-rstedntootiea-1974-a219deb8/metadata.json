@@ -1,0 +1,60 @@
+{
+    "track_name": "A Stranger in Paradise",
+    "album_name": "Dark Beauty",
+    "recording_year": "1974",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Drew",
+    "pianist": "Kenny Drew",
+    "channel_overrides": {},
+    "mbz_id": "a219deb8-3130-4308-ba19-b28be4f83df7",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=6YLtHwZoVYg"
+        ]
+    },
+    "excerpt_duration": "02:36",
+    "timestamps": {
+        "start": "01:33",
+        "end": "04:09"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Drew",
+        "bassist": "Niels-Henning \u00d8rsted Pedersen",
+        "drummer": "Albert \u201cTootie\u201d Heath",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "drewk-astrangerinparadise-rstedntootiea-1974-a219deb8",
+    "tempo": 245.91547296018172,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

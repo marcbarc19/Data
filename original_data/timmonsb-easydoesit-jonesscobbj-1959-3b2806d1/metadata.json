@@ -1,0 +1,63 @@
+{
+    "track_name": "Easy Does It",
+    "album_name": "Six Classic Albums",
+    "recording_year": "1959",
+    "in_30_corpus": false,
+    "bandleader": "Bobby Timmons",
+    "pianist": "Bobby Timmons",
+    "channel_overrides": {
+        "bass": "l",
+        "drums": "r"
+    },
+    "mbz_id": "3b2806d1-a50d-406c-a008-cd9e2010da65",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=zN56pzE34hU"
+        ]
+    },
+    "excerpt_duration": "01:28",
+    "timestamps": {
+        "start": "01:08",
+        "end": "02:36"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bobby Timmons",
+        "bassist": "Sam Jones",
+        "drummer": "Jimmy Cobb",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "timmonsb-easydoesit-jonesscobbj-1959-3b2806d1",
+    "tempo": 263.2139020781902,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.011542663653119623,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

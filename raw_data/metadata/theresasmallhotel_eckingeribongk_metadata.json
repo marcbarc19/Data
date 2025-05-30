@@ -1,0 +1,60 @@
+{
+    "track_name": "Theres a Small Hotel",
+    "album_name": "Have You Met This Jones",
+    "recording_year": "1977",
+    "in_30_corpus": false,
+    "bandleader": "Hank Jones",
+    "pianist": "Hank Jones",
+    "channel_overrides": {},
+    "mbz_id": "4197b08b-592b-46ca-8b8a-914a1db47272",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=cWOsqnu3Ytw"
+        ]
+    },
+    "excerpt_duration": "01:55",
+    "timestamps": {
+        "start": "00:53",
+        "end": "02:48"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hank Jones",
+        "bassist": "Isla Eckinger",
+        "drummer": "Kurt Bong",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jonesh-theresasmallhotel-eckingeribongk-1977-4197b08b",
+    "tempo": 200.64498806954884,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.03255286883985464,
+        "drums": 0.0
+    }
+}

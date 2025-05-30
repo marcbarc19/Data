@@ -1,0 +1,60 @@
+{
+    "track_name": "Shiny Stockings",
+    "album_name": "Three Sundays in the Seventies Live at the Left Bank",
+    "recording_year": "1973",
+    "in_30_corpus": false,
+    "bandleader": "Cedar Walton",
+    "pianist": "Cedar Walton",
+    "channel_overrides": {},
+    "mbz_id": "1566af45-3c65-49cd-b14d-ced313db91db",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=210Eh5ZwUlo"
+        ]
+    },
+    "excerpt_duration": "01:54",
+    "timestamps": {
+        "start": "48:53",
+        "end": "50:47"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Cedar Walton",
+        "bassist": "Herbie Lewis",
+        "drummer": "Billy Higgins",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "waltonc-shinystockings-lewishhigginsb-1973-1566af45",
+    "tempo": 201.6839848647588,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.014841462221334756,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

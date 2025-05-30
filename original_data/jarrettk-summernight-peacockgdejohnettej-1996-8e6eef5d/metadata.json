@@ -1,0 +1,60 @@
+{
+    "track_name": "Summer Night",
+    "album_name": "Tokyo 96",
+    "recording_year": "1996",
+    "in_30_corpus": false,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "8e6eef5d-1116-4049-886a-8474b771f96d",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=kArrEQ_hG0s"
+        ]
+    },
+    "excerpt_duration": "01:12",
+    "timestamps": {
+        "start": "04:00",
+        "end": "05:12"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Gary Peacock",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-summernight-peacockgdejohnettej-1996-8e6eef5d",
+    "tempo": 125.88071391732214,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.01925199264255051,
+        "bass": 0.11097486204782336,
+        "drums": 0.0
+    }
+}

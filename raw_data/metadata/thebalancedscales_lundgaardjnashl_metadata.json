@@ -1,0 +1,60 @@
+{
+    "track_name": "The Balanced Scales",
+    "album_name": "Flanagans Shenanigans",
+    "recording_year": "1993",
+    "in_30_corpus": true,
+    "bandleader": "Tommy Flanagan",
+    "pianist": "Tommy Flanagan",
+    "channel_overrides": {},
+    "mbz_id": "c5831559-f3ea-4000-9e0a-ce38d3f90bac",
+    "notes": "ballad switches to double time",
+    "time_signature": 4,
+    "first_downbeat": 7.4,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=OHmV9yzLaDQ"
+        ]
+    },
+    "excerpt_duration": "02:00",
+    "timestamps": {
+        "start": "03:30",
+        "end": "05:30"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Tommy Flanagan",
+        "bassist": "Jesper Lundgaard",
+        "drummer": "Lewis Nash",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "flanagant-thebalancedscales-lundgaardjnashl-1993-c5831559",
+    "tempo": 199.56297649501406,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.015769956962166876,
+        "bass": 0.001993919980166736,
+        "drums": 9.674820222194125e-05
+    }
+}

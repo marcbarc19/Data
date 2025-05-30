@@ -1,0 +1,60 @@
+{
+    "track_name": "Turn Out The Stars",
+    "album_name": "Live In Paris 1972 Vol 1",
+    "recording_year": "1972",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {},
+    "mbz_id": "e755b790-693f-480d-9792-fc25c036ad51",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 3.64,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=J6T5y9APZuI"
+        ]
+    },
+    "excerpt_duration": "00:59",
+    "timestamps": {
+        "start": "13:02",
+        "end": "14:01"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Marty Morell",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-turnoutthestars-gomezemorellm-1972-e755b790",
+    "tempo": 143.12552666251716,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00019676747925490012,
+        "bass": 0.06014013533913176,
+        "drums": 0.0
+    }
+}

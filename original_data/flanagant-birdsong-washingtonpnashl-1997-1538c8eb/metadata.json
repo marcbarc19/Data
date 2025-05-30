@@ -1,0 +1,91 @@
+{
+    "track_name": "Birdsong",
+    "album_name": "Sunset and the Mockingbird",
+    "recording_year": "1997",
+    "in_30_corpus": true,
+    "bandleader": "Tommy Flanagan",
+    "pianist": "Tommy Flanagan",
+    "channel_overrides": {},
+    "mbz_id": "1538c8eb-ccd3-4df9-9680-2f866b90ebef",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 4.81,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=VnfuJqe6S-E"
+        ]
+    },
+    "excerpt_duration": "03:21",
+    "timestamps": {
+        "start": "00:40",
+        "end": "04:01"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Tommy Flanagan",
+        "bassist": "Peter Washington",
+        "drummer": "Lewis Nash",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "flanagant-birdsong-washingtonpnashl-1997-1538c8eb",
+    "tempo": 264.3735739963361,
+    "validation": {
+        "piano": {
+            "f_score": 0.9330004161464834,
+            "precision": 0.922633744855967,
+            "recall": 0.9436026936026936,
+            "mean_asynchrony": -0.004870246633363034,
+            "fraction_matched": 0.9436026936026936
+        },
+        "bass": {
+            "f_score": 0.9677784058790277,
+            "precision": 0.9705215419501134,
+            "recall": 0.9650507328072153,
+            "mean_asynchrony": -0.00031414902102768947,
+            "fraction_matched": 0.9650507328072153
+        },
+        "drums": {
+            "f_score": 0.9513725490196079,
+            "precision": 0.9657643312101911,
+            "recall": 0.9374034003091191,
+            "mean_asynchrony": -0.0021275561665292206,
+            "fraction_matched": 0.9374034003091191
+        },
+        "mix": {
+            "f_score": 0.9903900508762014,
+            "precision": 0.9898305084745763,
+            "recall": 0.9909502262443439,
+            "mean_asynchrony": -0.0034605607751140087,
+            "fraction_matched": 0.9909502262443439
+        },
+        "mix_downbeats": {
+            "f_score": 0.4072398190045249,
+            "precision": 0.4072398190045249,
+            "recall": 0.4072398190045249,
+            "mean_asynchrony": -0.0022721088444435447,
+            "fraction_matched": 0.4072398190045249
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 8.302200083021294e-05,
+        "bass": 0.026852202790261126,
+        "drums": 0.0
+    }
+}

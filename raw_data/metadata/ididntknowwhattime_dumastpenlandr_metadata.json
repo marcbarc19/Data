@@ -1,0 +1,60 @@
+{
+    "track_name": "I Didnt Know What Time It Was",
+    "album_name": "Charmed Circle Live at the Keystone Korner",
+    "recording_year": "1979",
+    "in_30_corpus": false,
+    "bandleader": "Cedar Walton",
+    "pianist": "Cedar Walton",
+    "channel_overrides": {},
+    "mbz_id": "28cbeeb4-b854-4037-bd3c-16b1061a5796",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=sRmd8i8r4_0"
+        ]
+    },
+    "excerpt_duration": "03:07",
+    "timestamps": {
+        "start": "01:11",
+        "end": "04:18"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Cedar Walton",
+        "bassist": "Tony Dumas",
+        "drummer": "Ralph Penland",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "waltonc-ididntknowwhattime-dumastpenlandr-1979-28cbeeb4",
+    "tempo": 135.9943818596669,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.014076357839407083,
+        "bass": 0.010728469947819952,
+        "drums": 0.00010863782235492891
+    }
+}

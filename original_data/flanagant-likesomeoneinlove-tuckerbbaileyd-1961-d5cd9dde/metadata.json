@@ -1,0 +1,63 @@
+{
+    "track_name": "Like Someone in Love",
+    "album_name": "Trio  Sextet",
+    "recording_year": "1961",
+    "in_30_corpus": true,
+    "bandleader": "Tommy Flanagan",
+    "pianist": "Tommy Flanagan",
+    "channel_overrides": {
+        "piano": "r",
+        "bass": "l"
+    },
+    "mbz_id": "d5cd9dde-f1fe-47ea-984d-de1bc72aa86b",
+    "notes": "approximate end of solo?",
+    "time_signature": 4,
+    "first_downbeat": 6.34,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=AP_uzlUIQLU"
+        ]
+    },
+    "excerpt_duration": "00:50",
+    "timestamps": {
+        "start": "34:57",
+        "end": "35:47"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Tommy Flanagan",
+        "bassist": "Ben Tucker",
+        "drummer": "Dave Bailey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "flanagant-likesomeoneinlove-tuckerbbaileyd-1961-d5cd9dde",
+    "tempo": 148.87558266878,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.020139328459315986,
+        "bass": 0.03453285427461961,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Waltz For Debby",
+    "album_name": "Live In Paris 1972 Vol 1",
+    "recording_year": "1972",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {},
+    "mbz_id": "3cb853ec-82a8-4258-981c-2036876a232b",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 5.93,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=J6T5y9APZuI"
+        ]
+    },
+    "excerpt_duration": "00:46",
+    "timestamps": {
+        "start": "40:23",
+        "end": "41:09"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Marty Morell",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-waltzfordebby-gomezemorellm-1972-3cb853ec",
+    "tempo": 211.74446790210334,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.4194013340931183,
+        "drums": 0.0
+    }
+}

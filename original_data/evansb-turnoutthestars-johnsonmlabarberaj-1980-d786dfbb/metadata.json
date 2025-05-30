@@ -1,0 +1,63 @@
+{
+    "track_name": "Turn Out the Stars",
+    "album_name": "The Last Waltz",
+    "recording_year": "1980",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "piano": "r",
+        "drums": "l"
+    },
+    "mbz_id": "d786dfbb-2d16-4559-a80e-8227e3e38e17",
+    "notes": "has annotations but not using",
+    "time_signature": 4,
+    "first_downbeat": 6.9,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=XL8Kw-74DKA"
+        ]
+    },
+    "excerpt_duration": "02:46",
+    "timestamps": {
+        "start": "00:26:44",
+        "end": "00:29:30"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Marc Johnson",
+        "drummer": "Joe LaBarbera",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-turnoutthestars-johnsonmlabarberaj-1980-d786dfbb",
+    "tempo": 172.618384780982,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 5.2451334995762267e-05,
+        "bass": 0.06430533670478855,
+        "drums": 0.0
+    }
+}

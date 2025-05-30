@@ -1,0 +1,63 @@
+{
+    "track_name": "Love Walked In",
+    "album_name": "Seven Classic Albums",
+    "recording_year": "1959",
+    "in_30_corpus": false,
+    "bandleader": "Sonny Clark",
+    "pianist": "Sonny Clark",
+    "channel_overrides": {
+        "bass": "l",
+        "drums": "r"
+    },
+    "mbz_id": "094c6354-f8bd-427a-8a67-3b3977566a90",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=451x2Eoapbw"
+        ]
+    },
+    "excerpt_duration": "03:19",
+    "timestamps": {
+        "start": "01:19",
+        "end": "04:38"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Sonny Clark",
+        "bassist": "Wilbur Ware",
+        "drummer": "Louis Hayes",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "clarks-lovewalkedin-warewhayesl-1959-094c6354",
+    "tempo": 153.7219300937701,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.1655680467897549,
+        "drums": 0.0
+    }
+}

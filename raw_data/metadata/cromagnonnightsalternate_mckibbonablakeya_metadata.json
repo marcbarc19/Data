@@ -1,0 +1,60 @@
+{
+    "track_name": "CroMagnon Nights alternate",
+    "album_name": "The Complete Blue Note Recordings",
+    "recording_year": "1955",
+    "in_30_corpus": false,
+    "bandleader": "Herbie Nichols",
+    "pianist": "Herbie Nichols",
+    "channel_overrides": {},
+    "mbz_id": "a60c0355-3f37-4b78-8f84-574e4d962f68",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=JAYf2_0P24w"
+        ]
+    },
+    "excerpt_duration": "01:39",
+    "timestamps": {
+        "start": "36:29",
+        "end": "38:08"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Herbie Nichols",
+        "bassist": "Al McKibbon",
+        "drummer": "Art Blakey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "nicholsh-cromagnonnightsalternate-mckibbonablakeya-1955-a60c0355",
+    "tempo": 242.8942043097244,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00015368463542497768,
+        "bass": 0.021034427209957185,
+        "drums": 0.0
+    }
+}

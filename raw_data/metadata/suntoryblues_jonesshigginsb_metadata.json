@@ -1,0 +1,60 @@
+{
+    "track_name": "Suntory Blues",
+    "album_name": "Pit Inn",
+    "recording_year": "1974",
+    "in_30_corpus": false,
+    "bandleader": "Cedar Walton",
+    "pianist": "Cedar Walton",
+    "channel_overrides": {},
+    "mbz_id": "c4b26116-e9b0-435f-8efd-89501fc114f3",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Bz2gU3rjVKQ"
+        ]
+    },
+    "excerpt_duration": "02:47",
+    "timestamps": {
+        "start": "27:46",
+        "end": "30:33"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Cedar Walton",
+        "bassist": "Sam Jones",
+        "drummer": "Billy Higgins",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "waltonc-suntoryblues-jonesshigginsb-1974-c4b26116",
+    "tempo": 183.98844012333242,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.018525498493954795,
+        "bass": 0.05465863876961574,
+        "drums": 0.0
+    }
+}

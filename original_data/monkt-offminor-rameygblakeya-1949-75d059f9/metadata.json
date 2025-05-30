@@ -1,0 +1,60 @@
+{
+    "track_name": "Off Minor",
+    "album_name": "The Complete Genius",
+    "recording_year": "1949",
+    "in_30_corpus": false,
+    "bandleader": "Thelonious Monk",
+    "pianist": "Thelonious Monk",
+    "channel_overrides": {},
+    "mbz_id": "75d059f9-0649-4376-bb67-261c48bec246",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=NYj61DQzaQs"
+        ]
+    },
+    "excerpt_duration": "01:58",
+    "timestamps": {
+        "start": "00:44",
+        "end": "02:42"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Thelonious Monk",
+        "bassist": "Gene Ramey",
+        "drummer": "Art Blakey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "monkt-offminor-rameygblakeya-1949-75d059f9",
+    "tempo": 179.00937155460156,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.01868863237419449,
+        "bass": 0.017516328517997004,
+        "drums": 0.0
+    }
+}

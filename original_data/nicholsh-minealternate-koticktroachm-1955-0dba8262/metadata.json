@@ -1,0 +1,60 @@
+{
+    "track_name": "Mine alternate",
+    "album_name": "The Complete Blue Note Recordings",
+    "recording_year": "1955",
+    "in_30_corpus": false,
+    "bandleader": "Herbie Nichols",
+    "pianist": "Herbie Nichols",
+    "channel_overrides": {},
+    "mbz_id": "0dba8262-ecb4-47c7-9bfa-55af9d9e6708",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=JAYf2_0P24w"
+        ]
+    },
+    "excerpt_duration": "02:09",
+    "timestamps": {
+        "start": "02:51:15",
+        "end": "02:53:24"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Herbie Nichols",
+        "bassist": "Teddy Kotick",
+        "drummer": "Max Roach",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "nicholsh-minealternate-koticktroachm-1955-0dba8262",
+    "tempo": 147.21030547892065,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.22069153149527654,
+        "drums": 0.0
+    }
+}

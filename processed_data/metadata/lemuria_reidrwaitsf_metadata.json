@@ -1,0 +1,60 @@
+{
+    "track_name": "Le Muria",
+    "album_name": "Autumn in New York",
+    "recording_year": "1984",
+    "in_30_corpus": true,
+    "bandleader": "Kenny Barron",
+    "pianist": "Kenny Barron",
+    "channel_overrides": {},
+    "mbz_id": "cc871405-8b3a-4994-8dfb-7c9ea4f4ff00",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Qsxrr90ChPw"
+        ]
+    },
+    "excerpt_duration": "02:57",
+    "timestamps": {
+        "start": "38:18",
+        "end": "41:15"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Barron",
+        "bassist": "Rufus Reid",
+        "drummer": "Freddie Waits",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "barronk-lemuria-reidrwaitsf-1984-cc871405",
+    "tempo": 173.6982684338842,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.011510614422086562,
+        "bass": 0.08373890007634799,
+        "drums": 0.0
+    }
+}

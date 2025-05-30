@@ -1,0 +1,64 @@
+{
+    "track_name": "But Not for Me",
+    "album_name": "Crossings",
+    "recording_year": "1977",
+    "in_30_corpus": false,
+    "bandleader": "Red Garland",
+    "pianist": "Red Garland",
+    "channel_overrides": {
+        "piano": "r",
+        "bass": "l",
+        "drums": "l"
+    },
+    "mbz_id": "de537ef9-3006-4dd8-8f39-d7ceb437dc1c",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=nWrYjUF4Q7o"
+        ]
+    },
+    "excerpt_duration": "01:53",
+    "timestamps": {
+        "start": "24:04",
+        "end": "25:57"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Red Garland",
+        "bassist": "Ron Carter",
+        "drummer": "Philly Joe Jones",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "garlandr-butnotforme-carterrjoep-1977-de537ef9",
+    "tempo": 201.82133740198404,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.3408592398191208,
+        "bass": 0.05830326186938373,
+        "drums": 0.0
+    }
+}

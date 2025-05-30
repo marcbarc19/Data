@@ -1,0 +1,64 @@
+{
+    "track_name": "Autumn Leaves Take 2",
+    "album_name": "Seven Classic Albums",
+    "recording_year": "1960",
+    "in_30_corpus": true,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "r",
+        "piano": "l",
+        "drums": "l"
+    },
+    "mbz_id": "5b35a288-1203-414c-9675-5409a6195046",
+    "notes": "drums fades out at end so cut before",
+    "time_signature": 4,
+    "first_downbeat": 0.846,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=C1mMsz2I1c8"
+        ]
+    },
+    "excerpt_duration": "02:23",
+    "timestamps": {
+        "start": "02:02",
+        "end": "04:25"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Scott LaFaro",
+        "drummer": "Paul Motian",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-autumnleavestake2-lafarosmotianp-1960-5b35a288",
+    "tempo": 204.25026488003823,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.02168683042817965,
+        "bass": 0.10458223335438477,
+        "drums": 0.002506385511772513
+    }
+}

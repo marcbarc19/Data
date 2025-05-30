@@ -1,0 +1,64 @@
+{
+    "track_name": "Go Down Moses",
+    "album_name": "The Sermon",
+    "recording_year": "1958",
+    "in_30_corpus": false,
+    "bandleader": "Hampton Hawes",
+    "pianist": "Hampton Hawes",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "a55921e1-9496-4480-a396-5c851946f581",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=NNtl1NdvfhU"
+        ]
+    },
+    "excerpt_duration": "02:00",
+    "timestamps": {
+        "start": "01:25",
+        "end": "03:25"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hampton Hawes",
+        "bassist": "Leroy Vinnegar",
+        "drummer": "Stan Levey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hawesh-godownmoses-vinnegarlleveys-1958-a55921e1",
+    "tempo": 114.50622767284801,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.04505785281373509,
+        "bass": 0.017945747068057516,
+        "drums": 0.0
+    }
+}

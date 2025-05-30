@@ -1,0 +1,91 @@
+{
+    "track_name": "Between the Devil and the Deep Blue Sea",
+    "album_name": "Somewhere",
+    "recording_year": "2009",
+    "in_30_corpus": true,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "7e485343-1cb9-4798-acc0-c35320949854",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 19.87,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=ahMOpi36CK8"
+        ]
+    },
+    "excerpt_duration": "03:57",
+    "timestamps": {
+        "start": "01:29",
+        "end": "05:26"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Gary Peacock",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-betweenthedevilandthe-peacockgdejohnettej-2009-7e485343",
+    "tempo": 163.08463230880886,
+    "validation": {
+        "piano": {
+            "f_score": 0.9490639965171964,
+            "precision": 0.9284497444633731,
+            "recall": 0.9706144256455922,
+            "mean_asynchrony": -0.005071189328440337,
+            "fraction_matched": 0.9706144256455922
+        },
+        "bass": {
+            "f_score": 0.8811630847029077,
+            "precision": 0.8438256658595642,
+            "recall": 0.921957671957672,
+            "mean_asynchrony": -0.0009488022797701905,
+            "fraction_matched": 0.921957671957672
+        },
+        "drums": {
+            "f_score": 0.9764507989907486,
+            "precision": 0.9805743243243243,
+            "recall": 0.9723618090452262,
+            "mean_asynchrony": -0.003493606464254872,
+            "fraction_matched": 0.9723618090452262
+        },
+        "mix": {
+            "f_score": 0.9984472049689441,
+            "precision": 0.9984472049689441,
+            "recall": 0.9984472049689441,
+            "mean_asynchrony": -0.0016716920046652172,
+            "fraction_matched": 0.9984472049689441
+        },
+        "mix_downbeats": {
+            "f_score": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "mean_asynchrony": NaN,
+            "fraction_matched": 0.0
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.019214585450140875,
+        "bass": 0.06420437693622127,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Darn That Dream",
+    "album_name": "Live at Sweet Basil",
+    "recording_year": "1989",
+    "in_30_corpus": false,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "6cc187a8-1169-4f44-8bb3-d27525c189ae",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=vsH_qtx7IXw"
+        ]
+    },
+    "excerpt_duration": "01:54",
+    "timestamps": {
+        "start": "24:36",
+        "end": "26:30"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "Avery Sharpe",
+        "drummer": "Aaron Scott",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-darnthatdream-sharpeascotta-1989-6cc187a8",
+    "tempo": 162.4728385700842,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.13722039594066937,
+        "drums": 0.0
+    }
+}

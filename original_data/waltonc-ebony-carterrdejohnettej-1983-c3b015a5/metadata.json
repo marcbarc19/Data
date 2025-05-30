@@ -1,0 +1,60 @@
+{
+    "track_name": "Ebony",
+    "album_name": "Walton Carter  DeJohnette",
+    "recording_year": "1983",
+    "in_30_corpus": false,
+    "bandleader": "Cedar Walton",
+    "pianist": "Cedar Walton",
+    "channel_overrides": {},
+    "mbz_id": "c3b015a5-9d6e-4ca5-914c-27694d3b6061",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=GCcGKSU7S1o"
+        ]
+    },
+    "excerpt_duration": "00:52",
+    "timestamps": {
+        "start": "19:17",
+        "end": "20:09"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Cedar Walton",
+        "bassist": "Ron Carter",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "waltonc-ebony-carterrdejohnettej-1983-c3b015a5",
+    "tempo": 139.47746092803087,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.17617784659702196,
+        "bass": 0.009784073808639326,
+        "drums": 0.0
+    }
+}

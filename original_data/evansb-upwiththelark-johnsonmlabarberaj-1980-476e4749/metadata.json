@@ -1,0 +1,63 @@
+{
+    "track_name": "Up With the Lark",
+    "album_name": "The Last Waltz",
+    "recording_year": "1980",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "piano": "r",
+        "drums": "l"
+    },
+    "mbz_id": "476e4749-460f-4273-ae90-7f829344ca02",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": 17.28,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=XL8Kw-74DKA"
+        ]
+    },
+    "excerpt_duration": "00:43",
+    "timestamps": {
+        "start": "03:05:43",
+        "end": "03:06:26"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Marc Johnson",
+        "drummer": "Joe LaBarbera",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-upwiththelark-johnsonmlabarberaj-1980-476e4749",
+    "tempo": 229.79520139029344,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.06540102632028522,
+        "drums": 0.0
+    }
+}

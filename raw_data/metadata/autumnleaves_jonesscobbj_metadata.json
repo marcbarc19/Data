@@ -1,0 +1,63 @@
+{
+    "track_name": "Autumn Leaves",
+    "album_name": "Takin Charge",
+    "recording_year": "1961",
+    "in_30_corpus": false,
+    "bandleader": "Wynton Kelly",
+    "pianist": "Wynton Kelly",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r"
+    },
+    "mbz_id": "1eaac3af-18b4-4495-a33d-10c6c2948fa4",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=W1NHOuyWabA"
+        ]
+    },
+    "excerpt_duration": "02:00",
+    "timestamps": {
+        "start": "01:00",
+        "end": "03:00"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Wynton Kelly",
+        "bassist": "Sam Jones",
+        "drummer": "Jimmy Cobb",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "kellyw-autumnleaves-jonesscobbj-1961-1eaac3af",
+    "tempo": 127.751782252635,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.010207012483635869,
+        "bass": 0.18392274597660496,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Not Too Straight",
+    "album_name": "Impressions of Mary Lou",
+    "recording_year": "1998",
+    "in_30_corpus": true,
+    "bandleader": "John Hicks",
+    "pianist": "John Hicks",
+    "channel_overrides": {},
+    "mbz_id": "28891600-ef1e-4621-adab-20bea7f01c19",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 9.79,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=bTa53F46oBs"
+        ]
+    },
+    "excerpt_duration": "02:03",
+    "timestamps": {
+        "start": "00:26",
+        "end": "02:29"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "John Hicks",
+        "bassist": "Dwayne Dolphin",
+        "drummer": "Cecil Brooks III",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hicksj-nottoostraight-dolphindbrooksc-1998-28891600",
+    "tempo": 231.04044339713124,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

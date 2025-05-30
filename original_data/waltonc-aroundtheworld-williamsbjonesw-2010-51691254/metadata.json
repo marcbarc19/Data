@@ -1,0 +1,60 @@
+{
+    "track_name": "Around the World",
+    "album_name": "Song of Delilah  The Music of Victor Young",
+    "recording_year": "2010",
+    "in_30_corpus": false,
+    "bandleader": "Cedar Walton",
+    "pianist": "Cedar Walton",
+    "channel_overrides": {},
+    "mbz_id": "51691254-67e6-4c23-85a4-2072246e8a26",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Ga-08FOD9SU"
+        ]
+    },
+    "excerpt_duration": "00:49",
+    "timestamps": {
+        "start": "01:56",
+        "end": "02:45"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Cedar Walton",
+        "bassist": "Buster Williams",
+        "drummer": "Willie Jones III",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "waltonc-aroundtheworld-williamsbjonesw-2010-51691254",
+    "tempo": 156.86330071873823,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.06997682494317303,
+        "drums": 0.0
+    }
+}

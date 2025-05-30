@@ -1,0 +1,60 @@
+{
+    "track_name": "Volga Boatman",
+    "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+    "recording_year": "1960",
+    "in_30_corpus": false,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {},
+    "mbz_id": "9e695715-c8bf-4685-9558-1c2810cd5243",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Tv_omvX2imM"
+        ]
+    },
+    "excerpt_duration": "02:10",
+    "timestamps": {
+        "start": "01:00",
+        "end": "03:10"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Israel Crosby",
+        "drummer": "Walter Perkins",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-volgaboatman-crosbyiperkinsw-1960-9e695715",
+    "tempo": 172.59894693775266,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.1661032774068718,
+        "bass": 0.07850140331734112,
+        "drums": 0.0
+    }
+}

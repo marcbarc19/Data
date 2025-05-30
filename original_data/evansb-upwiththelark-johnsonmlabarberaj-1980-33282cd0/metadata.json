@@ -1,0 +1,60 @@
+{
+    "track_name": "Up With the Lark",
+    "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+    "recording_year": "1980",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {},
+    "mbz_id": "33282cd0-9da1-4ab5-9436-c0eb39a93f44",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": 10.44,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=EyucFAkWUic"
+        ]
+    },
+    "excerpt_duration": "00:40",
+    "timestamps": {
+        "start": "02:00",
+        "end": "02:40"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Marc Johnson",
+        "drummer": "Joe LaBarbera",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-upwiththelark-johnsonmlabarberaj-1980-33282cd0",
+    "tempo": 241.66397250092905,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.02248943540635151,
+        "bass": 0.04151477229446654,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "track_name": "Ralphs New Blues",
+    "album_name": "The Soulful Piano of Junior Mance",
+    "recording_year": "1960",
+    "in_30_corpus": true,
+    "bandleader": "Junior Mance",
+    "pianist": "Junior Mance",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "7dfd6f62-eb98-4ab1-a82a-faffdc919479",
+    "notes": "brushes until quite a way through solo",
+    "time_signature": 4,
+    "first_downbeat": 12.6,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=0Vcr9J50bA4"
+        ]
+    },
+    "excerpt_duration": "01:01",
+    "timestamps": {
+        "start": "02:23",
+        "end": "03:24"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Junior Mance",
+        "bassist": "Ben Tucker",
+        "drummer": "Bobby Thomas",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "mancej-ralphsnewblues-tuckerbthomasb-1960-7dfd6f62",
+    "tempo": 124.89701721946874,
+    "validation": {
+        "piano": {
+            "f_score": 0.9094138543516873,
+            "precision": 0.9446494464944649,
+            "recall": 0.8767123287671232,
+            "mean_asynchrony": -0.005314625851562285,
+            "fraction_matched": 0.8767123287671232
+        },
+        "bass": {
+            "f_score": 0.9518716577540107,
+            "precision": 0.9417989417989417,
+            "recall": 0.9621621621621622,
+            "mean_asynchrony": -0.00961272897191016,
+            "fraction_matched": 0.9621621621621622
+        },
+        "drums": {
+            "f_score": 0.9665071770334929,
+            "precision": 0.9805825242718447,
+            "recall": 0.9528301886792453,
+            "mean_asynchrony": -0.0024534698168318676,
+            "fraction_matched": 0.9528301886792453
+        },
+        "mix": {
+            "f_score": 0.9881422924901185,
+            "precision": 0.9920634920634921,
+            "recall": 0.984251968503937,
+            "mean_asynchrony": -0.003900770959999951,
+            "fraction_matched": 0.984251968503937
+        },
+        "mix_downbeats": {
+            "f_score": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "mean_asynchrony": NaN,
+            "fraction_matched": 0.0
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.039771586923782465,
+        "bass": 0.0797334685218416,
+        "drums": 0.0
+    }
+}

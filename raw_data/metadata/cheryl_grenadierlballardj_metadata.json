@@ -1,0 +1,60 @@
+{
+    "track_name": "Cheryl",
+    "album_name": "Blues and Ballads",
+    "recording_year": "2013",
+    "in_30_corpus": false,
+    "bandleader": "Brad Mehldau",
+    "pianist": "Brad Mehldau",
+    "channel_overrides": {},
+    "mbz_id": "5b112407-6868-461b-bd86-1a7d2bbee935",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=ECE_rhDZc6w"
+        ]
+    },
+    "excerpt_duration": "03:13",
+    "timestamps": {
+        "start": "02:04",
+        "end": "05:17"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Brad Mehldau",
+        "bassist": "Larry Grenadier",
+        "drummer": "Jeff Ballard",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "mehldaub-cheryl-grenadierlballardj-2013-5b112407",
+    "tempo": 134.274696685612,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.13554454086993462,
+        "bass": 0.061787499271639845,
+        "drums": 0.0
+    }
+}

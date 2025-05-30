@@ -1,0 +1,60 @@
+{
+    "track_name": "Fly Me to the Moon",
+    "album_name": "In Tokyo 1964",
+    "recording_year": "1962",
+    "in_30_corpus": false,
+    "bandleader": "Oscar Peterson",
+    "pianist": "Oscar Peterson",
+    "channel_overrides": {},
+    "mbz_id": "3068adf1-fd6a-46b2-abe7-50ccce03d613",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=_mxcUlw5fRk"
+        ]
+    },
+    "excerpt_duration": "02:00",
+    "timestamps": {
+        "start": "01:16:45",
+        "end": "01:18:45"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Oscar Peterson",
+        "bassist": "Ray Brown",
+        "drummer": "Ed Thigpen",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "petersono-flymetothemoon-brownrthigpene-1962-3068adf1",
+    "tempo": 192.63559807051993,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 9.674549661053966e-05,
+        "bass": 0.09468965480753322,
+        "drums": 0.007159166749177381
+    }
+}

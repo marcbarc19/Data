@@ -1,0 +1,60 @@
+{
+    "track_name": "Sonnymoon for Two",
+    "album_name": "Is That So",
+    "recording_year": "1990",
+    "in_30_corpus": true,
+    "bandleader": "John Hicks",
+    "pianist": "John Hicks",
+    "channel_overrides": {},
+    "mbz_id": "f9e230ce-b4c4-4f0b-b86c-191067b7cdab",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 14.86,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=RIPuRPddDG4"
+        ]
+    },
+    "excerpt_duration": "02:45",
+    "timestamps": {
+        "start": "00:31",
+        "end": "03:16"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "John Hicks",
+        "bassist": "Ray Drummond",
+        "drummer": "Idris Muhammad",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hicksj-sonnymoonfortwo-drummondrmuhammadi-1990-f9e230ce",
+    "tempo": 190.08385351878016,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.018889982669891947,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

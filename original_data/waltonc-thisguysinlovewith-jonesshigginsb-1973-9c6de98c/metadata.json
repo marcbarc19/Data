@@ -1,0 +1,60 @@
+{
+    "track_name": "This Guys in Love With You",
+    "album_name": "Three Sundays in the Seventies Live at the Left Bank",
+    "recording_year": "1973",
+    "in_30_corpus": false,
+    "bandleader": "Cedar Walton",
+    "pianist": "Cedar Walton",
+    "channel_overrides": {},
+    "mbz_id": "9c6de98c-30b4-4ed9-8efd-9ccb28aa298b",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=210Eh5ZwUlo"
+        ]
+    },
+    "excerpt_duration": "02:57",
+    "timestamps": {
+        "start": "21:05",
+        "end": "24:02"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Cedar Walton",
+        "bassist": "Sam Jones",
+        "drummer": "Billy Higgins",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "waltonc-thisguysinlovewith-jonesshigginsb-1973-9c6de98c",
+    "tempo": 130.38774487125718,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.20880897489965333,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "track_name": "Like Someone in Love",
+    "album_name": "The Complete Blue Note and Roost Recordings",
+    "recording_year": "1953",
+    "in_30_corpus": true,
+    "bandleader": "Bud Powell",
+    "pianist": "Bud Powell",
+    "channel_overrides": {
+        "drums": "l",
+        "piano": "r",
+        "bass": "r"
+    },
+    "mbz_id": "cebd562d-6606-40b5-8d58-01c96609470c",
+    "notes": "-- recording date 1963",
+    "time_signature": 4,
+    "first_downbeat": 7.06,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=it5eqn56BDU"
+        ]
+    },
+    "excerpt_duration": "01:49",
+    "timestamps": {
+        "start": "02:05",
+        "end": "03:54"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bud Powell",
+        "bassist": "Pierre Michelot",
+        "drummer": "Kenny Clarke",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "powellb-likesomeoneinlove-michelotpclarkek-1953-cebd562d",
+    "tempo": 140.82392970251234,
+    "validation": {
+        "piano": {
+            "f_score": 0.9470588235294118,
+            "precision": 0.9387755102040817,
+            "recall": 0.9554896142433235,
+            "mean_asynchrony": -0.006785326968944222,
+            "fraction_matched": 0.9554896142433235
+        },
+        "bass": {
+            "f_score": 0.945017182130584,
+            "precision": 0.9228187919463087,
+            "recall": 0.9683098591549296,
+            "mean_asynchrony": -0.009346856316364121,
+            "fraction_matched": 0.9683098591549296
+        },
+        "drums": {
+            "f_score": 0.9517601043024772,
+            "precision": 1.0,
+            "recall": 0.9079601990049752,
+            "mean_asynchrony": -0.004522101095889916,
+            "fraction_matched": 0.9079601990049752
+        },
+        "mix": {
+            "f_score": 0.93359375,
+            "precision": 0.93359375,
+            "recall": 0.93359375,
+            "mean_asynchrony": -0.0023103635104602255,
+            "fraction_matched": 0.93359375
+        },
+        "mix_downbeats": {
+            "f_score": 0.921875,
+            "precision": 0.921875,
+            "recall": 0.921875,
+            "mean_asynchrony": -0.000562665796609412,
+            "fraction_matched": 0.921875
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.000708079175066878,
+        "bass": -2.220446049250313e-16,
+        "drums": 0.0
+    }
+}

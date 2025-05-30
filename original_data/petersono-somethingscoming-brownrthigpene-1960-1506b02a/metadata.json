@@ -1,0 +1,63 @@
+{
+    "track_name": "Somethings Coming",
+    "album_name": "West Side Story  Oscar Peterson Plays Porgy  Bess",
+    "recording_year": "1960",
+    "in_30_corpus": false,
+    "bandleader": "Oscar Peterson",
+    "pianist": "Oscar Peterson",
+    "channel_overrides": {
+        "bass": "r",
+        "drums": "l"
+    },
+    "mbz_id": "1506b02a-ad43-4cf1-bb87-92768bec2885",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=3nYM7wWM4Fc"
+        ]
+    },
+    "excerpt_duration": "01:08",
+    "timestamps": {
+        "start": "01:52",
+        "end": "03:00"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Oscar Peterson",
+        "bassist": "Ray Brown",
+        "drummer": "Ed Thigpen",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "petersono-somethingscoming-brownrthigpene-1960-1506b02a",
+    "tempo": 194.85891319918375,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0007365365452103312,
+        "bass": 0.09089727481478282,
+        "drums": 0.0
+    }
+}

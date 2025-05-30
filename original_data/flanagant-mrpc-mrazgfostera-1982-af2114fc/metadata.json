@@ -1,0 +1,60 @@
+{
+    "track_name": "Mr PC",
+    "album_name": "Giant Steps In Memory of John Coltrane",
+    "recording_year": "1982",
+    "in_30_corpus": true,
+    "bandleader": "Tommy Flanagan",
+    "pianist": "Tommy Flanagan",
+    "channel_overrides": {},
+    "mbz_id": "af2114fc-f3d6-41e0-acfc-a81a45ccf756",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 6.43,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Kv9KzJHemik"
+        ]
+    },
+    "excerpt_duration": "02:56",
+    "timestamps": {
+        "start": "00:24",
+        "end": "03:20"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Tommy Flanagan",
+        "bassist": "George Mraz",
+        "drummer": "Al Foster",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "flanagant-mrpc-mrazgfostera-1982-af2114fc",
+    "tempo": 259.4251045501475,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.054350649082956504,
+        "bass": 0.012878597370688305,
+        "drums": 0.0
+    }
+}

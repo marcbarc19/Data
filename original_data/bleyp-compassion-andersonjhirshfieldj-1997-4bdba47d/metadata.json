@@ -1,0 +1,60 @@
+{
+    "track_name": "Compassion",
+    "album_name": "Notes on Ornette",
+    "recording_year": "1997",
+    "in_30_corpus": false,
+    "bandleader": "Paul Bley",
+    "pianist": "Paul Bley",
+    "channel_overrides": {},
+    "mbz_id": "4bdba47d-7c38-4f4a-a1d7-eaebcd54fc6e",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=GsODNbW0qjw"
+        ]
+    },
+    "excerpt_duration": "04:35",
+    "timestamps": {
+        "start": "00:45",
+        "end": "05:20"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Paul Bley",
+        "bassist": "Jay Anderson",
+        "drummer": "Jeff Hirshfield",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "bleyp-compassion-andersonjhirshfieldj-1997-4bdba47d",
+    "tempo": 160.0989593116427,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.011726323989542431,
+        "bass": 0.05464786892901774,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Misty",
+    "album_name": "Nightwind An Erroll Garner Songbook",
+    "recording_year": "1997",
+    "in_30_corpus": false,
+    "bandleader": "John Hicks",
+    "pianist": "John Hicks",
+    "channel_overrides": {},
+    "mbz_id": "41d1a26b-ee45-4461-a230-4a8eda4118c2",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=h4lV58BWCgs"
+        ]
+    },
+    "excerpt_duration": "02:50",
+    "timestamps": {
+        "start": "01:50",
+        "end": "04:40"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "John Hicks",
+        "bassist": "Dwayne Dolphin",
+        "drummer": "Cecil Brooks III",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hicksj-misty-dolphindbrooksc-1997-41d1a26b",
+    "tempo": 197.18286126815553,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.03208892237005401,
+        "bass": 0.038140073860113866,
+        "drums": 0.0
+    }
+}

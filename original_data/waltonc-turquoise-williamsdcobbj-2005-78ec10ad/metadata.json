@@ -1,0 +1,60 @@
+{
+    "track_name": "Turquoise",
+    "album_name": "Midnight Waltz",
+    "recording_year": "2005",
+    "in_30_corpus": false,
+    "bandleader": "Cedar Walton",
+    "pianist": "Cedar Walton",
+    "channel_overrides": {},
+    "mbz_id": "78ec10ad-5d88-42a7-9916-00b09190072f",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=6YDmZ_OOw1U"
+        ]
+    },
+    "excerpt_duration": "01:52",
+    "timestamps": {
+        "start": "00:53",
+        "end": "02:45"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Cedar Walton",
+        "bassist": "David Williams",
+        "drummer": "Jimmy Cobb",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "waltonc-turquoise-williamsdcobbj-2005-78ec10ad",
+    "tempo": 182.118150783726,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.009199788469652526,
+        "drums": 0.0
+    }
+}

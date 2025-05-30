@@ -1,0 +1,64 @@
+{
+    "track_name": "Raincheck",
+    "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+    "recording_year": "1959",
+    "in_30_corpus": false,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "7aad195e-fccb-479f-b7e0-25b09e2a48dd",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=HbHsyCXA6QY"
+        ]
+    },
+    "excerpt_duration": "02:14",
+    "timestamps": {
+        "start": "01:13",
+        "end": "03:27"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Israel Crosby",
+        "drummer": "Vernell Fournier",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-raincheck-crosbyifournierv-1959-7aad195e",
+    "tempo": 184.8413776139166,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.24289383822419564,
+        "bass": 1,
+        "drums": 0.0
+    }
+}

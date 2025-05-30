@@ -1,0 +1,64 @@
+{
+    "track_name": "Beautiful Love take 1",
+    "album_name": "The Complete Riverside Recordings",
+    "recording_year": "1961",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "fab8e8ee-6599-4092-8c35-26a4642267c7",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 2.393,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=vlXv2wrfDxg"
+        ]
+    },
+    "excerpt_duration": "01:25",
+    "timestamps": {
+        "start": "02:10",
+        "end": "03:35"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Scott LaFaro",
+        "drummer": "Paul Motian",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-beautifullovetake1-lafarosmotianp-1961-fab8e8ee",
+    "tempo": 179.0804942982606,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.017136272951318032,
+        "bass": 0.09415881618674704,
+        "drums": 0.0
+    }
+}

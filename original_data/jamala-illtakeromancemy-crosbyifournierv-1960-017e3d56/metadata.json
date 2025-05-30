@@ -1,0 +1,64 @@
+{
+    "track_name": "Ill Take Romance  My Funny Valentine",
+    "album_name": "The Complete Collection Part Two 1959  1962",
+    "recording_year": "1960",
+    "in_30_corpus": false,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "017e3d56-76b7-4772-9ac2-1d2c3a0d8675",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=hM7dxysr9wE"
+        ]
+    },
+    "excerpt_duration": "04:15",
+    "timestamps": {
+        "start": "01:00",
+        "end": "05:15"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Israel Crosby",
+        "drummer": "Vernell Fournier",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-illtakeromancemy-crosbyifournierv-1960-017e3d56",
+    "tempo": 143.79482670385457,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.2800549687586602,
+        "bass": 0.4732598702348745,
+        "drums": 0.0
+    }
+}

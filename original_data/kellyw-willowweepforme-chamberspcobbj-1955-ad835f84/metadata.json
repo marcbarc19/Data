@@ -1,0 +1,63 @@
+{
+    "track_name": "Willow Weep for Me",
+    "album_name": "Six Classic Albums",
+    "recording_year": "1955",
+    "in_30_corpus": false,
+    "bandleader": "Wynton Kelly",
+    "pianist": "Wynton Kelly",
+    "channel_overrides": {
+        "bass": "r",
+        "piano": "l"
+    },
+    "mbz_id": "ad835f84-3eeb-4281-bc86-04a2fbb77cd1",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=4M0RNjPpQc4"
+        ]
+    },
+    "excerpt_duration": "02:08",
+    "timestamps": {
+        "start": "01:44",
+        "end": "03:52"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Wynton Kelly",
+        "bassist": "Paul Chambers",
+        "drummer": "Jimmy Cobb",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "kellyw-willowweepforme-chamberspcobbj-1955-ad835f84",
+    "tempo": 149.9396680745081,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.041826560631224474,
+        "bass": 0.07321206899483623,
+        "drums": 0.0
+    }
+}

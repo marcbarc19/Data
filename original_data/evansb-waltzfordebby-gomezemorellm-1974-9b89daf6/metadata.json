@@ -1,0 +1,64 @@
+{
+    "track_name": "Waltz for Debby",
+    "album_name": "Live in Europe II",
+    "recording_year": "1974",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "9b89daf6-cbf2-4cd2-be87-9054961a2885",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 4.04,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=hVAHwRWcbrU"
+        ]
+    },
+    "excerpt_duration": "01:18",
+    "timestamps": {
+        "start": "02:52",
+        "end": "04:10"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Marty Morell",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-waltzfordebby-gomezemorellm-1974-9b89daf6",
+    "tempo": 226.95048715456878,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.03054699018198903,
+        "bass": 0.11320710840739845,
+        "drums": 0.0
+    }
+}

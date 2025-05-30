@@ -1,0 +1,64 @@
+{
+    "track_name": "Whisper Not",
+    "album_name": "The London House Sessions",
+    "recording_year": "1961",
+    "in_30_corpus": false,
+    "bandleader": "Oscar Peterson",
+    "pianist": "Oscar Peterson",
+    "channel_overrides": {
+        "bass": "r",
+        "piano": "l",
+        "drums": "l"
+    },
+    "mbz_id": "aa3ac076-266b-4a61-94df-f44f99de87ed",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=XMtgNKMkwiI"
+        ]
+    },
+    "excerpt_duration": "01:54",
+    "timestamps": {
+        "start": "03:18",
+        "end": "05:12"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Oscar Peterson",
+        "bassist": "Ray Brown",
+        "drummer": "Ed Thigpen",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "petersono-whispernot-brownrthigpene-1961-aa3ac076",
+    "tempo": 116.25379005069257,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.010811053724645525,
+        "bass": 0.009193247585328135,
+        "drums": 0.0
+    }
+}

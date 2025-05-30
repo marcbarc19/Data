@@ -1,0 +1,91 @@
+{
+    "track_name": "SeeSaw",
+    "album_name": "Since We Met",
+    "recording_year": "1973",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {},
+    "mbz_id": "166c480f-4084-491d-a32a-8c899b0e9940",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 13.41,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=PB8Zdtxwqu4"
+        ]
+    },
+    "excerpt_duration": "01:36",
+    "timestamps": {
+        "start": "02:33",
+        "end": "04:09"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Marty Morell",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-seesaw-gomezemorellm-1973-166c480f",
+    "tempo": 262.3646371525096,
+    "validation": {
+        "piano": {
+            "f_score": 0.911690496215307,
+            "precision": 0.9003322259136213,
+            "recall": 0.9233390119250426,
+            "mean_asynchrony": -0.0005791098690035499,
+            "fraction_matched": 0.9233390119250426
+        },
+        "bass": {
+            "f_score": 0.9309576837416481,
+            "precision": 0.9247787610619469,
+            "recall": 0.9372197309417041,
+            "mean_asynchrony": 0.0017736440550238178,
+            "fraction_matched": 0.9372197309417041
+        },
+        "drums": {
+            "f_score": 0.9378531073446328,
+            "precision": 0.9651162790697675,
+            "recall": 0.9120879120879121,
+            "mean_asynchrony": -0.007049240058233127,
+            "fraction_matched": 0.9120879120879121
+        },
+        "mix": {
+            "f_score": 0.973365617433414,
+            "precision": 0.9710144927536232,
+            "recall": 0.9757281553398058,
+            "mean_asynchrony": -0.010069211763681578,
+            "fraction_matched": 0.9757281553398058
+        },
+        "mix_downbeats": {
+            "f_score": 0.927536231884058,
+            "precision": 0.9230769230769231,
+            "recall": 0.9320388349514563,
+            "mean_asynchrony": -0.009755054822916867,
+            "fraction_matched": 0.9320388349514563
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.0076508157751535855,
+        "bass": 0.10220244971216386,
+        "drums": 0.0
+    }
+}

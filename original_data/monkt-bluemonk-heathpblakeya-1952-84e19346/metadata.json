@@ -1,0 +1,60 @@
+{
+    "track_name": "Blue Monk",
+    "album_name": "The High Priest",
+    "recording_year": "1952",
+    "in_30_corpus": false,
+    "bandleader": "Thelonious Monk",
+    "pianist": "Thelonious Monk",
+    "channel_overrides": {},
+    "mbz_id": "84e19346-286e-4f0e-a632-7620dce32936",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=WZcTZycaBdg"
+        ]
+    },
+    "excerpt_duration": "04:47",
+    "timestamps": {
+        "start": "00:22",
+        "end": "05:09"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Thelonious Monk",
+        "bassist": "Percy Heath",
+        "drummer": "Art Blakey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "monkt-bluemonk-heathpblakeya-1952-84e19346",
+    "tempo": 140.50459845175502,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.02547910485060756,
+        "bass": 0.08372521384815002,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "track_name": "Youre Gonna Hear From Me",
+    "album_name": "California Here I Come",
+    "recording_year": "1967",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "08aac7d2-ccff-48a8-b707-18aac8f26a5a",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 3.229,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=JTXANGF4Sgo"
+        ]
+    },
+    "excerpt_duration": "01:01",
+    "timestamps": {
+        "start": "02:30",
+        "end": "03:31"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Philly Joe Jones",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-youregonnahearfromme-gomezejoep-1967-08aac7d2",
+    "tempo": 128.1683135782484,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.17038904363697982,
+        "drums": 0.0
+    }
+}

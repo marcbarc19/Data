@@ -1,0 +1,60 @@
+{
+    "track_name": "You Go to My Head",
+    "album_name": "Ahmad Jamal Eight Classic Albums",
+    "recording_year": "1960",
+    "in_30_corpus": true,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {},
+    "mbz_id": "5a0737d3-713f-4a97-b2b0-daac07b5d61c",
+    "notes": "cut before unison passage",
+    "time_signature": 4,
+    "first_downbeat": 1.18,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=ZswbMXPyZuM"
+        ]
+    },
+    "excerpt_duration": "02:17",
+    "timestamps": {
+        "start": "02:53",
+        "end": "05:10"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Israel Crosby",
+        "drummer": "Vernell Fournier",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-yougotomyhead-crosbyifournierv-1960-5a0737d3",
+    "tempo": 134.4563272126923,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.11092258285331458,
+        "bass": 0.9160242325380943,
+        "drums": 0.0
+    }
+}

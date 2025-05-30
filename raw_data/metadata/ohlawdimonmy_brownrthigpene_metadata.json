@@ -1,0 +1,64 @@
+{
+    "track_name": "Oh Lawd Im on My Way",
+    "album_name": "West Side Story  Oscar Peterson Plays Porgy  Bess",
+    "recording_year": "1960",
+    "in_30_corpus": false,
+    "bandleader": "Oscar Peterson",
+    "pianist": "Oscar Peterson",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "21b23016-087b-47a6-914f-5eb4eb9ba47e",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=LzF3CzELySU"
+        ]
+    },
+    "excerpt_duration": "01:19",
+    "timestamps": {
+        "start": "00:40",
+        "end": "01:59"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Oscar Peterson",
+        "bassist": "Ray Brown",
+        "drummer": "Ed Thigpen",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "petersono-ohlawdimonmy-brownrthigpene-1960-21b23016",
+    "tempo": 292.4506852224318,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.01910447761194034,
+        "drums": 0.002424799081515605
+    }
+}

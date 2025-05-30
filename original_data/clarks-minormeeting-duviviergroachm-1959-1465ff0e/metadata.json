@@ -1,0 +1,63 @@
+{
+    "track_name": "Minor Meeting",
+    "album_name": "Seven Classic Albums",
+    "recording_year": "1959",
+    "in_30_corpus": false,
+    "bandleader": "Sonny Clark",
+    "pianist": "Sonny Clark",
+    "channel_overrides": {
+        "bass": "l",
+        "drums": "r"
+    },
+    "mbz_id": "1465ff0e-ee9e-468d-b6ff-aee115a92ba2",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=XrWmpgkH6ck"
+        ]
+    },
+    "excerpt_duration": "01:30",
+    "timestamps": {
+        "start": "00:40",
+        "end": "02:10"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Sonny Clark",
+        "bassist": "George Duvivier",
+        "drummer": "Max Roach",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "clarks-minormeeting-duviviergroachm-1959-1465ff0e",
+    "tempo": 266.09479338972284,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.018985351853792576,
+        "drums": 0.0
+    }
+}

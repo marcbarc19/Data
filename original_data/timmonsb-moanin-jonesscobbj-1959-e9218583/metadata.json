@@ -1,0 +1,64 @@
+{
+    "track_name": "Moanin",
+    "album_name": "Six Classic Albums",
+    "recording_year": "1959",
+    "in_30_corpus": false,
+    "bandleader": "Bobby Timmons",
+    "pianist": "Bobby Timmons",
+    "channel_overrides": {
+        "bass": "r",
+        "piano": "l",
+        "drums": "l"
+    },
+    "mbz_id": "e9218583-7de8-4d76-9b8b-a472b06b02c4",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=1gTrhSOuroc"
+        ]
+    },
+    "excerpt_duration": "02:44",
+    "timestamps": {
+        "start": "00:56",
+        "end": "03:40"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bobby Timmons",
+        "bassist": "Sam Jones",
+        "drummer": "Jimmy Cobb",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "timmonsb-moanin-jonesscobbj-1959-e9218583",
+    "tempo": 139.94580440905227,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.033704564271025195,
+        "bass": 0.1792680429808866,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Equinox",
+    "album_name": "Ancestry",
+    "recording_year": "2003",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Barron",
+    "pianist": "Kenny Barron",
+    "channel_overrides": {},
+    "mbz_id": "a16abfc3-7ce9-4ab3-8894-2d860ffffa64",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=x1Ojh5bWqrk"
+        ]
+    },
+    "excerpt_duration": "01:26",
+    "timestamps": {
+        "start": "02:04",
+        "end": "03:30"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Barron",
+        "bassist": "Kiyoshi Kitagawa",
+        "drummer": "Brian Blade",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "barronk-equinox-kitagawakbladeb-2003-a16abfc3",
+    "tempo": 122.736135795535,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00016874717875814405,
+        "bass": 0.11424605869870608,
+        "drums": 0.0
+    }
+}

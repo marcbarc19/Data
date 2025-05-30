@@ -1,0 +1,60 @@
+{
+    "track_name": "Russian Lullaby",
+    "album_name": "The Lullaby",
+    "recording_year": "1982",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Drew",
+    "pianist": "Kenny Drew",
+    "channel_overrides": {},
+    "mbz_id": "98e1b8ec-7110-4b70-b532-4d44c818d846",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=PtXXJX3Qfmw"
+        ]
+    },
+    "excerpt_duration": "01:00",
+    "timestamps": {
+        "start": "30:20",
+        "end": "31:20"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Drew",
+        "bassist": "Niels-Henning \u00d8rsted Pedersen",
+        "drummer": "Ed Thigpen",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "drewk-russianlullaby-rstednthigpene-1982-98e1b8ec",
+    "tempo": 182.37872359293516,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.014759500559301086,
+        "drums": 0.0
+    }
+}

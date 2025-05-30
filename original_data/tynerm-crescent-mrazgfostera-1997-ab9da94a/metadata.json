@@ -1,0 +1,60 @@
+{
+    "track_name": "Crescent",
+    "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+    "recording_year": "1997",
+    "in_30_corpus": false,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "ab9da94a-a4f0-4c22-a940-d9a79b05419a",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=CVU84NiL-7g"
+        ]
+    },
+    "excerpt_duration": "04:30",
+    "timestamps": {
+        "start": "01:25",
+        "end": "05:55"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "George Mraz",
+        "drummer": "Al Foster",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-crescent-mrazgfostera-1997-ab9da94a",
+    "tempo": 149.88279920301812,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 6.474050186033864e-05,
+        "bass": 0.03543126278372022,
+        "drums": 0.0
+    }
+}

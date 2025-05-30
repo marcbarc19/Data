@@ -1,0 +1,64 @@
+{
+    "track_name": "Sonora",
+    "album_name": "Spanish Steps",
+    "recording_year": "1968",
+    "in_30_corpus": false,
+    "bandleader": "Hampton Hawes",
+    "pianist": "Hampton Hawes",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "fa331138-7f68-4297-8cbe-7bb7e0a8c20d",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=3u5BX7qAD-E"
+        ]
+    },
+    "excerpt_duration": "02:06",
+    "timestamps": {
+        "start": "01:17",
+        "end": "03:23"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hampton Hawes",
+        "bassist": "Jimmy Woode",
+        "drummer": "Art Taylor",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hawesh-sonora-woodejtaylora-1968-fa331138",
+    "tempo": 182.73935293820895,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.07168229943071358,
+        "bass": 0.06753411651909658,
+        "drums": 0.0
+    }
+}

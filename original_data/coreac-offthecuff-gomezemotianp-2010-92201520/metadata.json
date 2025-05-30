@@ -1,0 +1,60 @@
+{
+    "track_name": "Off the Cuff",
+    "album_name": "Further Explorations",
+    "recording_year": "2010",
+    "in_30_corpus": false,
+    "bandleader": "Chick Corea",
+    "pianist": "Chick Corea",
+    "channel_overrides": {},
+    "mbz_id": "92201520-bf7a-447f-9ea7-538bfb03fc6d",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=KbLp_G_t5h4"
+        ]
+    },
+    "excerpt_duration": "02:08",
+    "timestamps": {
+        "start": "00:50",
+        "end": "02:58"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Chick Corea",
+        "bassist": "Eddie Gomez",
+        "drummer": "Paul Motian",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "coreac-offthecuff-gomezemotianp-2010-92201520",
+    "tempo": 263.3769668147828,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.018172593580424667,
+        "bass": 0.0867998917268854,
+        "drums": 0.0
+    }
+}

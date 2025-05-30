@@ -1,0 +1,60 @@
+{
+    "track_name": "On Green Dolphin Street",
+    "album_name": "Bill Evans Live In Tokyo",
+    "recording_year": "1972",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {},
+    "mbz_id": "72d00b1a-2e3e-49c1-8c82-8b7e080d140a",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 15.03,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=WUu6wdaqOc4"
+        ]
+    },
+    "excerpt_duration": "01:55",
+    "timestamps": {
+        "start": "00:55",
+        "end": "02:50"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Marty Morell",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-ongreendolphinstreet-gomezemorellm-1972-72d00b1a",
+    "tempo": 203.43254901125619,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.35422461293143737,
+        "drums": 0.0
+    }
+}

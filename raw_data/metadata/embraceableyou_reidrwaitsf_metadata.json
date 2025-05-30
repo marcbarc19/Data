@@ -1,0 +1,60 @@
+{
+    "track_name": "Embraceable You",
+    "album_name": "Autumn in New York",
+    "recording_year": "1984",
+    "in_30_corpus": true,
+    "bandleader": "Kenny Barron",
+    "pianist": "Kenny Barron",
+    "channel_overrides": {},
+    "mbz_id": "8db9cd16-b6a0-4810-a179-f9bb304dd088",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 12.55,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Qsxrr90ChPw"
+        ]
+    },
+    "excerpt_duration": "01:56",
+    "timestamps": {
+        "start": "07:34",
+        "end": "09:30"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Barron",
+        "bassist": "Rufus Reid",
+        "drummer": "Freddie Waits",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "barronk-embraceableyou-reidrwaitsf-1984-8db9cd16",
+    "tempo": 129.67167898496965,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.019516192340832683,
+        "bass": 0.08344423263676581,
+        "drums": 0.0
+    }
+}

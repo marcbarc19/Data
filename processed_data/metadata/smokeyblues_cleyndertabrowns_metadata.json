@@ -1,0 +1,60 @@
+{
+    "track_name": "Smokey Blues",
+    "album_name": "Blues Ballads and a Train",
+    "recording_year": "2000",
+    "in_30_corpus": true,
+    "bandleader": "Junior Mance",
+    "pianist": "Junior Mance",
+    "channel_overrides": {},
+    "mbz_id": "fb32713f-dcba-4e48-bd7d-6b36c19fa894",
+    "notes": "just about fast enough",
+    "time_signature": 4,
+    "first_downbeat": 7.1,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=eYP4qe3r1ak"
+        ]
+    },
+    "excerpt_duration": "02:35",
+    "timestamps": {
+        "start": "01:00",
+        "end": "03:35"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Junior Mance",
+        "bassist": "Andrew Cleyndert",
+        "drummer": "Steve Brown",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "mancej-smokeyblues-cleyndertabrowns-2000-fb32713f",
+    "tempo": 105.56911463109327,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.026494096169824455,
+        "bass": 0.24743426210899566,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Little Rootie Tootie",
+    "album_name": "The High Priest",
+    "recording_year": "1952",
+    "in_30_corpus": false,
+    "bandleader": "Thelonious Monk",
+    "pianist": "Thelonious Monk",
+    "channel_overrides": {},
+    "mbz_id": "f5491fc9-f4e3-451d-a0ab-3941f2dae4dc",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=lWLpU7swMAQ"
+        ]
+    },
+    "excerpt_duration": "01:22",
+    "timestamps": {
+        "start": "01:00",
+        "end": "02:22"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Thelonious Monk",
+        "bassist": "Gary Mapp",
+        "drummer": "Art Blakey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "monkt-littlerootietootie-mappgblakeya-1952-f5491fc9",
+    "tempo": 141.42301559085152,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0003314907227394137,
+        "bass": 0.06941594918336813,
+        "drums": 0.0
+    }
+}

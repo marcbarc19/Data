@@ -1,0 +1,64 @@
+{
+    "track_name": "Milestones",
+    "album_name": "Milestones",
+    "recording_year": "1997",
+    "in_30_corpus": false,
+    "bandleader": "Junior Mance",
+    "pianist": "Junior Mance",
+    "channel_overrides": {
+        "piano": "r",
+        "bass": "l",
+        "drums": "l"
+    },
+    "mbz_id": "a35d3e19-ce19-4665-bb26-017e09a128d7",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=cIrn2iC6KXE"
+        ]
+    },
+    "excerpt_duration": "02:23",
+    "timestamps": {
+        "start": "00:38",
+        "end": "03:01"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Junior Mance",
+        "bassist": "Don Thompson",
+        "drummer": "Archie Alleyne",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "mancej-milestones-thompsondalleynea-1997-a35d3e19",
+    "tempo": 266.37675203167777,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.03210500080541556,
+        "bass": 0.10138468036422532,
+        "drums": 0.0
+    }
+}

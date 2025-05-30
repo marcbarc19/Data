@@ -1,0 +1,64 @@
+{
+    "track_name": "Blues On Purpose",
+    "album_name": "Undiluted  Its All Right",
+    "recording_year": "1964",
+    "in_30_corpus": false,
+    "bandleader": "Wynton Kelly",
+    "pianist": "Wynton Kelly",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "64654e79-fd9d-4b48-84a4-45e63409e384",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Au6tflcCIp8"
+        ]
+    },
+    "excerpt_duration": "03:02",
+    "timestamps": {
+        "start": "00:50",
+        "end": "03:52"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Wynton Kelly",
+        "bassist": "Paul Chambers",
+        "drummer": "Jimmy Cobb",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "kellyw-bluesonpurpose-chamberspcobbj-1964-64654e79",
+    "tempo": 237.41864936238338,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00027059368253956606,
+        "bass": 0.09338689083849938,
+        "drums": 0.0
+    }
+}

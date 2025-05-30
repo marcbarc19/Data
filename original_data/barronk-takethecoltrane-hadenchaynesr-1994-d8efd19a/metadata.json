@@ -1,0 +1,91 @@
+{
+    "track_name": "Take the Coltrane",
+    "album_name": "Wanton Spirit",
+    "recording_year": "1994",
+    "in_30_corpus": true,
+    "bandleader": "Kenny Barron",
+    "pianist": "Kenny Barron",
+    "channel_overrides": {},
+    "mbz_id": "d8efd19a-95cb-47b7-a113-846ac138be11",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 8.02,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=_PJJVKJIkWo"
+        ]
+    },
+    "excerpt_duration": "03:20",
+    "timestamps": {
+        "start": "01:00",
+        "end": "04:20"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Barron",
+        "bassist": "Charlie Haden",
+        "drummer": "Roy Haynes",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "barronk-takethecoltrane-hadenchaynesr-1994-d8efd19a",
+    "tempo": 243.25811929018982,
+    "validation": {
+        "piano": {
+            "f_score": 0.9683809523809523,
+            "precision": 0.9799537393986122,
+            "recall": 0.9570783132530121,
+            "mean_asynchrony": -0.003039654893784367,
+            "fraction_matched": 0.9570783132530121
+        },
+        "bass": {
+            "f_score": 0.9488139825218476,
+            "precision": 0.96569250317662,
+            "recall": 0.9325153374233128,
+            "mean_asynchrony": -0.006532372614473777,
+            "fraction_matched": 0.9325153374233128
+        },
+        "drums": {
+            "f_score": 0.9510012782275246,
+            "precision": 0.93,
+            "recall": 0.972972972972973,
+            "mean_asynchrony": 0.0015467047043007521,
+            "fraction_matched": 0.972972972972973
+        },
+        "mix": {
+            "f_score": 0.9808286951144094,
+            "precision": 0.9802224969097652,
+            "recall": 0.9814356435643564,
+            "mean_asynchrony": 0.001607089245901645,
+            "fraction_matched": 0.9814356435643564
+        },
+        "mix_downbeats": {
+            "f_score": 0.9728395061728395,
+            "precision": 0.9704433497536946,
+            "recall": 0.9752475247524752,
+            "mean_asynchrony": 0.0016658033553296147,
+            "fraction_matched": 0.9752475247524752
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.02969179952004075,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

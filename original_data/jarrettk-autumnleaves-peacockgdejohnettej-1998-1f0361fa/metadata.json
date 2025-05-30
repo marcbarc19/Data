@@ -1,0 +1,60 @@
+{
+    "track_name": "Autumn Leaves",
+    "album_name": "After the Fall",
+    "recording_year": "1998",
+    "in_30_corpus": false,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "1f0361fa-d1d1-4c35-ad9e-a343b029e777",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=7U6aZlNwxUM"
+        ]
+    },
+    "excerpt_duration": "04:48",
+    "timestamps": {
+        "start": "35:50",
+        "end": "40:38"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Gary Peacock",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-autumnleaves-peacockgdejohnettej-1998-1f0361fa",
+    "tempo": 218.96544894373272,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.005180103715451967,
+        "bass": 0.08065441641004434,
+        "drums": 0.0
+    }
+}

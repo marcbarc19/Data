@@ -1,0 +1,94 @@
+{
+    "track_name": "You Stepped Out of a Dream",
+    "album_name": "Tristeza on Piano",
+    "recording_year": "1970",
+    "in_30_corpus": true,
+    "bandleader": "Oscar Peterson",
+    "pianist": "Oscar Peterson",
+    "channel_overrides": {
+        "bass": "l",
+        "drums": "r"
+    },
+    "mbz_id": "43e2fd27-4df4-4304-9cb4-1ed6264e5739",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 5.33,
+    "rating_bass_audio": 2.0,
+    "rating_bass_detection": 3.0,
+    "rating_drums_audio": 3.0,
+    "rating_drums_detection": 3.0,
+    "rating_mix": 3.0,
+    "rating_piano_audio": 2.0,
+    "rating_piano_detection": 3.0,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=AVvUKPFISZQ"
+        ]
+    },
+    "excerpt_duration": "01:25",
+    "timestamps": {
+        "start": "01:19",
+        "end": "02:44"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Oscar Peterson",
+        "bassist": "Sam Jones",
+        "drummer": "Bobby Durham",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "petersono-yousteppedoutofa-jonessdurhamb-1970-43e2fd27",
+    "tempo": 270.75528602402966,
+    "validation": {
+        "piano": {
+            "f_score": 0.960167714884696,
+            "precision": 0.9856527977044476,
+            "recall": 0.9359673024523161,
+            "mean_asynchrony": -0.010774737420669915,
+            "fraction_matched": 0.9359673024523161
+        },
+        "bass": {
+            "f_score": 0.958435207823961,
+            "precision": 0.9849246231155779,
+            "recall": 0.9333333333333333,
+            "mean_asynchrony": -0.002245881354592117,
+            "fraction_matched": 0.9333333333333333
+        },
+        "drums": {
+            "f_score": 0.9928286852589641,
+            "precision": 1.0,
+            "recall": 0.9857594936708861,
+            "mean_asynchrony": -0.00508063854895693,
+            "fraction_matched": 0.9857594936708861
+        },
+        "mix": {
+            "f_score": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "mean_asynchrony": -0.007891159528795813,
+            "fraction_matched": 1.0
+        },
+        "mix_downbeats": {
+            "f_score": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "mean_asynchrony": NaN,
+            "fraction_matched": 0.0
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.01174728139375325,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "track_name": "Someday My Prince Will Come",
+    "album_name": "Youre Gonna Hear From Me",
+    "recording_year": "1969",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r"
+    },
+    "mbz_id": "f48fa3a7-deb3-4905-af93-873f70602905",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": 12.32,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=v-kS-O3_67M"
+        ]
+    },
+    "excerpt_duration": "00:52",
+    "timestamps": {
+        "start": "01:07",
+        "end": "01:59"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Marty Morell",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-somedaymyprincewillcome-gomezemorellm-1969-f48fa3a7",
+    "tempo": 255.24753190030137,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.017325251820520693,
+        "bass": 0.14662538699690397,
+        "drums": 0.0
+    }
+}

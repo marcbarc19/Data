@@ -1,0 +1,91 @@
+{
+    "track_name": "Dolphin Dance",
+    "album_name": "Freeflight",
+    "recording_year": "1971",
+    "in_30_corpus": true,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {},
+    "mbz_id": "87cd9343-6d9e-4651-aabc-aa191fd7c6b0",
+    "notes": "basically just solos through first chorus, no real head statement",
+    "time_signature": 4,
+    "first_downbeat": 14.97,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Mw6fSRtpvow"
+        ]
+    },
+    "excerpt_duration": "01:16",
+    "timestamps": {
+        "start": "01:46",
+        "end": "03:02"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Jamil Nasser",
+        "drummer": "Frank Gant",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-dolphindance-nasserjgantf-1971-87cd9343",
+    "tempo": 157.37221192933646,
+    "validation": {
+        "piano": {
+            "f_score": 0.8978224455611389,
+            "precision": 0.9337979094076655,
+            "recall": 0.864516129032258,
+            "mean_asynchrony": -0.0050874031082088905,
+            "fraction_matched": 0.864516129032258
+        },
+        "bass": {
+            "f_score": 0.9455445544554454,
+            "precision": 0.9182692307692307,
+            "recall": 0.9744897959183674,
+            "mean_asynchrony": -0.0028571428691097286,
+            "fraction_matched": 0.9744897959183674
+        },
+        "drums": {
+            "f_score": 0.9809782608695653,
+            "precision": 0.9756756756756757,
+            "recall": 0.9863387978142076,
+            "mean_asynchrony": -0.005221261182825538,
+            "fraction_matched": 0.9863387978142076
+        },
+        "mix": {
+            "f_score": 0.8765743073047859,
+            "precision": 0.8743718592964824,
+            "recall": 0.8787878787878788,
+            "mean_asynchrony": -0.004727369890804646,
+            "fraction_matched": 0.8787878787878788
+        },
+        "mix_downbeats": {
+            "f_score": 0.48484848484848486,
+            "precision": 0.48,
+            "recall": 0.4897959183673469,
+            "mean_asynchrony": -0.001528722666666681,
+            "fraction_matched": 0.4897959183673469
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.14197968343964085,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Come Rain or Come Shine",
+    "album_name": "Six Classic Albums",
+    "recording_year": "1959",
+    "in_30_corpus": false,
+    "bandleader": "Bobby Timmons",
+    "pianist": "Bobby Timmons",
+    "channel_overrides": {},
+    "mbz_id": "4b81ca7b-7776-4b8b-b2e2-6257fdc62936",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=xbqEp479Q54"
+        ]
+    },
+    "excerpt_duration": "01:53",
+    "timestamps": {
+        "start": "00:57",
+        "end": "02:50"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bobby Timmons",
+        "bassist": "Sam Jones",
+        "drummer": "Jimmy Cobb",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "timmonsb-comerainorcomeshine-jonesscobbj-1959-4b81ca7b",
+    "tempo": 136.08688356651663,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.12322242170389086,
+        "bass": 0.03187141003220684,
+        "drums": 0.0
+    }
+}

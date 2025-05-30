@@ -1,0 +1,91 @@
+{
+    "track_name": "All the Things You Are",
+    "album_name": "Tribute",
+    "recording_year": "1989",
+    "in_30_corpus": true,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "c82aab89-ca2b-4211-842f-9c69583d03ca",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 20.73,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=tsd_DWOJFwU"
+        ]
+    },
+    "excerpt_duration": "02:59",
+    "timestamps": {
+        "start": "03:08",
+        "end": "06:07"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Gary Peacock",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-allthethingsyouare-peacockgdejohnettej-1989-c82aab89",
+    "tempo": 293.26078477688856,
+    "validation": {
+        "piano": {
+            "f_score": 0.9136021267168808,
+            "precision": 0.9035933391761612,
+            "recall": 0.9238351254480287,
+            "mean_asynchrony": -0.004838245674102726,
+            "fraction_matched": 0.9238351254480287
+        },
+        "bass": {
+            "f_score": 0.9396051103368177,
+            "precision": 0.9551357733175915,
+            "recall": 0.9245714285714286,
+            "mean_asynchrony": 0.0010845393065511111,
+            "fraction_matched": 0.9245714285714286
+        },
+        "drums": {
+            "f_score": 0.9648932319942092,
+            "precision": 0.9758418740849195,
+            "recall": 0.9541875447387258,
+            "mean_asynchrony": -0.0048003327269321786,
+            "fraction_matched": 0.9541875447387258
+        },
+        "mix": {
+            "f_score": 0.9066820276497696,
+            "precision": 0.9025229357798165,
+            "recall": 0.9108796296296297,
+            "mean_asynchrony": -0.004166918775095289,
+            "fraction_matched": 0.9108796296296297
+        },
+        "mix_downbeats": {
+            "f_score": 0.2488479262672811,
+            "precision": 0.24770642201834864,
+            "recall": 0.25,
+            "mean_asynchrony": -0.003852775648147644,
+            "fraction_matched": 0.25
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.011203687002061202,
+        "bass": 0.05254869692283681,
+        "drums": 0.0
+    }
+}

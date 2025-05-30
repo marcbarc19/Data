@@ -1,0 +1,60 @@
+{
+    "track_name": "Sir John",
+    "album_name": "Smokin in Seattle Live at the Penthouse",
+    "recording_year": "1966",
+    "in_30_corpus": false,
+    "bandleader": "Wynton Kelly",
+    "pianist": "Wynton Kelly",
+    "channel_overrides": {},
+    "mbz_id": "636b3d6b-011c-42ea-b697-cf5729189153",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=3rdw02Lkfq8"
+        ]
+    },
+    "excerpt_duration": "04:30",
+    "timestamps": {
+        "start": "27:58",
+        "end": "32:28"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Wynton Kelly",
+        "bassist": "Ron McClure",
+        "drummer": "Jimmy Cobb",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "kellyw-sirjohn-mcclurercobbj-1966-636b3d6b",
+    "tempo": 202.95357185156678,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0001135403978751448,
+        "bass": 0.10070630189518415,
+        "drums": 0.0
+    }
+}

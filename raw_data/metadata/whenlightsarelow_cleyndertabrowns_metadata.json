@@ -1,0 +1,60 @@
+{
+    "track_name": "When Lights Are Low",
+    "album_name": "Blues Ballads and a Train",
+    "recording_year": "2000",
+    "in_30_corpus": true,
+    "bandleader": "Junior Mance",
+    "pianist": "Junior Mance",
+    "channel_overrides": {},
+    "mbz_id": "359ed779-3905-4262-b025-cde35dcbb9e5",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 10.9,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Ko19J_lPcM8"
+        ]
+    },
+    "excerpt_duration": "02:11",
+    "timestamps": {
+        "start": "02:42",
+        "end": "04:53"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Junior Mance",
+        "bassist": "Andrew Cleyndert",
+        "drummer": "Steve Brown",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "mancej-whenlightsarelow-cleyndertabrowns-2000-359ed779",
+    "tempo": 115.11038446640477,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.010987154652336573,
+        "bass": 0.24883586007889746,
+        "drums": 0.0
+    }
+}

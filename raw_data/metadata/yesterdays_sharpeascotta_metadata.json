@@ -1,0 +1,60 @@
+{
+    "track_name": "Yesterdays",
+    "album_name": "Live at Sweet Basil",
+    "recording_year": "1989",
+    "in_30_corpus": true,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "47615333-1e3b-41a7-a8ba-56f9f2eac7a4",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 25.46,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=vsH_qtx7IXw"
+        ]
+    },
+    "excerpt_duration": "02:35",
+    "timestamps": {
+        "start": "46:45",
+        "end": "49:20"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "Avery Sharpe",
+        "drummer": "Aaron Scott",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-yesterdays-sharpeascotta-1989-47615333",
+    "tempo": 170.31994524245732,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.02559352411691851,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "My Beautiful Lady",
+    "album_name": "Kenny Drew and His Progressive Piano",
+    "recording_year": "1953",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Drew",
+    "pianist": "Kenny Drew",
+    "channel_overrides": {},
+    "mbz_id": "45abb28f-9415-400f-9368-918c9aa755b6",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=zOwk3NA3OvA"
+        ]
+    },
+    "excerpt_duration": "03:15",
+    "timestamps": {
+        "start": "01:13",
+        "end": "04:28"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Drew",
+        "bassist": "Eugene Wright",
+        "drummer": "Charles \u201cSpecs\u201d Wright",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "drewk-mybeautifullady-wrightespecsc-1953-45abb28f",
+    "tempo": 132.45141396009743,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.10811791451076391,
+        "bass": 0.2635832388055933,
+        "drums": 0.07400376490039284
+    }
+}

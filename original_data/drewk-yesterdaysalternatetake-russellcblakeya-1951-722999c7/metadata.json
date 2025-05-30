@@ -1,0 +1,60 @@
+{
+    "track_name": "Yesterdays alternate take",
+    "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
+    "recording_year": "1951",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Drew",
+    "pianist": "Kenny Drew",
+    "channel_overrides": {},
+    "mbz_id": "722999c7-a3e9-406b-aa39-fde14861d5a3",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=6vyK8I-Lkos"
+        ]
+    },
+    "excerpt_duration": "01:50",
+    "timestamps": {
+        "start": "01:15",
+        "end": "03:05"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Drew",
+        "bassist": "Curley Russell",
+        "drummer": "Art Blakey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "drewk-yesterdaysalternatetake-russellcblakeya-1951-722999c7",
+    "tempo": 187.43340948925407,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00010651807395356538,
+        "bass": 0.029345729374189555,
+        "drums": 0.0
+    }
+}

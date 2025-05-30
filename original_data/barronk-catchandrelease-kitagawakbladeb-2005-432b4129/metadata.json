@@ -1,0 +1,60 @@
+{
+    "track_name": "Catch and Release",
+    "album_name": "Prayer",
+    "recording_year": "2005",
+    "in_30_corpus": true,
+    "bandleader": "Kenny Barron",
+    "pianist": "Kenny Barron",
+    "channel_overrides": {},
+    "mbz_id": "432b4129-c741-44ff-8d76-87341558edfa",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 9.59,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=qNG4fV7_cA0"
+        ]
+    },
+    "excerpt_duration": "02:02",
+    "timestamps": {
+        "start": "01:36",
+        "end": "03:38"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Barron",
+        "bassist": "Kiyoshi Kitagawa",
+        "drummer": "Brian Blade",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "barronk-catchandrelease-kitagawakbladeb-2005-432b4129",
+    "tempo": 248.77352116482552,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.016414111378071583,
+        "bass": 0.022194733211218676,
+        "drums": 0.0
+    }
+}

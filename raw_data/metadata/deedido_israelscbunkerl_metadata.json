@@ -1,0 +1,64 @@
+{
+    "track_name": "Deed I Do",
+    "album_name": "The Complete Bill Evans on Verve",
+    "recording_year": "1966",
+    "in_30_corpus": true,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "57707551-2a88-4a64-ae65-552f1b9ce4bc",
+    "notes": "already in corpus with transcriptions",
+    "time_signature": 4,
+    "first_downbeat": 9.31,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=EzODZgHZfDY"
+        ]
+    },
+    "excerpt_duration": "01:17",
+    "timestamps": {
+        "start": "00:52",
+        "end": "02:09"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Chuck Israels",
+        "drummer": "Larry Bunker",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-deedido-israelscbunkerl-1966-57707551",
+    "tempo": 198.4057824460204,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.03968736308001086,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

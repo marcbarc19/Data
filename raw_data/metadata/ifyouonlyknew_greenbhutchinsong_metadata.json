@@ -1,0 +1,60 @@
+{
+    "track_name": "If You Only Knew",
+    "album_name": "Live at Scullers",
+    "recording_year": "1996",
+    "in_30_corpus": false,
+    "bandleader": "Ray Brown",
+    "pianist": "Benny Green",
+    "channel_overrides": {},
+    "mbz_id": "aedb80b3-393d-4729-8fa9-1fb3fcaa8700",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=x1pQJdAD91c"
+        ]
+    },
+    "excerpt_duration": "04:07",
+    "timestamps": {
+        "start": "06:24",
+        "end": "10:31"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Benny Green",
+        "bassist": "Ray Brown",
+        "drummer": "Gregory Hutchinson",
+        "leader": "bassist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "brownr-ifyouonlyknew-greenbhutchinsong-1996-aedb80b3",
+    "tempo": 167.61869229996904,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.004583921015514747,
+        "bass": 0.3259402914903621,
+        "drums": 0.001151857075693541
+    }
+}

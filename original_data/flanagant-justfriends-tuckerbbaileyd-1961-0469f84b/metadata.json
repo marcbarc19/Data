@@ -1,0 +1,94 @@
+{
+    "track_name": "Just Friends",
+    "album_name": "Trio  Sextet",
+    "recording_year": "1961",
+    "in_30_corpus": true,
+    "bandleader": "Tommy Flanagan",
+    "pianist": "Tommy Flanagan",
+    "channel_overrides": {
+        "piano": "r",
+        "bass": "l"
+    },
+    "mbz_id": "0469f84b-0b9d-4e06-8c82-8d634fd8e8e1",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 3.39,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=AP_uzlUIQLU"
+        ]
+    },
+    "excerpt_duration": "02:21",
+    "timestamps": {
+        "start": "08:39",
+        "end": "11:00"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Tommy Flanagan",
+        "bassist": "Ben Tucker",
+        "drummer": "Dave Bailey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "flanagant-justfriends-tuckerbbaileyd-1961-0469f84b",
+    "tempo": 159.57832383682535,
+    "validation": {
+        "piano": {
+            "f_score": 0.9342756183745583,
+            "precision": 0.9167822468793343,
+            "recall": 0.952449567723343,
+            "mean_asynchrony": -0.006347148037821473,
+            "fraction_matched": 0.952449567723343
+        },
+        "bass": {
+            "f_score": 0.974477958236659,
+            "precision": 0.9545454545454546,
+            "recall": 0.995260663507109,
+            "mean_asynchrony": -0.003650469714285485,
+            "fraction_matched": 0.995260663507109
+        },
+        "drums": {
+            "f_score": 0.9878787878787879,
+            "precision": 0.9819277108433735,
+            "recall": 0.9939024390243902,
+            "mean_asynchrony": -0.004249718296012295,
+            "fraction_matched": 0.9939024390243902
+        },
+        "mix": {
+            "f_score": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "mean_asynchrony": -0.006558744708556498,
+            "fraction_matched": 1.0
+        },
+        "mix_downbeats": {
+            "f_score": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "mean_asynchrony": -0.005788584968085303,
+            "fraction_matched": 1.0
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.0199875335221531,
+        "drums": 0.0
+    }
+}

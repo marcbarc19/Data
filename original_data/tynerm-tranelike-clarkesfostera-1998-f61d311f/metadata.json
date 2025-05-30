@@ -1,0 +1,91 @@
+{
+    "track_name": "TraneLike",
+    "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+    "recording_year": "1998",
+    "in_30_corpus": true,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "f61d311f-067d-4ff3-986f-ac91a571a381",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 11.13,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=y0loXNk2GFk"
+        ]
+    },
+    "excerpt_duration": "02:19",
+    "timestamps": {
+        "start": "01:42",
+        "end": "04:01"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "Stanley Clarke",
+        "drummer": "Al Foster",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-tranelike-clarkesfostera-1998-f61d311f",
+    "tempo": 162.83994230000422,
+    "validation": {
+        "piano": {
+            "f_score": 0.9534883720930233,
+            "precision": 0.9587345254470426,
+            "recall": 0.9482993197278912,
+            "mean_asynchrony": -0.002728798832137809,
+            "fraction_matched": 0.9482993197278912
+        },
+        "bass": {
+            "f_score": 0.8814589665653495,
+            "precision": 0.9275053304904051,
+            "recall": 0.8397683397683398,
+            "mean_asynchrony": -0.00804649828505723,
+            "fraction_matched": 0.8397683397683398
+        },
+        "drums": {
+            "f_score": 0.919034090909091,
+            "precision": 0.9036312849162011,
+            "recall": 0.934971098265896,
+            "mean_asynchrony": -0.005048453174652776,
+            "fraction_matched": 0.934971098265896
+        },
+        "mix": {
+            "f_score": 0.973404255319149,
+            "precision": 0.973404255319149,
+            "recall": 0.973404255319149,
+            "mean_asynchrony": -0.00796327273497257,
+            "fraction_matched": 0.973404255319149
+        },
+        "mix_downbeats": {
+            "f_score": 0.9680851063829787,
+            "precision": 0.9680851063829787,
+            "recall": 0.9680851063829787,
+            "mean_asynchrony": -0.006980887560439515,
+            "fraction_matched": 0.9680851063829787
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.02150411357512405,
+        "drums": 0.0
+    }
+}

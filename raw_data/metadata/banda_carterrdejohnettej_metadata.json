@@ -1,0 +1,60 @@
+{
+    "track_name": "B and A",
+    "album_name": "Walton Carter  DeJohnette",
+    "recording_year": "1983",
+    "in_30_corpus": false,
+    "bandleader": "Cedar Walton",
+    "pianist": "Cedar Walton",
+    "channel_overrides": {},
+    "mbz_id": "c91a7eaf-b224-4eb4-afad-7caa1b4eb581",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=GCcGKSU7S1o"
+        ]
+    },
+    "excerpt_duration": "01:10",
+    "timestamps": {
+        "start": "42:29",
+        "end": "43:39"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Cedar Walton",
+        "bassist": "Ron Carter",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "waltonc-banda-carterrdejohnettej-1983-c91a7eaf",
+    "tempo": 162.63088101507677,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.03727530575779603,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

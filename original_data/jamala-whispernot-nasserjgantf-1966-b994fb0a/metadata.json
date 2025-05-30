@@ -1,0 +1,60 @@
+{
+    "track_name": "Whisper Not",
+    "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+    "recording_year": "1966",
+    "in_30_corpus": false,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {},
+    "mbz_id": "b994fb0a-7404-4523-9cdd-728f54f351b8",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=z5IZW8qqWQY"
+        ]
+    },
+    "excerpt_duration": "01:20",
+    "timestamps": {
+        "start": "00:30",
+        "end": "01:50"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Jamil Nasser",
+        "drummer": "Frank Gant",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-whispernot-nasserjgantf-1966-b994fb0a",
+    "tempo": 291.61566904420323,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.07744695514964084,
+        "drums": 0.007617510298375096
+    }
+}

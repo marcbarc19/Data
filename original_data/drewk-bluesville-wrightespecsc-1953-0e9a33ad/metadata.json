@@ -1,0 +1,60 @@
+{
+    "track_name": "Bluesville",
+    "album_name": "Kenny Drew and His Progressive Piano",
+    "recording_year": "1953",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Drew",
+    "pianist": "Kenny Drew",
+    "channel_overrides": {},
+    "mbz_id": "0e9a33ad-3c6a-4764-a5d8-12d5b168c96a",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=SoNpcPofTwQ"
+        ]
+    },
+    "excerpt_duration": "02:22",
+    "timestamps": {
+        "start": "01:17",
+        "end": "03:39"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Drew",
+        "bassist": "Eugene Wright",
+        "drummer": "Charles \u201cSpecs\u201d Wright",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "drewk-bluesville-wrightespecsc-1953-0e9a33ad",
+    "tempo": 161.81880197140677,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00901081938298931,
+        "bass": 0.14573336422269523,
+        "drums": 0.02412442098445755
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Bags Groove",
+    "album_name": "In Tokyo 1964",
+    "recording_year": "1964",
+    "in_30_corpus": false,
+    "bandleader": "Oscar Peterson",
+    "pianist": "Oscar Peterson",
+    "channel_overrides": {},
+    "mbz_id": "6c994182-34fa-4a04-a55f-c87edf8b2301",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=_mxcUlw5fRk"
+        ]
+    },
+    "excerpt_duration": "02:30",
+    "timestamps": {
+        "start": "26:44",
+        "end": "29:14"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Oscar Peterson",
+        "bassist": "Ray Brown",
+        "drummer": "Ed Thigpen",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "petersono-bagsgroove-brownrthigpene-1964-6c994182",
+    "tempo": 149.98049691858972,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.024823990074273605,
+        "bass": 0.21884968957919637,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Ill Remember April",
+    "album_name": "Kenny Drew and His Progressive Piano",
+    "recording_year": "1953",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Drew",
+    "pianist": "Kenny Drew",
+    "channel_overrides": {},
+    "mbz_id": "cf0eadd8-124f-4f73-8e20-cfd42838498d",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=89-UnKCNzj0"
+        ]
+    },
+    "excerpt_duration": "03:34",
+    "timestamps": {
+        "start": "00:52",
+        "end": "04:26"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Drew",
+        "bassist": "Eugene Wright",
+        "drummer": "Charles \u201cSpecs\u201d Wright",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "drewk-illrememberapril-wrightespecsc-1953-cf0eadd8",
+    "tempo": 268.18939641594096,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00032682965025809807,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

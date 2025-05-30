@@ -1,0 +1,60 @@
+{
+    "track_name": "Blues on the Corner",
+    "album_name": "Supertrios",
+    "recording_year": "1977",
+    "in_30_corpus": true,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "84888300-b036-43d2-97ca-2943698cf3bb",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 6.15,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=ruUVMpFtbFc"
+        ]
+    },
+    "excerpt_duration": "02:56",
+    "timestamps": {
+        "start": "00:37",
+        "end": "03:33"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "Ron Carter",
+        "drummer": "Tony Williams",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-bluesonthecorner-carterrwilliamst-1977-84888300",
+    "tempo": 162.15120746903483,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.020644959159938137,
+        "bass": 0.22068577088032204,
+        "drums": 0.0
+    }
+}

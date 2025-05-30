@@ -1,0 +1,64 @@
+{
+    "track_name": "Angel Eyes",
+    "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+    "recording_year": "1960",
+    "in_30_corpus": false,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "4d881dbd-2f13-4d99-83d9-8e8507bce265",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=z_lGW6dD59E"
+        ]
+    },
+    "excerpt_duration": "02:22",
+    "timestamps": {
+        "start": "03:28",
+        "end": "05:50"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Israel Crosby",
+        "drummer": "Vernell Fournier",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-angeleyes-crosbyifournierv-1960-4d881dbd",
+    "tempo": 144.86312979163085,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.324558803993501,
+        "bass": 0.36045739277940714,
+        "drums": 0.0
+    }
+}

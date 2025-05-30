@@ -1,0 +1,60 @@
+{
+    "track_name": "Airegin",
+    "album_name": "Ill Give You Something to Remember Me By",
+    "recording_year": "1987",
+    "in_30_corpus": true,
+    "bandleader": "John Hicks",
+    "pianist": "John Hicks",
+    "channel_overrides": {},
+    "mbz_id": "5fc996e8-9b7b-4e18-aac2-f4b63402ecd8",
+    "notes": "weird phasing issue on cymbals?",
+    "time_signature": 4,
+    "first_downbeat": 9.33,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=MC-cAiTPwVc"
+        ]
+    },
+    "excerpt_duration": "03:21",
+    "timestamps": {
+        "start": "00:44",
+        "end": "04:05"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "John Hicks",
+        "bassist": "Curtis Lundy",
+        "drummer": "Idris Muhammad",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hicksj-airegin-lundycmuhammadi-1987-5fc996e8",
+    "tempo": 298.7346515247593,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.07122242817925362,
+        "drums": 0.0
+    }
+}

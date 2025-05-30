@@ -1,0 +1,91 @@
+{
+    "track_name": "Lil Darlin",
+    "album_name": "Double Trios",
+    "recording_year": "1986",
+    "in_30_corpus": true,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "f892ef46-a5e6-4624-a694-36444677cfa2",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 11.73,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=QjEjCs38nFE"
+        ]
+    },
+    "excerpt_duration": "02:46",
+    "timestamps": {
+        "start": "01:10",
+        "end": "03:56"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "Avery Sharpe",
+        "drummer": "Louis Hayes",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-lildarlin-sharpeahayesl-1986-f892ef46",
+    "tempo": 135.4908074663144,
+    "validation": {
+        "piano": {
+            "f_score": 0.9074433656957928,
+            "precision": 0.9550408719346049,
+            "recall": 0.8643649815043156,
+            "mean_asynchrony": -0.006015410436519545,
+            "fraction_matched": 0.8643649815043156
+        },
+        "bass": {
+            "f_score": 0.9473684210526315,
+            "precision": 0.9368029739776952,
+            "recall": 0.9581749049429658,
+            "mean_asynchrony": 0.00400807148412686,
+            "fraction_matched": 0.9581749049429658
+        },
+        "drums": {
+            "f_score": 0.9484827099505999,
+            "precision": 0.9613733905579399,
+            "recall": 0.935933147632312,
+            "mean_asynchrony": -0.005112636319940413,
+            "fraction_matched": 0.935933147632312
+        },
+        "mix": {
+            "f_score": 0.8948069241011984,
+            "precision": 0.8983957219251337,
+            "recall": 0.8912466843501327,
+            "mean_asynchrony": -0.005732844717261788,
+            "fraction_matched": 0.8912466843501327
+        },
+        "mix_downbeats": {
+            "f_score": 0.04278074866310161,
+            "precision": 0.043010752688172046,
+            "recall": 0.0425531914893617,
+            "mean_asynchrony": -0.006666666750000161,
+            "fraction_matched": 0.0425531914893617
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.0063467294345970204,
+        "bass": 0.01877464848757049,
+        "drums": 0.0
+    }
+}

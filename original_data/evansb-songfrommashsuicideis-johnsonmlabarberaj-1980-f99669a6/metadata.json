@@ -1,0 +1,63 @@
+{
+    "track_name": "Song From MASH Suicide Is Painless",
+    "album_name": "Consecration",
+    "recording_year": "1980",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "piano": "r",
+        "drums": "l"
+    },
+    "mbz_id": "f99669a6-fd95-42f0-96bd-c85b93a20622",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 6.83,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Txn4Cs-Bz6Q"
+        ]
+    },
+    "excerpt_duration": "01:39",
+    "timestamps": {
+        "start": "01:41",
+        "end": "03:20"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Marc Johnson",
+        "drummer": "Joe LaBarbera",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-songfrommashsuicideis-johnsonmlabarberaj-1980-f99669a6",
+    "tempo": 221.47834046618647,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.14187580554000823,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "track_name": "Caravan",
+    "album_name": "The Tommy Flanagan Tokyo Recital",
+    "recording_year": "1975",
+    "in_30_corpus": true,
+    "bandleader": "Tommy Flanagan",
+    "pianist": "Tommy Flanagan",
+    "channel_overrides": {
+        "piano": "l",
+        "bass": "r",
+        "drums": "r"
+    },
+    "mbz_id": "98522a11-ed1e-4c79-b44f-de82806a7cfe",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=fxuHQYw5oGE"
+        ]
+    },
+    "excerpt_duration": "04:24",
+    "timestamps": {
+        "start": "01:15",
+        "end": "05:39"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Tommy Flanagan",
+        "bassist": "Keter Betts",
+        "drummer": "Bobby Durham",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "flanagant-caravan-bettskdurhamb-1975-98522a11",
+    "tempo": 292.00758976427653,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.023669704283297177,
+        "bass": 0.009916429755473244,
+        "drums": 0.0
+    }
+}

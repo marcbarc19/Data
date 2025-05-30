@@ -1,0 +1,60 @@
+{
+    "track_name": "Yesterdays",
+    "album_name": "The Oracle",
+    "recording_year": "1989",
+    "in_30_corpus": false,
+    "bandleader": "Dave Holland",
+    "pianist": "Hank Jones",
+    "channel_overrides": {},
+    "mbz_id": "126bab92-15b0-4eb4-9854-a6529de12314",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=uUu4sl_uypc"
+        ]
+    },
+    "excerpt_duration": "01:45",
+    "timestamps": {
+        "start": "28:27",
+        "end": "30:12"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hank Jones",
+        "bassist": "Dave Holland",
+        "drummer": "Billy Higgins",
+        "leader": "bassist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hollandd-yesterdays-joneshhigginsb-1989-126bab92",
+    "tempo": 183.12727740536448,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.008544675793770384,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

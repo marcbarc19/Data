@@ -1,0 +1,94 @@
+{
+    "track_name": "Rifftide",
+    "album_name": "Bouncing with Bud",
+    "recording_year": "1962",
+    "in_30_corpus": true,
+    "bandleader": "Bud Powell",
+    "pianist": "Bud Powell",
+    "channel_overrides": {
+        "drums": "l",
+        "bass": "r"
+    },
+    "mbz_id": "8a86e370-95b2-48d1-8346-7664ab9f2b7f",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 6.77,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=cUBvCQbMPbQ"
+        ]
+    },
+    "excerpt_duration": "02:21",
+    "timestamps": {
+        "start": "00:35",
+        "end": "02:56"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bud Powell",
+        "bassist": "Niels-Henning Orsted Pedersen",
+        "drummer": "William Schiopffe",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "powellb-rifftide-orstednschiopffew-1962-8a86e370",
+    "tempo": 217.4762737732726,
+    "validation": {
+        "piano": {
+            "f_score": 0.901840490797546,
+            "precision": 0.8506944444444444,
+            "recall": 0.9595300261096605,
+            "mean_asynchrony": -0.007319727887074929,
+            "fraction_matched": 0.9595300261096605
+        },
+        "bass": {
+            "f_score": 0.9553656220322888,
+            "precision": 0.9729206963249516,
+            "recall": 0.9384328358208955,
+            "mean_asynchrony": -0.0025137609741547875,
+            "fraction_matched": 0.9384328358208955
+        },
+        "drums": {
+            "f_score": 0.952203600248293,
+            "precision": 0.9858611825192802,
+            "recall": 0.9207683073229291,
+            "mean_asynchrony": -0.002819211993480863,
+            "fraction_matched": 0.9207683073229291
+        },
+        "mix": {
+            "f_score": 0.999020568070519,
+            "precision": 1.0,
+            "recall": 0.9980430528375733,
+            "mean_asynchrony": 0.003436129996078381,
+            "fraction_matched": 0.9980430528375733
+        },
+        "mix_downbeats": {
+            "f_score": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "mean_asynchrony": NaN,
+            "fraction_matched": 0.0
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.008562946857883613,
+        "drums": 0.0
+    }
+}

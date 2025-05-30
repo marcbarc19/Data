@@ -1,0 +1,60 @@
+{
+    "track_name": "Ill Close My Eyes",
+    "album_name": "At the Blue Note The Complete Recordings",
+    "recording_year": "1994",
+    "in_30_corpus": true,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "c7066210-7f8a-45ff-ae69-3d4fde2016e4",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 10.07,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=2l93jd8Y07g"
+        ]
+    },
+    "excerpt_duration": "05:25",
+    "timestamps": {
+        "start": "00:52",
+        "end": "06:17"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Gary Peacock",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-illclosemyeyes-peacockgdejohnettej-1994-c7066210",
+    "tempo": 225.27641079818568,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0071530390927874166,
+        "bass": 0.16580025741117566,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "track_name": "Surry With the Fringe on Top",
+    "album_name": "Takin Charge",
+    "recording_year": "1961",
+    "in_30_corpus": false,
+    "bandleader": "Wynton Kelly",
+    "pianist": "Wynton Kelly",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r"
+    },
+    "mbz_id": "44d6b5c0-62ab-40b6-a979-40a05920d998",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=avdBzmwA09g"
+        ]
+    },
+    "excerpt_duration": "01:50",
+    "timestamps": {
+        "start": "01:15",
+        "end": "03:05"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Wynton Kelly",
+        "bassist": "Sam Jones",
+        "drummer": "Jimmy Cobb",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "kellyw-surrywiththefringeon-jonesscobbj-1961-44d6b5c0",
+    "tempo": 133.47164845578044,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.03271821279493581,
+        "bass": 0.19262152155147905,
+        "drums": 0.0
+    }
+}

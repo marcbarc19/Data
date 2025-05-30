@@ -1,0 +1,60 @@
+{
+    "track_name": "Iki Masho Lets Go",
+    "album_name": "Counterpoints Live in Tokyo",
+    "recording_year": "1978",
+    "in_30_corpus": true,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "58959fe3-2b34-4ed2-803e-243650abe275",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": 20.06,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=ENyyoQqLIC4"
+        ]
+    },
+    "excerpt_duration": "03:55",
+    "timestamps": {
+        "start": "00:45",
+        "end": "04:40"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "Ron Carter",
+        "drummer": "Tony Williams",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-ikimasholetsgo-carterrwilliamst-1978-58959fe3",
+    "tempo": 267.215682729043,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 1.2350543944994463e-05,
+        "bass": 0.9447313158462497,
+        "drums": 0.0
+    }
+}

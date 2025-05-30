@@ -1,0 +1,91 @@
+{
+    "track_name": "All of You",
+    "album_name": "Complete Fantasy Recordings",
+    "recording_year": "1974",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {},
+    "mbz_id": "1324a29e-6075-4beb-861d-73f6de9be20a",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 1.5,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=G30xi-yrWuA"
+        ]
+    },
+    "excerpt_duration": "01:56",
+    "timestamps": {
+        "start": "01:41",
+        "end": "03:37"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Eliot Zigmund",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-allofyou-gomezezigmunde-1974-1324a29e",
+    "tempo": 204.5257047467837,
+    "validation": {
+        "piano": {
+            "f_score": 0.940700808625337,
+            "precision": 0.9803370786516854,
+            "recall": 0.9041450777202072,
+            "mean_asynchrony": -0.0007467724240687411,
+            "fraction_matched": 0.9041450777202072
+        },
+        "bass": {
+            "f_score": 0.8830188679245282,
+            "precision": 0.8181818181818182,
+            "recall": 0.9590163934426229,
+            "mean_asynchrony": -0.0025398117692307935,
+            "fraction_matched": 0.9590163934426229
+        },
+        "drums": {
+            "f_score": 0.9164420485175202,
+            "precision": 0.8900523560209425,
+            "recall": 0.9444444444444444,
+            "mean_asynchrony": 0.002232003909803987,
+            "fraction_matched": 0.9444444444444444
+        },
+        "mix": {
+            "f_score": 0.7733674775928296,
+            "precision": 0.7723785166240409,
+            "recall": 0.7743589743589744,
+            "mean_asynchrony": -0.01322851437417181,
+            "fraction_matched": 0.7743589743589744
+        },
+        "mix_downbeats": {
+            "f_score": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "mean_asynchrony": NaN,
+            "fraction_matched": 0.0
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.06303998384682241,
+        "drums": 0.0
+    }
+}

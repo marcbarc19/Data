@@ -1,0 +1,60 @@
+{
+    "track_name": "Just in Time",
+    "album_name": "My Funny Valentine",
+    "recording_year": "1991",
+    "in_30_corpus": false,
+    "bandleader": "Cedar Walton",
+    "pianist": "Cedar Walton",
+    "channel_overrides": {},
+    "mbz_id": "d2a2c6d4-f084-477a-86b5-f187fe2b5e04",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=eLobMKOmPuM"
+        ]
+    },
+    "excerpt_duration": "02:26",
+    "timestamps": {
+        "start": "01:30",
+        "end": "03:56"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Cedar Walton",
+        "bassist": "Ron Carter",
+        "drummer": "Billy Higgins",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "waltonc-justintime-carterrhigginsb-1991-d2a2c6d4",
+    "tempo": 264.6453980801807,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.0009343158559115272,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "track_name": "Autumn Leaves",
+    "album_name": "The Last Waltz",
+    "recording_year": "1980",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "piano": "r",
+        "bass": "l",
+        "drums": "l"
+    },
+    "mbz_id": "2955522b-d70a-4862-9359-397ca4ed2b1d",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 3.31,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=XL8Kw-74DKA"
+        ]
+    },
+    "excerpt_duration": "01:33",
+    "timestamps": {
+        "start": "07:49:17",
+        "end": "07:50:50"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Marc Johnson",
+        "drummer": "Joe LaBarbera",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-autumnleaves-johnsonmlabarberaj-1980-2955522b",
+    "tempo": 228.71578580150006,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00014336833666395155,
+        "bass": 0.345850266889424,
+        "drums": 0.0
+    }
+}

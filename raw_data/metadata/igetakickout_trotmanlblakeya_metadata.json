@@ -1,0 +1,60 @@
+{
+    "track_name": "I Get a Kick Out of You",
+    "album_name": "The Complete Bud Powell on Verve",
+    "recording_year": "1955",
+    "in_30_corpus": false,
+    "bandleader": "Bud Powell",
+    "pianist": "Bud Powell",
+    "channel_overrides": {},
+    "mbz_id": "9882c94d-4a70-4ab9-a8aa-42adcbb44455",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=4U4ElgD2qMg"
+        ]
+    },
+    "excerpt_duration": "01:40",
+    "timestamps": {
+        "start": "02:32:10",
+        "end": "02:33:50"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bud Powell",
+        "bassist": "Lloyd Trotman",
+        "drummer": "Art Blakey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "powellb-igetakickout-trotmanlblakeya-1955-9882c94d",
+    "tempo": 183.39803731627,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.02263440091769009,
+        "bass": 0.08468476392569046,
+        "drums": 0.0
+    }
+}

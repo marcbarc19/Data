@@ -1,0 +1,64 @@
+{
+    "track_name": "Time Was take 2",
+    "album_name": "Green Chimneys",
+    "recording_year": "1984",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Barron",
+    "pianist": "Kenny Barron",
+    "channel_overrides": {
+        "piano": "r",
+        "bass": "l",
+        "drums": "l"
+    },
+    "mbz_id": "9754814e-3bdf-4984-96ae-8d487433aafa",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=78k2_uQSnos"
+        ]
+    },
+    "excerpt_duration": "01:55",
+    "timestamps": {
+        "start": "00:40",
+        "end": "02:35"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Barron",
+        "bassist": "Buster Williams",
+        "drummer": "Ben Riley",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "barronk-timewastake2-williamsbrileyb-1984-9754814e",
+    "tempo": 199.75129116924901,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.007192111389402234,
+        "bass": 0.20667856940072038,
+        "drums": 0.0
+    }
+}

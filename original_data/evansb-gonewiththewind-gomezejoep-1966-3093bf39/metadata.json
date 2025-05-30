@@ -1,0 +1,64 @@
+{
+    "track_name": "Gone With the Wind",
+    "album_name": "The Complete Bill Evans on Verve",
+    "recording_year": "1966",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "3093bf39-19f5-4c81-91bd-1e09cc5bb457",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 2.989,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=xDf9orIFpaI"
+        ]
+    },
+    "excerpt_duration": "01:32",
+    "timestamps": {
+        "start": "00:42",
+        "end": "02:14"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Philly Joe Jones",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-gonewiththewind-gomezejoep-1966-3093bf39",
+    "tempo": 227.01969834917807,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.000536316726575059,
+        "bass": 0.15807738340533517,
+        "drums": 0.0
+    }
+}

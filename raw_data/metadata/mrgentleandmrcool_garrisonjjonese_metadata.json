@@ -1,0 +1,60 @@
+{
+    "track_name": "Mr Gentle and Mr Cool",
+    "album_name": "McCoy Tyner plays Ellington",
+    "recording_year": "1964",
+    "in_30_corpus": true,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "0ea667bc-a931-439d-adfa-79062ad167d8",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 15.39,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=qi9u9eZzHos"
+        ]
+    },
+    "excerpt_duration": "03:07",
+    "timestamps": {
+        "start": "01:02",
+        "end": "04:09"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "Jimmy Garrison",
+        "drummer": "Elvin Jones",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-mrgentleandmrcool-garrisonjjonese-1964-0ea667bc",
+    "tempo": 138.03988875591278,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.030001057331624725,
+        "bass": 0.2135926285555202,
+        "drums": 0.0
+    }
+}

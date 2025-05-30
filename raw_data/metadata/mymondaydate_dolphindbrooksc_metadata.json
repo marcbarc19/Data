@@ -1,0 +1,60 @@
+{
+    "track_name": "My Monday Date",
+    "album_name": "Fathas Day An Earl Hines Songbook",
+    "recording_year": "2003",
+    "in_30_corpus": true,
+    "bandleader": "John Hicks",
+    "pianist": "John Hicks",
+    "channel_overrides": {},
+    "mbz_id": "a324ffcb-362f-45ba-87f1-d4e620957542",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 6.84,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=_adR3Y6tyuc"
+        ]
+    },
+    "excerpt_duration": "01:52",
+    "timestamps": {
+        "start": "01:10",
+        "end": "03:02"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "John Hicks",
+        "bassist": "Dwayne Dolphin",
+        "drummer": "Cecil Brooks III",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hicksj-mymondaydate-dolphindbrooksc-2003-a324ffcb",
+    "tempo": 135.79992100954507,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.03792770077584895,
+        "bass": 0.0737663902370298,
+        "drums": 0.0
+    }
+}

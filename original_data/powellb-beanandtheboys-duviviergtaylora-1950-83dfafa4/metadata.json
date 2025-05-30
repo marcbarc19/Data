@@ -1,0 +1,91 @@
+{
+    "track_name": "Bean and the Boys",
+    "album_name": "The Best of Bud Powell 194462 Vol 1",
+    "recording_year": "1950",
+    "in_30_corpus": true,
+    "bandleader": "Bud Powell",
+    "pianist": "Bud Powell",
+    "channel_overrides": {},
+    "mbz_id": "83dfafa4-399c-4c6c-9333-605561312aca",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 6.52,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=x_LxG1ff4kM"
+        ]
+    },
+    "excerpt_duration": "01:10",
+    "timestamps": {
+        "start": "01:10",
+        "end": "02:20"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bud Powell",
+        "bassist": "George Duvivier",
+        "drummer": "Art Taylor",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "powellb-beanandtheboys-duviviergtaylora-1950-83dfafa4",
+    "tempo": 212.03336581805883,
+    "validation": {
+        "piano": {
+            "f_score": 0.9490616621983914,
+            "precision": 0.9672131147540983,
+            "recall": 0.9315789473684211,
+            "mean_asynchrony": -0.003869288223163772,
+            "fraction_matched": 0.9315789473684211
+        },
+        "bass": {
+            "f_score": 0.9900596421471173,
+            "precision": 0.9880952380952381,
+            "recall": 0.9920318725099602,
+            "mean_asynchrony": -0.004131537835341648,
+            "fraction_matched": 0.9920318725099602
+        },
+        "drums": {
+            "f_score": 0.9974358974358974,
+            "precision": 1.0,
+            "recall": 0.9948849104859335,
+            "mean_asynchrony": -0.0027210880000001097,
+            "fraction_matched": 0.9948849104859335
+        },
+        "mix": {
+            "f_score": 0.9475806451612903,
+            "precision": 0.951417004048583,
+            "recall": 0.9437751004016064,
+            "mean_asynchrony": -1.3701923404277162e-05,
+            "fraction_matched": 0.9437751004016064
+        },
+        "mix_downbeats": {
+            "f_score": 0.912,
+            "precision": 0.9193548387096774,
+            "recall": 0.9047619047619048,
+            "mean_asynchrony": -0.0006273620526315781,
+            "fraction_matched": 0.9047619047619048
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.025162895222722526,
+        "drums": 0.0
+    }
+}

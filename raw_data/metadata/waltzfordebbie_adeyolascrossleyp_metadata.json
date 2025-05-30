@@ -1,0 +1,60 @@
+{
+    "track_name": "Waltz for Debbie",
+    "album_name": "Live at Bubbas",
+    "recording_year": "1980",
+    "in_30_corpus": true,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {},
+    "mbz_id": "0c9b07cd-2553-4899-8451-fcd74a53a739",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 12.98,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=BxCRjwqUcOc"
+        ]
+    },
+    "excerpt_duration": "02:00",
+    "timestamps": {
+        "start": "03:10",
+        "end": "05:10"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Sabu Adeyola",
+        "drummer": "Payton Crossley",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-waltzfordebbie-adeyolascrossleyp-1980-0c9b07cd",
+    "tempo": 195.10141054072298,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.4123645422211071,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Ladybird",
+    "album_name": "Bebopbebopbebopbebop",
+    "recording_year": "1989",
+    "in_30_corpus": false,
+    "bandleader": "Paul Bley",
+    "pianist": "Paul Bley",
+    "channel_overrides": {},
+    "mbz_id": "8dfc386a-65c8-473a-956c-321477996418",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=3zHxocy_vxM"
+        ]
+    },
+    "excerpt_duration": "02:10",
+    "timestamps": {
+        "start": "00:44",
+        "end": "02:54"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Paul Bley",
+        "bassist": "Bob Cranshaw",
+        "drummer": "Keith Copeland",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "bleyp-ladybird-cranshawbcopelandk-1989-8dfc386a",
+    "tempo": 177.73042389440488,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.020606070753835026,
+        "drums": 0.0
+    }
+}

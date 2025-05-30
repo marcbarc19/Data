@@ -1,0 +1,60 @@
+{
+    "track_name": "Riot",
+    "album_name": "Inside Out",
+    "recording_year": "2001",
+    "in_30_corpus": true,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "41cd26ac-e2f0-48e7-9147-0b7759e4465f",
+    "notes": "no discernible solo?",
+    "time_signature": 4,
+    "first_downbeat": 35.6,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=gvMm2VfDytc"
+        ]
+    },
+    "excerpt_duration": "03:01",
+    "timestamps": {
+        "start": "00:00",
+        "end": "03:01"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Gary Peacock",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-riot-peacockgdejohnettej-2001-41cd26ac",
+    "tempo": 215.12052893508354,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.01738070805541292,
+        "bass": 0.31293291431503323,
+        "drums": 0.012314007183170772
+    }
+}

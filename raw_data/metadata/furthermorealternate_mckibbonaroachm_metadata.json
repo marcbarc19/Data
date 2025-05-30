@@ -1,0 +1,60 @@
+{
+    "track_name": "Furthermore alternate",
+    "album_name": "The Complete Blue Note Recordings",
+    "recording_year": "1955",
+    "in_30_corpus": false,
+    "bandleader": "Herbie Nichols",
+    "pianist": "Herbie Nichols",
+    "channel_overrides": {},
+    "mbz_id": "428eceab-bd65-4bf6-92c0-9e9b998a6144",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=JAYf2_0P24w"
+        ]
+    },
+    "excerpt_duration": "00:58",
+    "timestamps": {
+        "start": "02:25:39",
+        "end": "02:26:37"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Herbie Nichols",
+        "bassist": "Al McKibbon",
+        "drummer": "Max Roach",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "nicholsh-furthermorealternate-mckibbonaroachm-1955-428eceab",
+    "tempo": 264.0071823828346,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00010181841322365326,
+        "bass": 0.22542596687719751,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "track_name": "Pot Luck",
+    "album_name": "Six Classic Albums",
+    "recording_year": "1955",
+    "in_30_corpus": false,
+    "bandleader": "Wynton Kelly",
+    "pianist": "Wynton Kelly",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "738b8163-9e37-4603-b795-a3812059fb43",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=m67ZPg5isa8"
+        ]
+    },
+    "excerpt_duration": "03:22",
+    "timestamps": {
+        "start": "00:16",
+        "end": "03:38"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Wynton Kelly",
+        "bassist": "Paul Chambers",
+        "drummer": "Philly Joe Jones",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "kellyw-potluck-chamberspjoep-1955-738b8163",
+    "tempo": 186.13330349725769,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.050923456220533514,
+        "bass": 0.046987413313340776,
+        "drums": 0.0
+    }
+}

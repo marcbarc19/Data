@@ -1,0 +1,64 @@
+{
+    "track_name": "High in the Sky",
+    "album_name": "High in the Sky",
+    "recording_year": "1970",
+    "in_30_corpus": false,
+    "bandleader": "Hampton Hawes",
+    "pianist": "Hampton Hawes",
+    "channel_overrides": {
+        "bass": "r",
+        "piano": "l",
+        "drums": "l"
+    },
+    "mbz_id": "d0b63497-83f1-4900-917a-930a9e356000",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=L_5wufAvfGw"
+        ]
+    },
+    "excerpt_duration": "01:34",
+    "timestamps": {
+        "start": "01:34",
+        "end": "03:08"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hampton Hawes",
+        "bassist": "Leroy Vinnegar",
+        "drummer": "Donald \u201cDuck\u201d Bailey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hawesh-highinthesky-vinnegarlduckd-1970-d0b63497",
+    "tempo": 148.27726651282555,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.041804874566080286,
+        "bass": 0.017597990124285756,
+        "drums": 0.0
+    }
+}

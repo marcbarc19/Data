@@ -1,0 +1,60 @@
+{
+    "track_name": "Blues for Max",
+    "album_name": "Bon Voyage",
+    "recording_year": "1987",
+    "in_30_corpus": false,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "f3781383-684a-45cc-a8d9-1e5bde9058a3",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=-wrnxSHa7iE"
+        ]
+    },
+    "excerpt_duration": "02:29",
+    "timestamps": {
+        "start": "00:41",
+        "end": "03:10"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "Avery Sharpe",
+        "drummer": "Louis Hayes",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-bluesformax-sharpeahayesl-1987-f3781383",
+    "tempo": 152.78885459519975,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.05654656648951217,
+        "drums": 0.0
+    }
+}

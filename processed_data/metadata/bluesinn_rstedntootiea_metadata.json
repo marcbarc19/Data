@@ -1,0 +1,60 @@
+{
+    "track_name": "Blues Inn",
+    "album_name": "Dark Beauty",
+    "recording_year": "1974",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Drew",
+    "pianist": "Kenny Drew",
+    "channel_overrides": {},
+    "mbz_id": "30dbeb9e-06f5-4f19-84d1-9398de4ed990",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=rW895koAlPM"
+        ]
+    },
+    "excerpt_duration": "02:19",
+    "timestamps": {
+        "start": "00:31",
+        "end": "02:50"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Drew",
+        "bassist": "Niels-Henning \u00d8rsted Pedersen",
+        "drummer": "Albert \u201cTootie\u201d Heath",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "drewk-bluesinn-rstedntootiea-1974-30dbeb9e",
+    "tempo": 187.57161422132873,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.004802118151680412,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

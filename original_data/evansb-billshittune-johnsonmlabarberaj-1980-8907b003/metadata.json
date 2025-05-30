@@ -1,0 +1,91 @@
+{
+    "track_name": "Bills Hit Tune",
+    "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+    "recording_year": "1980",
+    "in_30_corpus": true,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {},
+    "mbz_id": "8907b003-9e93-4b74-b35a-981879c9e36e",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 24.64,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=q8k3JOSO62Q"
+        ]
+    },
+    "excerpt_duration": "02:12",
+    "timestamps": {
+        "start": "03:28",
+        "end": "05:40"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Marc Johnson",
+        "drummer": "Joe LaBarbera",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-billshittune-johnsonmlabarberaj-1980-8907b003",
+    "tempo": 216.61491668039028,
+    "validation": {
+        "piano": {
+            "f_score": 0.8955597248280174,
+            "precision": 0.9310793237971391,
+            "recall": 0.8626506024096385,
+            "mean_asynchrony": -0.007691255280726425,
+            "fraction_matched": 0.8626506024096385
+        },
+        "bass": {
+            "f_score": 0.928,
+            "precision": 0.9080234833659491,
+            "recall": 0.9488752556237219,
+            "mean_asynchrony": -0.006904370931034699,
+            "fraction_matched": 0.9488752556237219
+        },
+        "drums": {
+            "f_score": 0.9354375896700143,
+            "precision": 0.9408369408369408,
+            "recall": 0.9300998573466477,
+            "mean_asynchrony": -0.001930602510736166,
+            "fraction_matched": 0.9300998573466477
+        },
+        "mix": {
+            "f_score": 0.9674711437565583,
+            "precision": 0.9705263157894737,
+            "recall": 0.9644351464435147,
+            "mean_asynchrony": 0.001864870314533918,
+            "fraction_matched": 0.9644351464435147
+        },
+        "mix_downbeats": {
+            "f_score": 0.8739495798319328,
+            "precision": 0.8739495798319328,
+            "recall": 0.8739495798319328,
+            "mean_asynchrony": 0.002778431932693224,
+            "fraction_matched": 0.8739495798319328
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.03847718303046299,
+        "drums": 0.0
+    }
+}

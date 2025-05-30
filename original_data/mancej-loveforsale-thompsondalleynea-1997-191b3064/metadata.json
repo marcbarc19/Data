@@ -1,0 +1,64 @@
+{
+    "track_name": "Love for Sale",
+    "album_name": "Milestones",
+    "recording_year": "1997",
+    "in_30_corpus": false,
+    "bandleader": "Junior Mance",
+    "pianist": "Junior Mance",
+    "channel_overrides": {
+        "piano": "r",
+        "bass": "l",
+        "drums": "l"
+    },
+    "mbz_id": "191b3064-8a96-4eb4-8675-3c7f52c6f27f",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=DTRJhAUxQvU"
+        ]
+    },
+    "excerpt_duration": "03:08",
+    "timestamps": {
+        "start": "01:42",
+        "end": "04:50"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Junior Mance",
+        "bassist": "Don Thompson",
+        "drummer": "Archie Alleyne",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "mancej-loveforsale-thompsondalleynea-1997-191b3064",
+    "tempo": 161.92520239834818,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.003455079623134849,
+        "bass": 0.007193821186845528,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "If I Were a Bell",
+    "album_name": "Up for It",
+    "recording_year": "2001",
+    "in_30_corpus": false,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "a567c076-b8d6-44d3-bf35-3d987023c790",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=nUO_fWR9h-E"
+        ]
+    },
+    "excerpt_duration": "06:39",
+    "timestamps": {
+        "start": "01:33",
+        "end": "08:12"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Gary Peacock",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-ifiwereabell-peacockgdejohnettej-2001-a567c076",
+    "tempo": 153.5716237418571,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.006227528808416483,
+        "bass": 0.19650293994826018,
+        "drums": 0.0
+    }
+}

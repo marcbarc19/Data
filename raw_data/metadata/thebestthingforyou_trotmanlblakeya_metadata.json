@@ -1,0 +1,60 @@
+{
+    "track_name": "The Best Thing for You",
+    "album_name": "The Complete Bud Powell on Verve",
+    "recording_year": "1955",
+    "in_30_corpus": false,
+    "bandleader": "Bud Powell",
+    "pianist": "Bud Powell",
+    "channel_overrides": {},
+    "mbz_id": "4e7af6f4-b1a1-481a-994d-8f9b3038dc82",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=4U4ElgD2qMg"
+        ]
+    },
+    "excerpt_duration": "01:15",
+    "timestamps": {
+        "start": "02:45:40",
+        "end": "02:46:55"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bud Powell",
+        "bassist": "Lloyd Trotman",
+        "drummer": "Art Blakey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "powellb-thebestthingforyou-trotmanlblakeya-1955-4e7af6f4",
+    "tempo": 262.3861943284942,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.05760163119663586,
+        "bass": 0.03182990069698366,
+        "drums": 0.0
+    }
+}

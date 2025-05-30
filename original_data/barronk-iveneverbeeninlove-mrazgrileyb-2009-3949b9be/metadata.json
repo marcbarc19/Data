@@ -1,0 +1,60 @@
+{
+    "track_name": "Ive Never Been in Love Before",
+    "album_name": "Minor Blues",
+    "recording_year": "2009",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Barron",
+    "pianist": "Kenny Barron",
+    "channel_overrides": {},
+    "mbz_id": "3949b9be-284f-427d-96dc-5910f754bdec",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=5ceV5oltCUo"
+        ]
+    },
+    "excerpt_duration": "02:00",
+    "timestamps": {
+        "start": "01:11",
+        "end": "03:11"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Barron",
+        "bassist": "George Mraz",
+        "drummer": "Ben Riley",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "barronk-iveneverbeeninlove-mrazgrileyb-2009-3949b9be",
+    "tempo": 190.39315053330185,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.01037578198160205,
+        "bass": 0.016107857342067433,
+        "drums": 0.0
+    }
+}

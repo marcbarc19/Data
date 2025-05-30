@@ -1,0 +1,60 @@
+{
+    "track_name": "Soul Burnin",
+    "album_name": "Soul Burnin",
+    "recording_year": "1960",
+    "in_30_corpus": false,
+    "bandleader": "Red Garland",
+    "pianist": "Red Garland",
+    "channel_overrides": {},
+    "mbz_id": "213dbfc7-2ade-44a9-81b7-6e9e0c96c73f",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=-FQNZRnv_zw"
+        ]
+    },
+    "excerpt_duration": "01:54",
+    "timestamps": {
+        "start": "00:32",
+        "end": "02:26"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Red Garland",
+        "bassist": "Sam Jones",
+        "drummer": "Art Taylor",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "garlandr-soulburnin-jonesstaylora-1960-213dbfc7",
+    "tempo": 251.4318787329104,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00017982839233410264,
+        "bass": 0.1749216462004829,
+        "drums": 0.0
+    }
+}

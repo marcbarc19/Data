@@ -1,0 +1,60 @@
+{
+    "track_name": "Birdland Blues",
+    "album_name": "Swingin With Bud",
+    "recording_year": "1956",
+    "in_30_corpus": true,
+    "bandleader": "Bud Powell",
+    "pianist": "Bud Powell",
+    "channel_overrides": {},
+    "mbz_id": "ac8da941-424d-4366-8e70-26344f05dfce",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 9.35,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=xUe81aFKcB4"
+        ]
+    },
+    "excerpt_duration": "02:15",
+    "timestamps": {
+        "start": "00:50",
+        "end": "03:05"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bud Powell",
+        "bassist": "George Duvivier",
+        "drummer": "Art Taylor",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "powellb-birdlandblues-duviviergtaylora-1956-ac8da941",
+    "tempo": 127.08846097768217,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.01014673260967991,
+        "bass": 0.10163930461560788,
+        "drums": 0.0
+    }
+}

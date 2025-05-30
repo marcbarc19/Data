@@ -1,0 +1,94 @@
+{
+    "track_name": "Fly Little Bird Fly",
+    "album_name": "On the Wings of an Eagle",
+    "recording_year": "2006",
+    "in_30_corpus": true,
+    "bandleader": "John Hicks",
+    "pianist": "John Hicks",
+    "channel_overrides": {
+        "piano": "l",
+        "bass": "r"
+    },
+    "mbz_id": "e3e5bd4a-a7c4-4b49-8308-c63420605332",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 6.57,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=NEdrFbs5Rvg"
+        ]
+    },
+    "excerpt_duration": "02:22",
+    "timestamps": {
+        "start": "00:43",
+        "end": "03:05"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "John Hicks",
+        "bassist": "Buster Williams",
+        "drummer": "Louis Hayes",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hicksj-flylittlebirdfly-williamsbhayesl-2006-e3e5bd4a",
+    "tempo": 241.89188063474214,
+    "validation": {
+        "piano": {
+            "f_score": 0.9163154726068634,
+            "precision": 0.95125,
+            "recall": 0.883855981416957,
+            "mean_asynchrony": -0.00806591756898809,
+            "fraction_matched": 0.883855981416957
+        },
+        "bass": {
+            "f_score": 0.96,
+            "precision": 0.9832775919732442,
+            "recall": 0.937799043062201,
+            "mean_asynchrony": -0.006075516372449235,
+            "fraction_matched": 0.937799043062201
+        },
+        "drums": {
+            "f_score": 0.9242520687460216,
+            "precision": 0.9502617801047121,
+            "recall": 0.8996282527881041,
+            "mean_asynchrony": -0.00429870753305766,
+            "fraction_matched": 0.8996282527881041
+        },
+        "mix": {
+            "f_score": 0.9544658493870403,
+            "precision": 0.9527972027972028,
+            "recall": 0.956140350877193,
+            "mean_asynchrony": -0.00794678482935805,
+            "fraction_matched": 0.956140350877193
+        },
+        "mix_downbeats": {
+            "f_score": 0.965034965034965,
+            "precision": 0.965034965034965,
+            "recall": 0.965034965034965,
+            "mean_asynchrony": -0.007834795739131015,
+            "fraction_matched": 0.965034965034965
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.01941901971792126,
+        "drums": 0.0
+    }
+}

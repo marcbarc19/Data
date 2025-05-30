@@ -1,0 +1,64 @@
+{
+    "track_name": "Waking Up",
+    "album_name": "The Second Trio",
+    "recording_year": "1962",
+    "in_30_corpus": true,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "r",
+        "piano": "l",
+        "drums": "l"
+    },
+    "mbz_id": "fd5c2d2d-689e-43b8-aca0-18e9824f0c16",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 7.17,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=8jujOdT5lEo"
+        ]
+    },
+    "excerpt_duration": "01:08",
+    "timestamps": {
+        "start": "00:38",
+        "end": "01:46"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Chuck Israels",
+        "drummer": "Paul Motian",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-wakingup-israelscmotianp-1962-fd5c2d2d",
+    "tempo": 218.12568953023117,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.028204697404879853,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

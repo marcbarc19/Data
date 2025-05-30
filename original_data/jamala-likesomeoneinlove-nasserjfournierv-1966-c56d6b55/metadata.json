@@ -1,0 +1,60 @@
+{
+    "track_name": "Like Someone In Love",
+    "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+    "recording_year": "1966",
+    "in_30_corpus": true,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {},
+    "mbz_id": "c56d6b55-e630-4a83-8fd5-70f016bd42b1",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 9.63,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=uNNTDV0Qzug"
+        ]
+    },
+    "excerpt_duration": "00:44",
+    "timestamps": {
+        "start": "03:06",
+        "end": "03:50"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Jamil Nasser",
+        "drummer": "Vernell Fournier",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-likesomeoneinlove-nasserjfournierv-1966-c56d6b55",
+    "tempo": 140.90886221278936,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.007912859633288472,
+        "bass": 0.6091047341155525,
+        "drums": 0.0
+    }
+}

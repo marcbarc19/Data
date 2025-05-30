@@ -1,0 +1,60 @@
+{
+    "track_name": "The Wise One",
+    "album_name": "Remembering John",
+    "recording_year": "1991",
+    "in_30_corpus": false,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "a8ff2e12-2322-4a25-861f-df018366240d",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=JydoFdU7Qb0"
+        ]
+    },
+    "excerpt_duration": "02:59",
+    "timestamps": {
+        "start": "50:30",
+        "end": "53:29"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "Avery Sharpe",
+        "drummer": "Aaron Scott",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-thewiseone-sharpeascotta-1991-a8ff2e12",
+    "tempo": 140.7574870443618,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 3.749291941157473e-05,
+        "bass": 0.009732959214796999,
+        "drums": 0.0
+    }
+}

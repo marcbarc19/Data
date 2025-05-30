@@ -1,0 +1,63 @@
+{
+    "track_name": "The Dream",
+    "album_name": "Round Midnight at the Montmartre",
+    "recording_year": "1965",
+    "in_30_corpus": false,
+    "bandleader": "Abdullah Ibrahim",
+    "pianist": "Abdullah Ibrahim",
+    "channel_overrides": {
+        "drums": "l",
+        "bass": "r"
+    },
+    "mbz_id": "a7dbcfb9-a020-411b-b5a1-9b003598ecb7",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=bo_yBNdRzv4"
+        ]
+    },
+    "excerpt_duration": "00:40",
+    "timestamps": {
+        "start": "23:47",
+        "end": "24:27"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Abdullah Ibrahim",
+        "bassist": "Johnny Gertze",
+        "drummer": "Makaya Ntshoko",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "ibrahima-thedream-gertzejntshokom-1965-a7dbcfb9",
+    "tempo": 216.3948047237172,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.01457330743127594,
+        "bass": 0.3519468478903953,
+        "drums": 0.0
+    }
+}

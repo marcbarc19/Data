@@ -1,0 +1,91 @@
+{
+    "track_name": "Denzils Best",
+    "album_name": "Eclypso",
+    "recording_year": "1976",
+    "in_30_corpus": true,
+    "bandleader": "Tommy Flanagan",
+    "pianist": "Tommy Flanagan",
+    "channel_overrides": {},
+    "mbz_id": "b4be29dc-0604-4d35-9eec-a1134ddf4d18",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 4.8,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=iSMM2iFtcSM"
+        ]
+    },
+    "excerpt_duration": "01:40",
+    "timestamps": {
+        "start": "01:04",
+        "end": "02:44"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Tommy Flanagan",
+        "bassist": "George Mraz",
+        "drummer": "Elvin Jones",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "flanagant-denzilsbest-mrazgjonese-1976-b4be29dc",
+    "tempo": 149.27574126909624,
+    "validation": {
+        "piano": {
+            "f_score": 0.9534883720930232,
+            "precision": 0.9638336347197106,
+            "recall": 0.9433628318584071,
+            "mean_asynchrony": -0.007100866590994341,
+            "fraction_matched": 0.9433628318584071
+        },
+        "bass": {
+            "f_score": 0.9449541284403671,
+            "precision": 0.9142011834319527,
+            "recall": 0.9778481012658228,
+            "mean_asynchrony": -0.009291181394822042,
+            "fraction_matched": 0.9778481012658228
+        },
+        "drums": {
+            "f_score": 0.9637404580152672,
+            "precision": 0.9546313799621928,
+            "recall": 0.9730250481695568,
+            "mean_asynchrony": -0.004718888225742597,
+            "fraction_matched": 0.9730250481695568
+        },
+        "mix": {
+            "f_score": 0.9899396378269617,
+            "precision": 0.9879518072289156,
+            "recall": 0.9919354838709677,
+            "mean_asynchrony": 0.0024928562439022824,
+            "fraction_matched": 0.9919354838709677
+        },
+        "mix_downbeats": {
+            "f_score": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "mean_asynchrony": NaN,
+            "fraction_matched": 0.0
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.0005514599175713286,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

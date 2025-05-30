@@ -1,0 +1,63 @@
+{
+    "track_name": "Sweet Georgia Brown",
+    "album_name": "I Believe to My Soul",
+    "recording_year": "1966",
+    "in_30_corpus": true,
+    "bandleader": "Junior Mance",
+    "pianist": "Junior Mance",
+    "channel_overrides": {
+        "bass": "l",
+        "drums": "r"
+    },
+    "mbz_id": "5e7f4aa7-5c65-46aa-9043-ff96b844c785",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 12.37,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=ae8KoZTGi4k"
+        ]
+    },
+    "excerpt_duration": "02:35",
+    "timestamps": {
+        "start": "01:25",
+        "end": "04:00"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Junior Mance",
+        "bassist": "Bob Cunningham",
+        "drummer": "Alan Dawson",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "mancej-sweetgeorgiabrown-cunninghambdawsona-1966-5e7f4aa7",
+    "tempo": 118.0356703012296,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.043892793630489035,
+        "bass": 0.5187896711961146,
+        "drums": 0.0
+    }
+}

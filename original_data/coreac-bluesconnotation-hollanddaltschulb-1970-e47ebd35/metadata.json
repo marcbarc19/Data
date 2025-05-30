@@ -1,0 +1,64 @@
+{
+    "track_name": "Blues Connotation",
+    "album_name": "The Beginning",
+    "recording_year": "1970",
+    "in_30_corpus": false,
+    "bandleader": "Chick Corea",
+    "pianist": "Chick Corea",
+    "channel_overrides": {
+        "bass": "r",
+        "piano": "l",
+        "drums": "l"
+    },
+    "mbz_id": "e47ebd35-34eb-4275-af28-a0319710bf9f",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=JlY2tojrdEE"
+        ]
+    },
+    "excerpt_duration": "03:50",
+    "timestamps": {
+        "start": "00:26",
+        "end": "04:16"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Chick Corea",
+        "bassist": "Dave Holland",
+        "drummer": "Barry Altschul",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "coreac-bluesconnotation-hollanddaltschulb-1970-e47ebd35",
+    "tempo": 241.74821748454602,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.04949118040771949,
+        "bass": 0.10146363666535496,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Amoebas Dance",
+    "album_name": "Complete Studio Master Takes",
+    "recording_year": "1957",
+    "in_30_corpus": false,
+    "bandleader": "Herbie Nichols",
+    "pianist": "Herbie Nichols",
+    "channel_overrides": {},
+    "mbz_id": "370a96a9-cd9b-45ef-8591-74571826205b",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=KjPEU2gh8ac"
+        ]
+    },
+    "excerpt_duration": "01:01",
+    "timestamps": {
+        "start": "00:50",
+        "end": "01:51"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Herbie Nichols",
+        "bassist": "Al McKibbon",
+        "drummer": "Art Blakey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "nicholsh-amoebasdance-mckibbonablakeya-1957-370a96a9",
+    "tempo": 188.236676184423,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.07203423121785535,
+        "bass": 0.20233526528589485,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Eclypso",
+    "album_name": "Eclypso",
+    "recording_year": "1976",
+    "in_30_corpus": true,
+    "bandleader": "Tommy Flanagan",
+    "pianist": "Tommy Flanagan",
+    "channel_overrides": {},
+    "mbz_id": "3fdae2b4-be3b-4a1c-a8bf-4fb57cf7c67a",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 4.99,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=he5ZQoC4ipA"
+        ]
+    },
+    "excerpt_duration": "03:18",
+    "timestamps": {
+        "start": "01:44",
+        "end": "05:02"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Tommy Flanagan",
+        "bassist": "George Mraz",
+        "drummer": "Elvin Jones",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "flanagant-eclypso-mrazgjonese-1976-3fdae2b4",
+    "tempo": 153.37969447633853,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.052825404270444354,
+        "bass": 0.029725282980150203,
+        "drums": 0.0
+    }
+}

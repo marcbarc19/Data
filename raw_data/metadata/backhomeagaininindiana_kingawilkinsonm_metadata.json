@@ -1,0 +1,91 @@
+{
+    "track_name": "Back Home Again in Indiana",
+    "album_name": "The Best of Oscar Peterson Trio",
+    "recording_year": "1947",
+    "in_30_corpus": true,
+    "bandleader": "Oscar Peterson",
+    "pianist": "Oscar Peterson",
+    "channel_overrides": {},
+    "mbz_id": "b0e03bf2-6c3d-48e7-aa7c-ab321ae8a459",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 6.99,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=FdvigIKS6ik"
+        ]
+    },
+    "excerpt_duration": "00:59",
+    "timestamps": {
+        "start": "01:34",
+        "end": "02:33"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Oscar Peterson",
+        "bassist": "Albert King",
+        "drummer": "Mark Wilkinson",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "petersono-backhomeagaininindiana-kingawilkinsonm-1947-b0e03bf2",
+    "tempo": 191.39430202125314,
+    "validation": {
+        "piano": {
+            "f_score": 0.9582836710369488,
+            "precision": 0.9804878048780488,
+            "recall": 0.9370629370629371,
+            "mean_asynchrony": -0.003734671313432886,
+            "fraction_matched": 0.9370629370629371
+        },
+        "bass": {
+            "f_score": 0.9299719887955181,
+            "precision": 0.9707602339181286,
+            "recall": 0.8924731182795699,
+            "mean_asynchrony": -0.0038300139216867353,
+            "fraction_matched": 0.8924731182795699
+        },
+        "drums": {
+            "f_score": 0.9186813186813187,
+            "precision": 0.9587155963302753,
+            "recall": 0.8818565400843882,
+            "mean_asynchrony": -0.00865692370813423,
+            "fraction_matched": 0.8818565400843882
+        },
+        "mix": {
+            "f_score": 0.9893048128342246,
+            "precision": 0.9893048128342246,
+            "recall": 0.9893048128342246,
+            "mean_asynchrony": -0.00775424404864849,
+            "fraction_matched": 0.9893048128342246
+        },
+        "mix_downbeats": {
+            "f_score": 0.9787234042553191,
+            "precision": 0.9787234042553191,
+            "recall": 0.9787234042553191,
+            "mean_asynchrony": -0.0072503204565214805,
+            "fraction_matched": 0.9787234042553191
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.18638675867156396,
+        "drums": 0.0
+    }
+}

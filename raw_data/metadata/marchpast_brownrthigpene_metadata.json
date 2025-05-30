@@ -1,0 +1,63 @@
+{
+    "track_name": "March Past",
+    "album_name": "Canadiana Suite",
+    "recording_year": "1964",
+    "in_30_corpus": true,
+    "bandleader": "Oscar Peterson",
+    "pianist": "Oscar Peterson",
+    "channel_overrides": {
+        "drums": "l",
+        "bass": "r"
+    },
+    "mbz_id": "f5594c8c-361b-4d73-b9bf-ab4c227a3101",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 5.81,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=VecvJjbaM88"
+        ]
+    },
+    "excerpt_duration": "01:36",
+    "timestamps": {
+        "start": "01:17",
+        "end": "02:53"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Oscar Peterson",
+        "bassist": "Ray Brown",
+        "drummer": "Ed Thigpen",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "petersono-marchpast-brownrthigpene-1964-f5594c8c",
+    "tempo": 291.19090991888424,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.023915218354493284,
+        "drums": 0.0
+    }
+}

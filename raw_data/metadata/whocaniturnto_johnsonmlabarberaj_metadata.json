@@ -1,0 +1,63 @@
+{
+    "track_name": "Who Can I Turn to When Nobody Needs Me",
+    "album_name": "Consecration",
+    "recording_year": "1980",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "piano": "r",
+        "drums": "l"
+    },
+    "mbz_id": "47bfd9aa-1d86-4630-83f9-9f29dd4f0f31",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 20.17,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=zA10ODRoP0w"
+        ]
+    },
+    "excerpt_duration": "01:04",
+    "timestamps": {
+        "start": "04:10",
+        "end": "05:14"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Marc Johnson",
+        "drummer": "Joe LaBarbera",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-whocaniturnto-johnsonmlabarberaj-1980-47bfd9aa",
+    "tempo": 235.42808302808302,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.10666092245599024,
+        "drums": 0.0
+    }
+}

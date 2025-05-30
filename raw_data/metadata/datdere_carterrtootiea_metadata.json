@@ -1,0 +1,64 @@
+{
+    "track_name": "Dat Dere",
+    "album_name": "In Person Recorded Live at the Village Vanguard",
+    "recording_year": "1961",
+    "in_30_corpus": false,
+    "bandleader": "Bobby Timmons",
+    "pianist": "Bobby Timmons",
+    "channel_overrides": {
+        "piano": "l",
+        "bass": "r",
+        "drums": "r"
+    },
+    "mbz_id": "9dbec53a-d93b-4acc-ae20-6f1e31dcc6e8",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=NtgRQlhGzgs"
+        ]
+    },
+    "excerpt_duration": "02:23",
+    "timestamps": {
+        "start": "01:02",
+        "end": "03:25"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bobby Timmons",
+        "bassist": "Ron Carter",
+        "drummer": "Albert \u201cTootie\u201d Heath",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "timmonsb-datdere-carterrtootiea-1961-9dbec53a",
+    "tempo": 147.37488590245195,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.09024075239262197,
+        "bass": 0.03666181816329184,
+        "drums": 0.0
+    }
+}

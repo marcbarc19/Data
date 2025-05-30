@@ -1,0 +1,60 @@
+{
+    "track_name": "Bird Song",
+    "album_name": "Something Borrowed Something Blue",
+    "recording_year": "1978",
+    "in_30_corpus": true,
+    "bandleader": "Tommy Flanagan",
+    "pianist": "Tommy Flanagan",
+    "channel_overrides": {},
+    "mbz_id": "1b95a78c-b86d-4fe4-9fd1-4de00ea0a041",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 8.74,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=wMHWJd8-J2k"
+        ]
+    },
+    "excerpt_duration": "02:15",
+    "timestamps": {
+        "start": "00:30",
+        "end": "02:45"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Tommy Flanagan",
+        "bassist": "Keter Betts",
+        "drummer": "Jimmie Smith",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "flanagant-birdsong-bettsksmithj-1978-1b95a78c",
+    "tempo": 279.34838893856994,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.011351893930741097,
+        "bass": 0.02246729007125825,
+        "drums": 0.0
+    }
+}

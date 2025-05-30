@@ -1,0 +1,60 @@
+{
+    "track_name": "Mean to Me",
+    "album_name": "New York Improvisations",
+    "recording_year": "1955",
+    "in_30_corpus": false,
+    "bandleader": "Lennie Tristano",
+    "pianist": "Lennie Tristano",
+    "channel_overrides": {},
+    "mbz_id": "c5c6e7a6-54c3-4093-90ca-2f6043417d6f",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=7mpCCb6SWBg"
+        ]
+    },
+    "excerpt_duration": "01:44",
+    "timestamps": {
+        "start": "00:16",
+        "end": "02:00"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Lennie Tristano",
+        "bassist": "Peter Ind",
+        "drummer": "Tom Weyburn",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tristanol-meantome-indpweyburnt-1955-c5c6e7a6",
+    "tempo": 133.08424556988078,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.024810571703668516,
+        "drums": 0.0
+    }
+}

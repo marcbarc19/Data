@@ -1,0 +1,64 @@
+{
+    "track_name": "Nardis",
+    "album_name": "Another Time  The Hilversum Concert",
+    "recording_year": "1967",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "r",
+        "piano": "l",
+        "drums": "l"
+    },
+    "mbz_id": "8fce94b9-9875-405d-9c5c-86a348f3fc7e",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 1.161,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=ScyiePiLzew"
+        ]
+    },
+    "excerpt_duration": "01:01",
+    "timestamps": {
+        "start": "02:29",
+        "end": "03:30"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-nardis-gomezedejohnettej-1967-8fce94b9",
+    "tempo": 227.60981047937574,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.012078109968343687,
+        "bass": 0.11775525285522481,
+        "drums": 0.0
+    }
+}

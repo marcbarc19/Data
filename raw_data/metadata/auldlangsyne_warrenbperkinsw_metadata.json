@@ -1,0 +1,64 @@
+{
+    "track_name": "Auld Lang Syne",
+    "album_name": "Holiday Soul",
+    "recording_year": "1964",
+    "in_30_corpus": false,
+    "bandleader": "Bobby Timmons",
+    "pianist": "Bobby Timmons",
+    "channel_overrides": {
+        "piano": "l",
+        "bass": "r",
+        "drums": "r"
+    },
+    "mbz_id": "df5a2093-6dad-4d6c-a006-961a51a91570",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=sFVC1ZGIiTM"
+        ]
+    },
+    "excerpt_duration": "03:06",
+    "timestamps": {
+        "start": "00:50",
+        "end": "03:56"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bobby Timmons",
+        "bassist": "Butch Warren",
+        "drummer": "Walter Perkins",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "timmonsb-auldlangsyne-warrenbperkinsw-1964-df5a2093",
+    "tempo": 203.48972868581097,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.03365097046347287,
+        "bass": 0.07336182196500951,
+        "drums": 0.0
+    }
+}

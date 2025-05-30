@@ -1,0 +1,60 @@
+{
+    "track_name": "Forgotten but Not Gone",
+    "album_name": "Your Soft Eyes",
+    "recording_year": "1981",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Drew",
+    "pianist": "Kenny Drew",
+    "channel_overrides": {},
+    "mbz_id": "cdad7419-9a2c-4153-bbf9-7e07ad2eae21",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=YPSdF1uSshE"
+        ]
+    },
+    "excerpt_duration": "01:11",
+    "timestamps": {
+        "start": "01:47",
+        "end": "02:58"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Drew",
+        "bassist": "Mads Vinding",
+        "drummer": "Ed Thigpen",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "drewk-forgottenbutnotgone-vindingmthigpene-1981-cdad7419",
+    "tempo": 239.48049843054469,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00020438899825125922,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Jackieing",
+    "album_name": "The Moment",
+    "recording_year": "1991",
+    "in_30_corpus": true,
+    "bandleader": "Kenny Barron",
+    "pianist": "Kenny Barron",
+    "channel_overrides": {},
+    "mbz_id": "6e5f5469-f0d0-4980-b59f-310ef6ebb3ea",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 19.16,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=_IkvR1V4A60"
+        ]
+    },
+    "excerpt_duration": "04:03",
+    "timestamps": {
+        "start": "00:28",
+        "end": "04:31"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Barron",
+        "bassist": "Rufus Reid",
+        "drummer": "Victor Lewis",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "barronk-jackieing-reidrlewisv-1991-6e5f5469",
+    "tempo": 288.1099706707711,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.01967394728630334,
+        "bass": 0.02742438064467012,
+        "drums": 0.0
+    }
+}

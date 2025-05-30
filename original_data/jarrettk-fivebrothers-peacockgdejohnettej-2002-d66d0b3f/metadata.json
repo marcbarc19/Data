@@ -1,0 +1,60 @@
+{
+    "track_name": "Five Brothers",
+    "album_name": "The OutofTowners",
+    "recording_year": "2002",
+    "in_30_corpus": true,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "d66d0b3f-d248-43af-b068-092a086a1d26",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 7.53,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Z_sthvy0FNk"
+        ]
+    },
+    "excerpt_duration": "05:57",
+    "timestamps": {
+        "start": "00:40",
+        "end": "06:37"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Gary Peacock",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-fivebrothers-peacockgdejohnettej-2002-d66d0b3f",
+    "tempo": 193.62911564668957,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 1.625983831365918e-05,
+        "bass": 0.009512005413509939,
+        "drums": 0.0
+    }
+}

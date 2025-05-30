@@ -1,0 +1,91 @@
+{
+    "track_name": "Broadway",
+    "album_name": "Live at Caf Loup",
+    "recording_year": "2007",
+    "in_30_corpus": true,
+    "bandleader": "Junior Mance",
+    "pianist": "Junior Mance",
+    "channel_overrides": {},
+    "mbz_id": "97763166-9e4b-426b-9bcc-8cf687051dfe",
+    "notes": "not found",
+    "time_signature": 4,
+    "first_downbeat": 6.24,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=vUdD7wPqA60"
+        ]
+    },
+    "excerpt_duration": "02:50",
+    "timestamps": {
+        "start": "00:39",
+        "end": "03:29"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Junior Mance",
+        "bassist": "Hide Tanaka",
+        "drummer": "Jackie Williams",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "mancej-broadway-tanakahwilliamsj-2007-97763166",
+    "tempo": 287.173687674631,
+    "validation": {
+        "piano": {
+            "f_score": 0.9669211195928754,
+            "precision": 0.9751924721984602,
+            "recall": 0.95878889823381,
+            "mean_asynchrony": -0.006967756705263279,
+            "fraction_matched": 0.95878889823381
+        },
+        "bass": {
+            "f_score": 0.8416169648774022,
+            "precision": 0.9202898550724637,
+            "recall": 0.7753357753357754,
+            "mean_asynchrony": -0.012753548651968582,
+            "fraction_matched": 0.7753357753357754
+        },
+        "drums": {
+            "f_score": 0.9321862348178137,
+            "precision": 0.9967532467532467,
+            "recall": 0.8754752851711026,
+            "mean_asynchrony": -0.0046315623659065495,
+            "fraction_matched": 0.8754752851711026
+        },
+        "mix": {
+            "f_score": 0.9969154842689698,
+            "precision": 0.9975308641975309,
+            "recall": 0.9963008631319359,
+            "mean_asynchrony": -0.006866735148514739,
+            "fraction_matched": 0.9963008631319359
+        },
+        "mix_downbeats": {
+            "f_score": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "mean_asynchrony": -0.008224669405940735,
+            "fraction_matched": 1.0
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.00022675361912105618,
+        "bass": 0.007375628307601634,
+        "drums": 0.0
+    }
+}

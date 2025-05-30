@@ -1,0 +1,63 @@
+{
+    "track_name": "If You Could See Me Now",
+    "album_name": "Live in Europe II",
+    "recording_year": "1974",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r"
+    },
+    "mbz_id": "923f6173-19c7-4f62-a226-9b95855a09d7",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 7.1,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=iz66a9K9K2A"
+        ]
+    },
+    "excerpt_duration": "01:32",
+    "timestamps": {
+        "start": "00:20",
+        "end": "01:52"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Marty Morell",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-ifyoucouldseeme-gomezemorellm-1974-923f6173",
+    "tempo": 254.64533566355402,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00840263237793315,
+        "bass": 0.08779981940846404,
+        "drums": 0.0
+    }
+}

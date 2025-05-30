@@ -1,0 +1,91 @@
+{
+    "track_name": "Rainbow",
+    "album_name": "Hamburg 72",
+    "recording_year": "1972",
+    "in_30_corpus": true,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "2c0f6494-cc8b-4a94-9b0c-9350a97499b2",
+    "notes": "slow?",
+    "time_signature": 3,
+    "first_downbeat": 24.13,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=iDvO0Cl3PmM"
+        ]
+    },
+    "excerpt_duration": "02:55",
+    "timestamps": {
+        "start": "47:31",
+        "end": "50:26"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Charlie Haden",
+        "drummer": "Paul Motian",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-rainbow-hadencmotianp-1972-2c0f6494",
+    "tempo": 134.7659457706689,
+    "validation": {
+        "piano": {
+            "f_score": 0.9045383411580594,
+            "precision": 0.9059561128526645,
+            "recall": 0.903125,
+            "mean_asynchrony": -0.006076051355247931,
+            "fraction_matched": 0.903125
+        },
+        "bass": {
+            "f_score": 0.7319062181447502,
+            "precision": 0.8777506112469438,
+            "recall": 0.6276223776223776,
+            "mean_asynchrony": -0.004412483651810374,
+            "fraction_matched": 0.6276223776223776
+        },
+        "drums": {
+            "f_score": 0.9011925042589438,
+            "precision": 0.9329805996472663,
+            "recall": 0.871499176276771,
+            "mean_asynchrony": -0.0030211883383753292,
+            "fraction_matched": 0.871499176276771
+        },
+        "mix": {
+            "f_score": 0.9885350318471339,
+            "precision": 0.9897959183673469,
+            "recall": 0.9872773536895675,
+            "mean_asynchrony": -0.007171435572164984,
+            "fraction_matched": 0.9872773536895675
+        },
+        "mix_downbeats": {
+            "f_score": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "mean_asynchrony": NaN,
+            "fraction_matched": 0.0
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.01555519279452966,
+        "bass": 0.0016153230257377471,
+        "drums": 0.0
+    }
+}

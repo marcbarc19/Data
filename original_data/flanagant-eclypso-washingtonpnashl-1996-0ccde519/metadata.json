@@ -1,0 +1,60 @@
+{
+    "track_name": "Eclypso",
+    "album_name": "Sea Changes",
+    "recording_year": "1996",
+    "in_30_corpus": true,
+    "bandleader": "Tommy Flanagan",
+    "pianist": "Tommy Flanagan",
+    "channel_overrides": {},
+    "mbz_id": "0ccde519-6f5d-4018-a05b-fe7653f13352",
+    "notes": "solo starts off latin then moves to swing until end. little unison passage at end of solo cut out",
+    "time_signature": 4,
+    "first_downbeat": 15.01,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=pT8OuvpBLEE"
+        ]
+    },
+    "excerpt_duration": "01:48",
+    "timestamps": {
+        "start": "01:27",
+        "end": "03:15"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Tommy Flanagan",
+        "bassist": "Peter Washington",
+        "drummer": "Lewis Nash",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "flanagant-eclypso-washingtonpnashl-1996-0ccde519",
+    "tempo": 204.06444211768238,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.016312915034941255,
+        "bass": 0.08336517699899149,
+        "drums": 0.0
+    }
+}

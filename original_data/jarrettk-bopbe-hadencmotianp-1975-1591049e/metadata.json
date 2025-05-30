@@ -1,0 +1,60 @@
+{
+    "track_name": "BopBe",
+    "album_name": "The Impulse Story",
+    "recording_year": "1975",
+    "in_30_corpus": true,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "1591049e-daf3-4e58-b4fa-346e87e7416e",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 9.83,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=muxtHwTp4bY"
+        ]
+    },
+    "excerpt_duration": "03:52",
+    "timestamps": {
+        "start": "00:40",
+        "end": "04:32"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Charlie Haden",
+        "drummer": "Paul Motian",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-bopbe-hadencmotianp-1975-1591049e",
+    "tempo": 203.23568498412448,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00012196838204259208,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

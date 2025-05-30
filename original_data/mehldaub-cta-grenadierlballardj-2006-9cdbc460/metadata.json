@@ -1,0 +1,60 @@
+{
+    "track_name": "CTA",
+    "album_name": "Brad Mehldau Trio Live",
+    "recording_year": "2006",
+    "in_30_corpus": false,
+    "bandleader": "Brad Mehldau",
+    "pianist": "Brad Mehldau",
+    "channel_overrides": {},
+    "mbz_id": "9cdbc460-8b30-4c97-9b9c-97637d801b46",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=j7CQBKkZ_NQ"
+        ]
+    },
+    "excerpt_duration": "07:02",
+    "timestamps": {
+        "start": "03:48",
+        "end": "10:50"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Brad Mehldau",
+        "bassist": "Larry Grenadier",
+        "drummer": "Jeff Ballard",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "mehldaub-cta-grenadierlballardj-2006-9cdbc460",
+    "tempo": 291.9144326942739,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.05498581058484797,
+        "bass": 0.02885166752493773,
+        "drums": 0.0
+    }
+}

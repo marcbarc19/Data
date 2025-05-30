@@ -1,0 +1,63 @@
+{
+    "track_name": "Sonnys Crib",
+    "album_name": "Seven Classic Albums",
+    "recording_year": "1959",
+    "in_30_corpus": false,
+    "bandleader": "Sonny Clark",
+    "pianist": "Sonny Clark",
+    "channel_overrides": {
+        "bass": "l",
+        "drums": "r"
+    },
+    "mbz_id": "133e5186-e59f-43ee-baaf-a5a2736240cf",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=MORkHHqTCU0"
+        ]
+    },
+    "excerpt_duration": "03:50",
+    "timestamps": {
+        "start": "00:46",
+        "end": "04:36"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Sonny Clark",
+        "bassist": "George Duvivier",
+        "drummer": "Max Roach",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "clarks-sonnyscrib-duviviergroachm-1959-133e5186",
+    "tempo": 240.20661626414426,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 3.785605393225033e-05,
+        "bass": 0.07944723851916591,
+        "drums": 0.0
+    }
+}

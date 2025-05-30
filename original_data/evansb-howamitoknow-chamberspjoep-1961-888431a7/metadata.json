@@ -1,0 +1,60 @@
+{
+    "track_name": "How Am I to Know",
+    "album_name": "The Complete Riverside Recordings",
+    "recording_year": "1961",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {},
+    "mbz_id": "888431a7-d818-42d0-a50e-af811ebaadad",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=8BpvWq-7YkA"
+        ]
+    },
+    "excerpt_duration": "03:02",
+    "timestamps": {
+        "start": "00:37",
+        "end": "03:39"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Paul Chambers",
+        "drummer": "Philly Joe Jones",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-howamitoknow-chamberspjoep-1961-888431a7",
+    "tempo": 209.97382977819063,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.06359274823581773,
+        "bass": 0.055948709673863006,
+        "drums": 0.0
+    }
+}

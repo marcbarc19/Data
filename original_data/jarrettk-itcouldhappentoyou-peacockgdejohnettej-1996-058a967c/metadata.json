@@ -1,0 +1,60 @@
+{
+    "track_name": "It Could Happen to You",
+    "album_name": "Tokyo 96",
+    "recording_year": "1996",
+    "in_30_corpus": true,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "058a967c-a132-45e4-ae9d-d5696687e989",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 24.92,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=TV2KoswJLYA"
+        ]
+    },
+    "excerpt_duration": "03:56",
+    "timestamps": {
+        "start": "02:43",
+        "end": "06:39"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Gary Peacock",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-itcouldhappentoyou-peacockgdejohnettej-1996-058a967c",
+    "tempo": 195.98947404734213,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.04155526321958747,
+        "bass": 0.0875182405730297,
+        "drums": 0.0
+    }
+}

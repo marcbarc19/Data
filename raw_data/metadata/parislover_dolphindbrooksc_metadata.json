@@ -1,0 +1,60 @@
+{
+    "track_name": "Paris Lover",
+    "album_name": "Nightwind An Erroll Garner Songbook",
+    "recording_year": "1997",
+    "in_30_corpus": false,
+    "bandleader": "John Hicks",
+    "pianist": "John Hicks",
+    "channel_overrides": {},
+    "mbz_id": "d20fa534-9fb3-465d-ac24-b01ffd9445a7",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=pibOFUh1b-4"
+        ]
+    },
+    "excerpt_duration": "02:24",
+    "timestamps": {
+        "start": "00:54",
+        "end": "03:18"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "John Hicks",
+        "bassist": "Dwayne Dolphin",
+        "drummer": "Cecil Brooks III",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hicksj-parislover-dolphindbrooksc-1997-d20fa534",
+    "tempo": 213.26932104801222,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

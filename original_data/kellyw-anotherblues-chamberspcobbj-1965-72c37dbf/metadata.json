@@ -1,0 +1,60 @@
+{
+    "track_name": "Another Blues",
+    "album_name": "Blues on Purpose",
+    "recording_year": "1965",
+    "in_30_corpus": false,
+    "bandleader": "Wynton Kelly",
+    "pianist": "Wynton Kelly",
+    "channel_overrides": {},
+    "mbz_id": "72c37dbf-33d6-482b-a937-ce68d72d8fb2",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=u5qSayYcdP8"
+        ]
+    },
+    "excerpt_duration": "04:20",
+    "timestamps": {
+        "start": "24:16",
+        "end": "28:36"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Wynton Kelly",
+        "bassist": "Paul Chambers",
+        "drummer": "Jimmy Cobb",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "kellyw-anotherblues-chamberspcobbj-1965-72c37dbf",
+    "tempo": 277.54001823102493,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 6.698035801000479e-05,
+        "bass": 0.04775699526113952,
+        "drums": 0.0
+    }
+}

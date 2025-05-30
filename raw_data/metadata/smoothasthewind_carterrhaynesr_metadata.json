@@ -1,0 +1,60 @@
+{
+    "track_name": "Smooth as the Wind",
+    "album_name": "Positive Intensity",
+    "recording_year": "1976",
+    "in_30_corpus": false,
+    "bandleader": "Tommy Flanagan",
+    "pianist": "Tommy Flanagan",
+    "channel_overrides": {},
+    "mbz_id": "34aa9f94-79ef-4825-88ca-4824b17267e4",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=sqqkJYZiqAw"
+        ]
+    },
+    "excerpt_duration": "02:45",
+    "timestamps": {
+        "start": "01:45",
+        "end": "04:30"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Tommy Flanagan",
+        "bassist": "Ron Carter",
+        "drummer": "Roy Haynes",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "flanagant-smoothasthewind-carterrhaynesr-1976-34aa9f94",
+    "tempo": 133.28543061149827,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.03543151912741338,
+        "drums": 0.0
+    }
+}

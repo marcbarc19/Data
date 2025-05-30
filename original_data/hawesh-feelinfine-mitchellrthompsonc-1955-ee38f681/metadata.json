@@ -1,0 +1,60 @@
+{
+    "track_name": "Feelin Fine",
+    "album_name": "Hampton Hawes Trio Vol 1",
+    "recording_year": "1955",
+    "in_30_corpus": false,
+    "bandleader": "Hampton Hawes",
+    "pianist": "Hampton Hawes",
+    "channel_overrides": {},
+    "mbz_id": "ee38f681-cfa8-41a7-91c7-85c4a3b8a0b4",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=k4rI7sPRdy4"
+        ]
+    },
+    "excerpt_duration": "01:18",
+    "timestamps": {
+        "start": "00:22",
+        "end": "01:40"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hampton Hawes",
+        "bassist": "Red Mitchell",
+        "drummer": "Chuck Thompson",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hawesh-feelinfine-mitchellrthompsonc-1955-ee38f681",
+    "tempo": 263.0392769756124,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0008525952339455412,
+        "bass": 0.0004898889742008805,
+        "drums": 0.0
+    }
+}

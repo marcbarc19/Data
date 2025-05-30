@@ -1,0 +1,64 @@
+{
+    "track_name": "Beautiful Love",
+    "album_name": "The Paris Concert Edition One",
+    "recording_year": "1979",
+    "in_30_corpus": true,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "piano": "l",
+        "bass": "r",
+        "drums": "r"
+    },
+    "mbz_id": "afd1a0de-5e1f-4fd8-a594-be95810836ce",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 6.46,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=v9wTXrDvwR8"
+        ]
+    },
+    "excerpt_duration": "01:21",
+    "timestamps": {
+        "start": "01:56",
+        "end": "03:17"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Marc Johnson",
+        "drummer": "Joe LaBarbera",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-beautifullove-johnsonmlabarberaj-1979-afd1a0de",
+    "tempo": 223.64319390037298,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00026420079260247586,
+        "bass": 0.022725746143339998,
+        "drums": 0.0
+    }
+}

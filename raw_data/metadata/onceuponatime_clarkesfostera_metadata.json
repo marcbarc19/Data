@@ -1,0 +1,60 @@
+{
+    "track_name": "Once Upon a Time",
+    "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+    "recording_year": "1998",
+    "in_30_corpus": true,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "5489e3ed-d1d7-4fa6-ace7-e88adaccb7e7",
+    "notes": "piano solo segues into drum solo",
+    "time_signature": 3,
+    "first_downbeat": 15.63,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=VoHHwQ1OOCU"
+        ]
+    },
+    "excerpt_duration": "01:24",
+    "timestamps": {
+        "start": "01:51",
+        "end": "03:15"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "Stanley Clarke",
+        "drummer": "Al Foster",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-onceuponatime-clarkesfostera-1998-5489e3ed",
+    "tempo": 139.7039672015627,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00020731811344831819,
+        "bass": 0.0007256133970691137,
+        "drums": 0.0
+    }
+}

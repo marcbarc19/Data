@@ -1,0 +1,64 @@
+{
+    "track_name": "Moanin",
+    "album_name": "The London House Sessions",
+    "recording_year": "1961",
+    "in_30_corpus": false,
+    "bandleader": "Oscar Peterson",
+    "pianist": "Oscar Peterson",
+    "channel_overrides": {
+        "bass": "r",
+        "piano": "l",
+        "drums": "l"
+    },
+    "mbz_id": "b9abb4e9-aecb-4fb4-b5c1-4f86dad77642",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=9z0xi6x_OWQ"
+        ]
+    },
+    "excerpt_duration": "03:33",
+    "timestamps": {
+        "start": "01:50",
+        "end": "05:23"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Oscar Peterson",
+        "bassist": "Ray Brown",
+        "drummer": "Ed Thigpen",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "petersono-moanin-brownrthigpene-1961-b9abb4e9",
+    "tempo": 126.02849458323885,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.007008790076812654,
+        "bass": 0.16941730876834515,
+        "drums": 0.0
+    }
+}

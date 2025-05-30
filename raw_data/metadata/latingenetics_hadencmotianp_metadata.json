@@ -1,0 +1,60 @@
+{
+    "track_name": "Latin Genetics",
+    "album_name": "The Montreal Tapes",
+    "recording_year": "1989",
+    "in_30_corpus": false,
+    "bandleader": "Paul Bley",
+    "pianist": "Paul Bley",
+    "channel_overrides": {},
+    "mbz_id": "dba7d082-d107-485e-a0d4-b1a526a0573b",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=1ngnnio1xa8"
+        ]
+    },
+    "excerpt_duration": "01:53",
+    "timestamps": {
+        "start": "00:40",
+        "end": "02:33"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Paul Bley",
+        "bassist": "Charlie Haden",
+        "drummer": "Paul Motian",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "bleyp-latingenetics-hadencmotianp-1989-dba7d082",
+    "tempo": 234.0074663522939,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.004782084677889653,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

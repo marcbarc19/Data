@@ -1,0 +1,91 @@
+{
+    "track_name": "Spring Will Be a Little Late This Year",
+    "album_name": "Complete Recordings",
+    "recording_year": "1955",
+    "in_30_corpus": true,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {},
+    "mbz_id": "828208f2-3ae0-4de4-878c-ffd8f7cda68c",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 7.89,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=DYXKMNLSUvI"
+        ]
+    },
+    "excerpt_duration": "00:58",
+    "timestamps": {
+        "start": "01:02",
+        "end": "02:00"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Israel Crosby",
+        "drummer": "Walter Perkins",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-springwillbealittle-crosbyiperkinsw-1955-828208f2",
+    "tempo": 192.16112709774146,
+    "validation": {
+        "piano": {
+            "f_score": 0.9038461538461537,
+            "precision": 0.8801498127340824,
+            "recall": 0.9288537549407114,
+            "mean_asynchrony": -0.00663974526808519,
+            "fraction_matched": 0.9288537549407114
+        },
+        "bass": {
+            "f_score": 0.924731182795699,
+            "precision": 0.9398907103825137,
+            "recall": 0.91005291005291,
+            "mean_asynchrony": -0.007672968395348787,
+            "fraction_matched": 0.91005291005291
+        },
+        "drums": {
+            "f_score": 0.8605108055009822,
+            "precision": 0.9820627802690582,
+            "recall": 0.7657342657342657,
+            "mean_asynchrony": -0.007516955059360913,
+            "fraction_matched": 0.7657342657342657
+        },
+        "mix": {
+            "f_score": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "mean_asynchrony": -0.005811730108108129,
+            "fraction_matched": 1.0
+        },
+        "mix_downbeats": {
+            "f_score": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "mean_asynchrony": NaN,
+            "fraction_matched": 0.0
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.21853819953773357,
+        "bass": 0.05044271867737993,
+        "drums": 0.0
+    }
+}

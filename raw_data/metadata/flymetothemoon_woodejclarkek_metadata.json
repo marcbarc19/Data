@@ -1,0 +1,64 @@
+{
+    "track_name": "Fly Me To The Moon",
+    "album_name": "For Real",
+    "recording_year": "1958",
+    "in_30_corpus": false,
+    "bandleader": "Hampton Hawes",
+    "pianist": "Hampton Hawes",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "d7e34cc4-be1a-4442-839d-b9f9cb6d77bc",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=h8S5dqpKEYc"
+        ]
+    },
+    "excerpt_duration": "02:12",
+    "timestamps": {
+        "start": "01:30",
+        "end": "03:42"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hampton Hawes",
+        "bassist": "Jimmy Woode",
+        "drummer": "Kenny Clarke",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hawesh-flymetothemoon-woodejclarkek-1958-d7e34cc4",
+    "tempo": 174.13996356214977,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.02985915570378861,
+        "bass": 0.035799929364846994,
+        "drums": 0.0
+    }
+}

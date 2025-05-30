@@ -1,0 +1,60 @@
+{
+    "track_name": "Port au Blues",
+    "album_name": "Live at the Musicans Exchange Cafe",
+    "recording_year": "1987",
+    "in_30_corpus": true,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "5897f6b5-18e0-4775-a1b7-646ce412b8ef",
+    "notes": "starting after applause finishes",
+    "time_signature": 4,
+    "first_downbeat": 19.17,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Y4rsFtP5Rqc"
+        ]
+    },
+    "excerpt_duration": "02:10",
+    "timestamps": {
+        "start": "03:33",
+        "end": "05:43"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "Avery Sharpe",
+        "drummer": "Louis Hayes",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-portaublues-sharpeahayesl-1987-5897f6b5",
+    "tempo": 144.26637072804007,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.011430907684117919,
+        "drums": 0.0
+    }
+}

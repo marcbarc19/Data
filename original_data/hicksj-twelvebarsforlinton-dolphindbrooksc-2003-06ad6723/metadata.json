@@ -1,0 +1,60 @@
+{
+    "track_name": "Twelve Bars for Linton",
+    "album_name": "Fathas Day An Earl Hines Songbook",
+    "recording_year": "2003",
+    "in_30_corpus": false,
+    "bandleader": "John Hicks",
+    "pianist": "John Hicks",
+    "channel_overrides": {},
+    "mbz_id": "06ad6723-cf27-4b8e-bc28-817a3e1e88d4",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=86OTQXIH23s"
+        ]
+    },
+    "excerpt_duration": "02:27",
+    "timestamps": {
+        "start": "00:38",
+        "end": "03:05"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "John Hicks",
+        "bassist": "Dwayne Dolphin",
+        "drummer": "Cecil Brooks III",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hicksj-twelvebarsforlinton-dolphindbrooksc-2003-06ad6723",
+    "tempo": 156.57959316227064,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.005524234695451491,
+        "bass": 0.1419692533213891,
+        "drums": 0.0
+    }
+}

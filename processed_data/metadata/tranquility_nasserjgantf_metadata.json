@@ -1,0 +1,64 @@
+{
+    "track_name": "Tranquility",
+    "album_name": "Tranquility",
+    "recording_year": "1967",
+    "in_30_corpus": true,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "4cc954d6-1e00-4bfd-b0e3-d12d2b5f853b",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 15.69,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=5zBGa03PAhQ"
+        ]
+    },
+    "excerpt_duration": "04:36",
+    "timestamps": {
+        "start": "02:01",
+        "end": "06:37"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Jamil Nasser",
+        "drummer": "Frank Gant",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-tranquility-nasserjgantf-1967-4cc954d6",
+    "tempo": 138.56599739339094,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.04015657907838277,
+        "bass": 0.013270839282656932,
+        "drums": 0.0
+    }
+}

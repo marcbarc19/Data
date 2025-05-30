@@ -1,0 +1,60 @@
+{
+    "track_name": "The Third World",
+    "album_name": "The Complete Blue Note Recordings",
+    "recording_year": "1955",
+    "in_30_corpus": false,
+    "bandleader": "Herbie Nichols",
+    "pianist": "Herbie Nichols",
+    "channel_overrides": {},
+    "mbz_id": "dc1f983a-f600-4e07-b291-3bbe7e9baf22",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=JAYf2_0P24w"
+        ]
+    },
+    "excerpt_duration": "01:14",
+    "timestamps": {
+        "start": "00:43",
+        "end": "01:57"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Herbie Nichols",
+        "bassist": "Al McKibbon",
+        "drummer": "Art Blakey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "nicholsh-thethirdworld-mckibbonablakeya-1955-dc1f983a",
+    "tempo": 233.10882388347179,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.044492147501141166,
+        "bass": 0.22222386715521159,
+        "drums": 0.0
+    }
+}

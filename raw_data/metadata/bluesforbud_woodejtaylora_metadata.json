@@ -1,0 +1,64 @@
+{
+    "track_name": "Blues for Bud",
+    "album_name": "Blues for Bud",
+    "recording_year": "1968",
+    "in_30_corpus": false,
+    "bandleader": "Hampton Hawes",
+    "pianist": "Hampton Hawes",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "86f46b4b-fbeb-4d79-93b3-7fc577eaa70d",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=f8WDYJSaNi0"
+        ]
+    },
+    "excerpt_duration": "03:06",
+    "timestamps": {
+        "start": "00:41",
+        "end": "03:47"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hampton Hawes",
+        "bassist": "Jimmy Woode",
+        "drummer": "Art Taylor",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hawesh-bluesforbud-woodejtaylora-1968-86f46b4b",
+    "tempo": 139.93462868062284,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.07996540033653743,
+        "bass": 0.15226972524571047,
+        "drums": 0.0
+    }
+}

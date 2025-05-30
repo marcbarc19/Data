@@ -1,0 +1,63 @@
+{
+    "track_name": "My Romance",
+    "album_name": "Consecration",
+    "recording_year": "1980",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "piano": "r",
+        "drums": "l"
+    },
+    "mbz_id": "59af3186-ca4d-470a-ab41-796c98978e30",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 4.64,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=v4vSvY1cEIo"
+        ]
+    },
+    "excerpt_duration": "00:33",
+    "timestamps": {
+        "start": "06:10",
+        "end": "06:43"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Marc Johnson",
+        "drummer": "Joe LaBarbera",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-myromance-johnsonmlabarberaj-1980-59af3186",
+    "tempo": 230.35854797759558,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.03315324030053357,
+        "bass": 0.14773857746656915,
+        "drums": 0.0
+    }
+}

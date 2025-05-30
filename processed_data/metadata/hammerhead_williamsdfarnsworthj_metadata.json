@@ -1,0 +1,60 @@
+{
+    "track_name": "Hammer Head",
+    "album_name": "One Flight Down",
+    "recording_year": "2006",
+    "in_30_corpus": false,
+    "bandleader": "Cedar Walton",
+    "pianist": "Cedar Walton",
+    "channel_overrides": {},
+    "mbz_id": "7a6e04e5-1adb-496b-a003-c052d238cf80",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=viry4UaXNQE"
+        ]
+    },
+    "excerpt_duration": "02:05",
+    "timestamps": {
+        "start": "01:10",
+        "end": "03:15"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Cedar Walton",
+        "bassist": "David Williams",
+        "drummer": "Joe Farnsworth",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "waltonc-hammerhead-williamsdfarnsworthj-2006-7a6e04e5",
+    "tempo": 120.56664334834782,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.024775457900442333,
+        "bass": 0.008289445614299784,
+        "drums": 0.0
+    }
+}

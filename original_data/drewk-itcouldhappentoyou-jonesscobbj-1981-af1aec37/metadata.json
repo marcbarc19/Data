@@ -1,0 +1,60 @@
+{
+    "track_name": "It Could Happen to You",
+    "album_name": "All the Things You Are",
+    "recording_year": "1981",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Drew",
+    "pianist": "Kenny Drew",
+    "channel_overrides": {},
+    "mbz_id": "af1aec37-eca3-456b-beea-1622486657b0",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=QWRGMAsN68o"
+        ]
+    },
+    "excerpt_duration": "02:05",
+    "timestamps": {
+        "start": "00:54",
+        "end": "02:59"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Drew",
+        "bassist": "Sam Jones",
+        "drummer": "Jimmy Cobb",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "drewk-itcouldhappentoyou-jonesscobbj-1981-af1aec37",
+    "tempo": 247.26881559833504,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.006640767287255378,
+        "bass": 0.00034829199059027705,
+        "drums": 0.0
+    }
+}

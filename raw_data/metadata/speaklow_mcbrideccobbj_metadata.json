@@ -1,0 +1,64 @@
+{
+    "track_name": "Speak Low",
+    "album_name": "West of 5th",
+    "recording_year": "2006",
+    "in_30_corpus": false,
+    "bandleader": "Hank Jones",
+    "pianist": "Hank Jones",
+    "channel_overrides": {
+        "bass": "r",
+        "piano": "l",
+        "drums": "l"
+    },
+    "mbz_id": "53d6b837-0e3f-4b9d-89e6-c6576491c4ab",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=wyTmyU30c0Y"
+        ]
+    },
+    "excerpt_duration": "02:05",
+    "timestamps": {
+        "start": "03:27",
+        "end": "05:32"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hank Jones",
+        "bassist": "Christian McBride",
+        "drummer": "Jimmy Cobb",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jonesh-speaklow-mcbrideccobbj-2006-53d6b837",
+    "tempo": 215.49676891033053,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 9.286337693326097e-05,
+        "bass": 0.06003617318729604,
+        "drums": 0.0
+    }
+}

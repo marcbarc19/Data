@@ -1,0 +1,60 @@
+{
+    "track_name": "Matrix",
+    "album_name": "Now He Sings Now He Sobs",
+    "recording_year": "1968",
+    "in_30_corpus": false,
+    "bandleader": "Chick Corea",
+    "pianist": "Chick Corea",
+    "channel_overrides": {},
+    "mbz_id": "c2f9300b-dac6-4a90-b6e4-e558008c68bd",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=nKuQ6gwbPqk"
+        ]
+    },
+    "excerpt_duration": "02:41",
+    "timestamps": {
+        "start": "00:20",
+        "end": "03:01"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Chick Corea",
+        "bassist": "Miroslav Vitou\u0161",
+        "drummer": "Roy Haynes",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "coreac-matrix-vitoumhaynesr-1968-c2f9300b",
+    "tempo": 289.7277547252518,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.02588392140502349,
+        "bass": 0.12466726826680197,
+        "drums": 0.0
+    }
+}

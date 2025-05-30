@@ -1,0 +1,60 @@
+{
+    "track_name": "This Cant Be Love",
+    "album_name": "Mance",
+    "recording_year": "1998",
+    "in_30_corpus": true,
+    "bandleader": "Junior Mance",
+    "pianist": "Junior Mance",
+    "channel_overrides": {},
+    "mbz_id": "531c49f7-d310-4220-b0bb-40286ee45007",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 7.79,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=LXv4piCdSmw"
+        ]
+    },
+    "excerpt_duration": "03:37",
+    "timestamps": {
+        "start": "01:00",
+        "end": "04:37"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Junior Mance",
+        "bassist": "Keter Betts",
+        "drummer": "Jackie Williams",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "mancej-thiscantbelove-bettskwilliamsj-1998-531c49f7",
+    "tempo": 175.79676705153634,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.08226934940524455,
+        "bass": 0.14304391075742517,
+        "drums": 0.0
+    }
+}

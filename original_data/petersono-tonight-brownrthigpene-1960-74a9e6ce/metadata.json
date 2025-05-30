@@ -1,0 +1,63 @@
+{
+    "track_name": "Tonight",
+    "album_name": "West Side Story  Oscar Peterson Plays Porgy  Bess",
+    "recording_year": "1960",
+    "in_30_corpus": false,
+    "bandleader": "Oscar Peterson",
+    "pianist": "Oscar Peterson",
+    "channel_overrides": {
+        "bass": "r",
+        "drums": "l"
+    },
+    "mbz_id": "74a9e6ce-5dd8-4031-855b-bc75765d60ce",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=UbWVx-iZkas"
+        ]
+    },
+    "excerpt_duration": "02:42",
+    "timestamps": {
+        "start": "01:02",
+        "end": "03:44"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Oscar Peterson",
+        "bassist": "Ray Brown",
+        "drummer": "Ed Thigpen",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "petersono-tonight-brownrthigpene-1960-74a9e6ce",
+    "tempo": 189.34323550465285,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 5.3943130454703336e-05,
+        "bass": 0.08429737948767524,
+        "drums": 0.0
+    }
+}

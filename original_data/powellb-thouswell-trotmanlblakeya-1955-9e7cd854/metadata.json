@@ -1,0 +1,60 @@
+{
+    "track_name": "Thou Swell",
+    "album_name": "The Complete Bud Powell on Verve",
+    "recording_year": "1955",
+    "in_30_corpus": true,
+    "bandleader": "Bud Powell",
+    "pianist": "Bud Powell",
+    "channel_overrides": {},
+    "mbz_id": "9e7cd854-f315-43bf-ba76-c3b11659d414",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 5.79,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=p81Sje1jBEM"
+        ]
+    },
+    "excerpt_duration": "03:09",
+    "timestamps": {
+        "start": "00:56",
+        "end": "04:05"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bud Powell",
+        "bassist": "Lloyd Trotman",
+        "drummer": "Art Blakey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "powellb-thouswell-trotmanlblakeya-1955-9e7cd854",
+    "tempo": 188.2150931885325,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.03256951349193227,
+        "bass": 0.05184096065476829,
+        "drums": 0.0
+    }
+}

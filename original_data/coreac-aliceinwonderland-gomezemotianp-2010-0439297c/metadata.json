@@ -1,0 +1,60 @@
+{
+    "track_name": "Alice in Wonderland",
+    "album_name": "Further Explorations",
+    "recording_year": "2010",
+    "in_30_corpus": false,
+    "bandleader": "Chick Corea",
+    "pianist": "Chick Corea",
+    "channel_overrides": {},
+    "mbz_id": "0439297c-2f23-46fb-93cd-f795c8b67824",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=oR9sVI3tLX4"
+        ]
+    },
+    "excerpt_duration": "02:44",
+    "timestamps": {
+        "start": "02:40",
+        "end": "05:24"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Chick Corea",
+        "bassist": "Eddie Gomez",
+        "drummer": "Paul Motian",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "coreac-aliceinwonderland-gomezemotianp-2010-0439297c",
+    "tempo": 176.66163748487116,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.019519145146927874,
+        "bass": 0.031202137132680385,
+        "drums": 0.0
+    }
+}

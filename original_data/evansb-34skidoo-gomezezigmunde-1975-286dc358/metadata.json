@@ -1,0 +1,60 @@
+{
+    "track_name": "34 Skidoo",
+    "album_name": "Complete Fantasy Recordings",
+    "recording_year": "1975",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {},
+    "mbz_id": "286dc358-ab88-4aff-a919-5560d0c69a3c",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 2.26,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=KedeNiTDHe0"
+        ]
+    },
+    "excerpt_duration": "02:45",
+    "timestamps": {
+        "start": "01:02",
+        "end": "03:47"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Eliot Zigmund",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-34skidoo-gomezezigmunde-1975-286dc358",
+    "tempo": 221.8136279966256,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0001066307859568516,
+        "bass": 0.5011515025596884,
+        "drums": 0.0
+    }
+}

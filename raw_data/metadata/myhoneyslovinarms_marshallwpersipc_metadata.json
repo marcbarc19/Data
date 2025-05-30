@@ -1,0 +1,63 @@
+{
+    "track_name": "My Honeys Lovin Arms",
+    "album_name": "When There Are Grey Skies",
+    "recording_year": "1962",
+    "in_30_corpus": false,
+    "bandleader": "Red Garland",
+    "pianist": "Red Garland",
+    "channel_overrides": {
+        "piano": "l",
+        "drums": "r"
+    },
+    "mbz_id": "2224635e-b9d6-41e8-9a11-fb93d42d49d7",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Tg7wGOPI4rc"
+        ]
+    },
+    "excerpt_duration": "02:07",
+    "timestamps": {
+        "start": "00:43",
+        "end": "02:50"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Red Garland",
+        "bassist": "Wendell Marshall",
+        "drummer": "Charlie Persip",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "garlandr-myhoneyslovinarms-marshallwpersipc-1962-2224635e",
+    "tempo": 240.70599812496263,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.01759950472597971,
+        "bass": 0.3609352616385797,
+        "drums": 0.0
+    }
+}

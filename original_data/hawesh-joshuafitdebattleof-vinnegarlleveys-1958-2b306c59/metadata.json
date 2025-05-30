@@ -1,0 +1,64 @@
+{
+    "track_name": "Joshua Fit de Battle of Jericho",
+    "album_name": "The Sermon",
+    "recording_year": "1958",
+    "in_30_corpus": false,
+    "bandleader": "Hampton Hawes",
+    "pianist": "Hampton Hawes",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "2b306c59-539a-49a5-8172-11ee27e45717",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=MLqa3xqSxNo"
+        ]
+    },
+    "excerpt_duration": "01:50",
+    "timestamps": {
+        "start": "00:51",
+        "end": "02:41"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hampton Hawes",
+        "bassist": "Leroy Vinnegar",
+        "drummer": "Stan Levey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hawesh-joshuafitdebattleof-vinnegarlleveys-1958-2b306c59",
+    "tempo": 217.93097735741995,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.07530162949599661,
+        "bass": 0.0,
+        "drums": 0.03524981675075389
+    }
+}

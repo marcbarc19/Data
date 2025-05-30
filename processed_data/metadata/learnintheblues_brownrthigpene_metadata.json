@@ -1,0 +1,60 @@
+{
+    "track_name": "Learnin the Blues",
+    "album_name": "A Jazz Portrait of Frank Sinatra",
+    "recording_year": "1959",
+    "in_30_corpus": true,
+    "bandleader": "Oscar Peterson",
+    "pianist": "Oscar Peterson",
+    "channel_overrides": {},
+    "mbz_id": "87a53fd5-78fe-4dee-804b-1ab1fb5e58fd",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 7.48,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=2Pg6eiuLzJo"
+        ]
+    },
+    "excerpt_duration": "01:09",
+    "timestamps": {
+        "start": "01:43",
+        "end": "02:52"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Oscar Peterson",
+        "bassist": "Ray Brown",
+        "drummer": "Ed Thigpen",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "petersono-learnintheblues-brownrthigpene-1959-87a53fd5",
+    "tempo": 133.87231048729055,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00033645562400030915,
+        "bass": 0.1370754383451639,
+        "drums": 0.0
+    }
+}

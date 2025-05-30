@@ -1,0 +1,60 @@
+{
+    "track_name": "Someday My Prince Will Come",
+    "album_name": "Up for It",
+    "recording_year": "2001",
+    "in_30_corpus": false,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "36644b74-ecf2-4562-af5f-7bdc1fd0882f",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=YjwViasr9Zk"
+        ]
+    },
+    "excerpt_duration": "05:23",
+    "timestamps": {
+        "start": "02:32",
+        "end": "07:55"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Gary Peacock",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-somedaymyprincewillcome-peacockgdejohnettej-2001-36644b74",
+    "tempo": 142.87407862079786,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.004092209928566626,
+        "bass": 0.283110620366406,
+        "drums": 0.0
+    }
+}

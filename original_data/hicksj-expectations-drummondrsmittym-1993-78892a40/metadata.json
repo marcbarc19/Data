@@ -1,0 +1,91 @@
+{
+    "track_name": "Expectations",
+    "album_name": "Beyond Expectations",
+    "recording_year": "1993",
+    "in_30_corpus": true,
+    "bandleader": "John Hicks",
+    "pianist": "John Hicks",
+    "channel_overrides": {},
+    "mbz_id": "78892a40-bee3-490c-90e8-226203310b97",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 10.78,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=B2-jk6aHELY"
+        ]
+    },
+    "excerpt_duration": "03:41",
+    "timestamps": {
+        "start": "01:03",
+        "end": "04:44"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "John Hicks",
+        "bassist": "Ray Drummond",
+        "drummer": "Marvin \"Smitty\" Smith",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "hicksj-expectations-drummondrsmittym-1993-78892a40",
+    "tempo": 181.2998715460872,
+    "validation": {
+        "piano": {
+            "f_score": 0.9492424242424243,
+            "precision": 0.9586840091813313,
+            "recall": 0.9399849962490623,
+            "mean_asynchrony": -0.004040859760574711,
+            "fraction_matched": 0.9399849962490623
+        },
+        "bass": {
+            "f_score": 0.9366786140979689,
+            "precision": 0.964329643296433,
+            "recall": 0.9105691056910569,
+            "mean_asynchrony": -0.00219084060586726,
+            "fraction_matched": 0.9105691056910569
+        },
+        "drums": {
+            "f_score": 0.9610301592680447,
+            "precision": 0.9568151147098516,
+            "recall": 0.9652825051055139,
+            "mean_asynchrony": -0.0045979774062061855,
+            "fraction_matched": 0.9652825051055139
+        },
+        "mix": {
+            "f_score": 0.9602400600150038,
+            "precision": 0.960960960960961,
+            "recall": 0.95952023988006,
+            "mean_asynchrony": -0.0070319231812496245,
+            "fraction_matched": 0.95952023988006
+        },
+        "mix_downbeats": {
+            "f_score": 0.8802395209580839,
+            "precision": 0.8802395209580839,
+            "recall": 0.8802395209580839,
+            "mean_asynchrony": -0.005947830346938428,
+            "fraction_matched": 0.8802395209580839
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.008615421489550301,
+        "drums": 0.0
+    }
+}

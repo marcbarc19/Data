@@ -1,0 +1,60 @@
+{
+    "track_name": "Angst",
+    "album_name": "Introducing Brad Mehldau",
+    "recording_year": "1995",
+    "in_30_corpus": false,
+    "bandleader": "Brad Mehldau",
+    "pianist": "Brad Mehldau",
+    "channel_overrides": {},
+    "mbz_id": "d5546dce-f6fc-4cbb-8180-693234e60b8e",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=z4Ta1Go8fjw"
+        ]
+    },
+    "excerpt_duration": "01:40",
+    "timestamps": {
+        "start": "01:50",
+        "end": "03:30"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Brad Mehldau",
+        "bassist": "Larry Grenadier",
+        "drummer": "Jorge Rossy",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "mehldaub-angst-grenadierlrossyj-1995-d5546dce",
+    "tempo": 195.17064180926806,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.011871051070553196,
+        "bass": 0.034452170221874745,
+        "drums": 0.0
+    }
+}

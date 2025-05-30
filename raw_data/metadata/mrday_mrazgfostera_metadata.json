@@ -1,0 +1,60 @@
+{
+    "track_name": "Mr Day",
+    "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+    "recording_year": "1997",
+    "in_30_corpus": false,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "49c7dac1-e883-46d7-8713-76b24614f28c",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=zqtbMtiX7sI"
+        ]
+    },
+    "excerpt_duration": "02:53",
+    "timestamps": {
+        "start": "00:44",
+        "end": "03:37"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "George Mraz",
+        "drummer": "Al Foster",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-mrday-mrazgfostera-1997-49c7dac1",
+    "tempo": 215.4665258113534,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.12270197513048697,
+        "drums": 0.0
+    }
+}

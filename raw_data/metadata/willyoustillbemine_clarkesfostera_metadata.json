@@ -1,0 +1,60 @@
+{
+    "track_name": "Will You Still Be Mine",
+    "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+    "recording_year": "1999",
+    "in_30_corpus": false,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {},
+    "mbz_id": "874ae1c0-f897-4bfa-956f-3111bd415d08",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=-wcRbdFpZnQ"
+        ]
+    },
+    "excerpt_duration": "02:35",
+    "timestamps": {
+        "start": "01:00",
+        "end": "03:35"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "Stanley Clarke",
+        "drummer": "Al Foster",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-willyoustillbemine-clarkesfostera-1999-874ae1c0",
+    "tempo": 257.57435808237415,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 7.539168335501945e-05,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Cup Bearers",
+    "album_name": "Confirmation",
+    "recording_year": "1978",
+    "in_30_corpus": true,
+    "bandleader": "Tommy Flanagan",
+    "pianist": "Tommy Flanagan",
+    "channel_overrides": {},
+    "mbz_id": "60337e53-6bd1-4403-b66b-46a66415ea62",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 5.51,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=0mda9YOqOgU"
+        ]
+    },
+    "excerpt_duration": "01:42",
+    "timestamps": {
+        "start": "01:03",
+        "end": "02:45"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Tommy Flanagan",
+        "bassist": "George Mraz",
+        "drummer": "Elvin Jones",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "flanagant-cupbearers-mrazgjonese-1978-60337e53",
+    "tempo": 225.89605786456178,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.03603984132474802,
+        "bass": 0.010955386146238477,
+        "drums": 0.0
+    }
+}

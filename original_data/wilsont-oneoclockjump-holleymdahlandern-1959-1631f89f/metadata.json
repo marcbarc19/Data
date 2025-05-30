@@ -1,0 +1,60 @@
+{
+    "track_name": "One OClock Jump",
+    "album_name": "And Then They Wrote",
+    "recording_year": "1959",
+    "in_30_corpus": false,
+    "bandleader": "Teddy Wilson",
+    "pianist": "Teddy Wilson",
+    "channel_overrides": {},
+    "mbz_id": "1631f89f-b418-40a8-926d-6d0adb381f1a",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=x7uFp-40YVY"
+        ]
+    },
+    "excerpt_duration": "01:06",
+    "timestamps": {
+        "start": "15:53",
+        "end": "16:59"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Teddy Wilson",
+        "bassist": "Major Holley",
+        "drummer": "Nils-Bertil Dahlander",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "wilsont-oneoclockjump-holleymdahlandern-1959-1631f89f",
+    "tempo": 216.72132126082366,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.3619779177860073,
+        "bass": 0.4303544559489374,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "track_name": "White Christmas",
+    "album_name": "Holiday Soul",
+    "recording_year": "1964",
+    "in_30_corpus": false,
+    "bandleader": "Bobby Timmons",
+    "pianist": "Bobby Timmons",
+    "channel_overrides": {
+        "piano": "l",
+        "bass": "r",
+        "drums": "r"
+    },
+    "mbz_id": "48cf58ab-65dc-4a6d-aaea-b55e3e3d5163",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Bg35rcq-lbs"
+        ]
+    },
+    "excerpt_duration": "02:42",
+    "timestamps": {
+        "start": "00:52",
+        "end": "03:34"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bobby Timmons",
+        "bassist": "Butch Warren",
+        "drummer": "Walter Perkins",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "timmonsb-whitechristmas-warrenbperkinsw-1964-48cf58ab",
+    "tempo": 190.10487183771295,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.024131643517997237,
+        "bass": 0.10740382234428125,
+        "drums": 0.0
+    }
+}

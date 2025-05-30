@@ -1,0 +1,64 @@
+{
+    "track_name": "On Green Dolphin Street",
+    "album_name": "Six Classic Albums",
+    "recording_year": "1955",
+    "in_30_corpus": false,
+    "bandleader": "Wynton Kelly",
+    "pianist": "Wynton Kelly",
+    "channel_overrides": {
+        "bass": "r",
+        "piano": "l",
+        "drums": "l"
+    },
+    "mbz_id": "3e123c7e-7034-4d97-84a4-8fdb6b76eb24",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=DSlaIBACpUM"
+        ]
+    },
+    "excerpt_duration": "03:03",
+    "timestamps": {
+        "start": "00:51",
+        "end": "03:54"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Wynton Kelly",
+        "bassist": "Paul Chambers",
+        "drummer": "Jimmy Cobb",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "kellyw-ongreendolphinstreet-chamberspcobbj-1955-3e123c7e",
+    "tempo": 214.0322408616391,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.02017614250895916,
+        "bass": 0.0013367691257171188,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "track_name": "Theme for Ernie",
+    "album_name": "Inception  Reaching Fourth",
+    "recording_year": "1962",
+    "in_30_corpus": true,
+    "bandleader": "McCoy Tyner",
+    "pianist": "McCoy Tyner",
+    "channel_overrides": {
+        "piano": "l",
+        "bass": "r",
+        "drums": "r"
+    },
+    "mbz_id": "60aa6aca-6b1a-43ae-8630-71978fd37400",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=dAqzfxDBc2E"
+        ]
+    },
+    "excerpt_duration": "02:43",
+    "timestamps": {
+        "start": "00:57",
+        "end": "03:40"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "McCoy Tyner",
+        "bassist": "Henry Grimes",
+        "drummer": "Roy Haynes",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tynerm-themeforernie-grimeshhaynesr-1962-60aa6aca",
+    "tempo": 137.52509941187887,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.04050333195829259,
+        "bass": 0.22532668394969801,
+        "drums": 0.0
+    }
+}

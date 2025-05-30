@@ -1,0 +1,60 @@
+{
+    "track_name": "Concern",
+    "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+    "recording_year": "1966",
+    "in_30_corpus": true,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {},
+    "mbz_id": "af638c49-de96-4cd5-b3c3-0bdc310bb5b6",
+    "notes": "piano solo switches to brushes halfway through (weird)",
+    "time_signature": 4,
+    "first_downbeat": 8.96,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=tEv0a6yFZAc"
+        ]
+    },
+    "excerpt_duration": "02:24",
+    "timestamps": {
+        "start": "01:16",
+        "end": "03:40"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Jamil Nasser",
+        "drummer": "Vernell Fournier",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-concern-nasserjfournierv-1966-af638c49",
+    "tempo": 152.38645540261444,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.11949108773697803,
+        "bass": 0.05109277571329596,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Like Someone in Love",
+    "album_name": "I Remember You",
+    "recording_year": "1977",
+    "in_30_corpus": false,
+    "bandleader": "Hank Jones",
+    "pianist": "Hank Jones",
+    "channel_overrides": {},
+    "mbz_id": "75081d2b-3d43-47e1-ab00-3c6ccfa8bc14",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=m1VwbuQd1tA"
+        ]
+    },
+    "excerpt_duration": "01:04",
+    "timestamps": {
+        "start": "02:19",
+        "end": "03:23"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hank Jones",
+        "bassist": "George Duvivier",
+        "drummer": "Oliver Jackson",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jonesh-likesomeoneinlove-duviviergjacksono-1977-75081d2b",
+    "tempo": 119.924439837253,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0015034014280187469,
+        "bass": 0.023805036749025343,
+        "drums": 0.0
+    }
+}

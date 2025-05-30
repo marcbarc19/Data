@@ -1,0 +1,60 @@
+{
+    "track_name": "Scrapple From the Apple",
+    "album_name": "Hank Jones Trio",
+    "recording_year": "1991",
+    "in_30_corpus": false,
+    "bandleader": "Hank Jones",
+    "pianist": "Hank Jones",
+    "channel_overrides": {},
+    "mbz_id": "56f2b4cf-59f9-4852-954f-ac88b4a49729",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Jg_kFC56HSE"
+        ]
+    },
+    "excerpt_duration": "01:53",
+    "timestamps": {
+        "start": "21:20",
+        "end": "23:13"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hank Jones",
+        "bassist": "George Mraz",
+        "drummer": "Kenny Washington",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jonesh-scrapplefromtheapple-mrazgwashingtonk-1991-56f2b4cf",
+    "tempo": 202.76292789816583,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.009143209369221306,
+        "drums": 0.0
+    }
+}

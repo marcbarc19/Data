@@ -1,0 +1,60 @@
+{
+    "track_name": "Falling in Love With Love",
+    "album_name": "Standards Live",
+    "recording_year": "1985",
+    "in_30_corpus": true,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "6bfadb79-d74d-495e-b005-9c3b9481351c",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 27.53,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=av_D8__8tYw"
+        ]
+    },
+    "excerpt_duration": "03:46",
+    "timestamps": {
+        "start": "00:38",
+        "end": "04:24"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Gary Peacock",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-fallinginlovewithlove-peacockgdejohnettej-1985-6bfadb79",
+    "tempo": 203.28526630621428,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0330817049727703,
+        "bass": 0.04791453464806128,
+        "drums": 0.0
+    }
+}

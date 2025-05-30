@@ -1,0 +1,64 @@
+{
+    "track_name": "Heres That Rainy Day",
+    "album_name": "Live at Art DLugoffs Top of the Gate",
+    "recording_year": "1968",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "r",
+        "piano": "l",
+        "drums": "l"
+    },
+    "mbz_id": "c71d8bc5-b9ec-46a2-987b-5b6831f24544",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 7.78,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=VIyF6g7D3S4"
+        ]
+    },
+    "excerpt_duration": "00:45",
+    "timestamps": {
+        "start": "03:05",
+        "end": "03:50"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Marty Morell",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-heresthatrainyday-gomezemorellm-1968-c71d8bc5",
+    "tempo": 149.05895224923796,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.31991029817997185,
+        "drums": 0.0
+    }
+}

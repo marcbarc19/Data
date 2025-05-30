@@ -1,0 +1,64 @@
+{
+    "track_name": "Turn Out the Stars",
+    "album_name": "The Complete Bill Evans on Verve",
+    "recording_year": "1966",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "e703b35a-0544-4661-a5aa-75a6b5ea65af",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 0.803,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=5cWnWWtoHgM"
+        ]
+    },
+    "excerpt_duration": "03:18",
+    "timestamps": {
+        "start": "01:05",
+        "end": "04:23"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Philly Joe Jones",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-turnoutthestars-gomezejoep-1966-e703b35a",
+    "tempo": 182.72870246170595,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0048518451165713294,
+        "bass": 0.1015662683163796,
+        "drums": 0.0
+    }
+}

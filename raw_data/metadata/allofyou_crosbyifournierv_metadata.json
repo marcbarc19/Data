@@ -1,0 +1,64 @@
+{
+    "track_name": "All of You",
+    "album_name": "Ahmad Jamal Eight Classic Albums",
+    "recording_year": "1960",
+    "in_30_corpus": false,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "6826bffc-453c-4d72-a993-c484c53652a2",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=xB-jFu0-JqQ"
+        ]
+    },
+    "excerpt_duration": "01:20",
+    "timestamps": {
+        "start": "01:40",
+        "end": "03:00"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Israel Crosby",
+        "drummer": "Vernell Fournier",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-allofyou-crosbyifournierv-1960-6826bffc",
+    "tempo": 230.64310134310134,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.18454738428457218,
+        "bass": 0.18463008738961417,
+        "drums": 0.0
+    }
+}

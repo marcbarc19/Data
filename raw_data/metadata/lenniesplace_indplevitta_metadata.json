@@ -1,0 +1,60 @@
+{
+    "track_name": "Lennies Place",
+    "album_name": "Lennie Tristano Personal Recordings 19461970",
+    "recording_year": "1956",
+    "in_30_corpus": false,
+    "bandleader": "Lennie Tristano",
+    "pianist": "Lennie Tristano",
+    "channel_overrides": {},
+    "mbz_id": "4a700da5-d316-4273-80c5-a000f8a932d1",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=4h17GVlA58k"
+        ]
+    },
+    "excerpt_duration": "03:23",
+    "timestamps": {
+        "start": "57:05",
+        "end": "01:00:28"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Lennie Tristano",
+        "bassist": "Peter Ind",
+        "drummer": "Al Levitt",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "tristanol-lenniesplace-indplevitta-1956-4a700da5",
+    "tempo": 175.95773897452924,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 7.819149767995803e-05,
+        "bass": 0.03677413157171616,
+        "drums": 0.0
+    }
+}

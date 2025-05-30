@@ -1,0 +1,60 @@
+{
+    "track_name": "Autumn Leaves",
+    "album_name": "Impressions",
+    "recording_year": "1988",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Drew",
+    "pianist": "Kenny Drew",
+    "channel_overrides": {},
+    "mbz_id": "23c5fddd-e165-476b-9afd-88fe4ed19f5d",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=yOe_fYtX7yg"
+        ]
+    },
+    "excerpt_duration": "02:06",
+    "timestamps": {
+        "start": "01:33",
+        "end": "03:39"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Drew",
+        "bassist": "Niels-Henning \u00d8rsted Pedersen",
+        "drummer": "Alvin Queen",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "drewk-autumnleaves-rstednqueena-1988-23c5fddd",
+    "tempo": 181.93412849010573,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.024761258994851154,
+        "bass": 0.00025337102227285246,
+        "drums": 0.0
+    }
+}

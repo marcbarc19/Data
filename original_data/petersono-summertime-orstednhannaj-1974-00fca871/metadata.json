@@ -1,0 +1,64 @@
+{
+    "track_name": "Summertime",
+    "album_name": "Oscar Peterson in Russia",
+    "recording_year": "1974",
+    "in_30_corpus": true,
+    "bandleader": "Oscar Peterson",
+    "pianist": "Oscar Peterson",
+    "channel_overrides": {
+        "bass": "r",
+        "piano": "l",
+        "drums": "l"
+    },
+    "mbz_id": "00fca871-edbb-428b-807c-8ebd2f490bb7",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 6.66,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=STLOMkQqKeg"
+        ]
+    },
+    "excerpt_duration": "00:33",
+    "timestamps": {
+        "start": "02:20",
+        "end": "02:53"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Oscar Peterson",
+        "bassist": "Niels-Henning Orsted Pedersen",
+        "drummer": "Jake Hanna",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "petersono-summertime-orstednhannaj-1974-00fca871",
+    "tempo": 235.7111004937092,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "track_name": "Time Was",
+    "album_name": "Green Chimneys",
+    "recording_year": "1984",
+    "in_30_corpus": true,
+    "bandleader": "Kenny Barron",
+    "pianist": "Kenny Barron",
+    "channel_overrides": {
+        "piano": "r",
+        "bass": "l",
+        "drums": "l"
+    },
+    "mbz_id": "e12dbc39-379d-4836-9d0e-99a4173de4f4",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=25yuBp9n7V8"
+        ]
+    },
+    "excerpt_duration": "04:01",
+    "timestamps": {
+        "start": "00:38",
+        "end": "04:39"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Barron",
+        "bassist": "Buster Williams",
+        "drummer": "Ben Riley",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "barronk-timewas-williamsbrileyb-1984-e12dbc39",
+    "tempo": 223.96318699859236,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.004251177767424119,
+        "bass": 0.048978866799189835,
+        "drums": 0.0
+    }
+}

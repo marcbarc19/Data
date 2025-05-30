@@ -1,0 +1,60 @@
+{
+    "track_name": "For All We Know",
+    "album_name": "Charmed Circle Live at the Keystone Korner",
+    "recording_year": "1979",
+    "in_30_corpus": false,
+    "bandleader": "Cedar Walton",
+    "pianist": "Cedar Walton",
+    "channel_overrides": {},
+    "mbz_id": "86d264bb-4b9e-4055-9c0c-4eac48903491",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=08GNEKgZd8U"
+        ]
+    },
+    "excerpt_duration": "01:00",
+    "timestamps": {
+        "start": "04:27",
+        "end": "05:27"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Cedar Walton",
+        "bassist": "Tony Dumas",
+        "drummer": "Ralph Penland",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "waltonc-forallweknow-dumastpenlandr-1979-86d264bb",
+    "tempo": 126.05462266255678,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.010447826619284784,
+        "bass": 0.004602666674728306,
+        "drums": 0.0
+    }
+}

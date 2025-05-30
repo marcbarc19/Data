@@ -1,0 +1,60 @@
+{
+    "track_name": "Autumn Leaves",
+    "album_name": "Eloquence",
+    "recording_year": "1965",
+    "in_30_corpus": false,
+    "bandleader": "Oscar Peterson",
+    "pianist": "Oscar Peterson",
+    "channel_overrides": {},
+    "mbz_id": "204c37f6-7b81-4cef-81cf-f5ddbed37faa",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=EsGBIHmk5LQ"
+        ]
+    },
+    "excerpt_duration": "01:23",
+    "timestamps": {
+        "start": "02:49",
+        "end": "04:12"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Oscar Peterson",
+        "bassist": "Ray Brown",
+        "drummer": "Ed Thigpen",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "petersono-autumnleaves-brownrthigpene-1965-204c37f6",
+    "tempo": 182.05126952698333,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0001748360638719193,
+        "bass": 0.13525317901136769,
+        "drums": 0.0
+    }
+}

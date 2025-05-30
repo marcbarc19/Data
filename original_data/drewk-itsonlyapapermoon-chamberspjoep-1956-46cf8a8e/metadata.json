@@ -1,0 +1,60 @@
+{
+    "track_name": "Its Only a Paper Moon",
+    "album_name": "Kenny Drew Trio",
+    "recording_year": "1956",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Drew",
+    "pianist": "Kenny Drew",
+    "channel_overrides": {},
+    "mbz_id": "46cf8a8e-d0a4-4ac4-b294-d2eab5ffd203",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=xRs5C67iCqg"
+        ]
+    },
+    "excerpt_duration": "02:31",
+    "timestamps": {
+        "start": "00:42",
+        "end": "03:13"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Drew",
+        "bassist": "Paul Chambers",
+        "drummer": "Philly Joe Jones",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "drewk-itsonlyapapermoon-chamberspjoep-1956-46cf8a8e",
+    "tempo": 203.04548186736125,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.2867646169367033,
+        "drums": 0.0
+    }
+}

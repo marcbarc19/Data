@@ -1,0 +1,63 @@
+{
+    "track_name": "The Breeze and I",
+    "album_name": "Standards",
+    "recording_year": "1958",
+    "in_30_corpus": false,
+    "bandleader": "Sonny Clark",
+    "pianist": "Sonny Clark",
+    "channel_overrides": {
+        "piano": "l",
+        "bass": "r"
+    },
+    "mbz_id": "28783122-5024-4cce-8f29-7d64e6262b37",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=_6DDHNWGLq8"
+        ]
+    },
+    "excerpt_duration": "01:52",
+    "timestamps": {
+        "start": "00:58",
+        "end": "02:50"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Sonny Clark",
+        "bassist": "Jymie Merritt",
+        "drummer": "Wesley Landers",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "clarks-thebreezeandi-merrittjlandersw-1958-28783122",
+    "tempo": 204.58921403251534,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.06365648054023842,
+        "bass": 0.010381154413134697,
+        "drums": 0.0
+    }
+}

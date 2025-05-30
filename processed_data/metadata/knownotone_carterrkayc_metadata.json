@@ -1,0 +1,63 @@
+{
+    "track_name": "Know Not One",
+    "album_name": "The Riverside Albums Collection",
+    "recording_year": "1959",
+    "in_30_corpus": false,
+    "bandleader": "Bobby Timmons",
+    "pianist": "Bobby Timmons",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r"
+    },
+    "mbz_id": "e9cfaeef-e214-40b0-90b3-dab4b32bee91",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=V2qvtFGVXsM"
+        ]
+    },
+    "excerpt_duration": "03:37",
+    "timestamps": {
+        "start": "00:45",
+        "end": "04:22"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bobby Timmons",
+        "bassist": "Ron Carter",
+        "drummer": "Connie Kay",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "timmonsb-knownotone-carterrkayc-1959-e9cfaeef",
+    "tempo": 172.79331257746816,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.029455956743282385,
+        "bass": 0.1540256278245915,
+        "drums": 0.0
+    }
+}

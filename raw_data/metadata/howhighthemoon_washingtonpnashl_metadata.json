@@ -1,0 +1,60 @@
+{
+    "track_name": "How High the Moon",
+    "album_name": "Lady Be Good  for Ella",
+    "recording_year": "1993",
+    "in_30_corpus": false,
+    "bandleader": "Tommy Flanagan",
+    "pianist": "Tommy Flanagan",
+    "channel_overrides": {},
+    "mbz_id": "d82aef06-ec2b-4578-9c62-60a4f3544f17",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=jRNSxeg9imQ"
+        ]
+    },
+    "excerpt_duration": "02:13",
+    "timestamps": {
+        "start": "00:37",
+        "end": "02:50"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Tommy Flanagan",
+        "bassist": "Peter Washington",
+        "drummer": "Lewis Nash",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "flanagant-howhighthemoon-washingtonpnashl-1993-d82aef06",
+    "tempo": 229.72771913600317,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.011586715917482837,
+        "bass": 0.1875695104080648,
+        "drums": 0.0
+    }
+}

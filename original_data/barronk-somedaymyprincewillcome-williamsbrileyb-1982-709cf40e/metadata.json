@@ -1,0 +1,91 @@
+{
+    "track_name": "Someday My Prince Will Come",
+    "album_name": "Live",
+    "recording_year": "1982",
+    "in_30_corpus": true,
+    "bandleader": "Kenny Barron",
+    "pianist": "Kenny Barron",
+    "channel_overrides": {},
+    "mbz_id": "709cf40e-fd3f-4af7-9028-d96c90741cce",
+    "notes": "",
+    "time_signature": 3,
+    "first_downbeat": 11.43,
+    "rating_bass_audio": 1.0,
+    "rating_bass_detection": 2.0,
+    "rating_drums_audio": 3.0,
+    "rating_drums_detection": 2.0,
+    "rating_mix": 3.0,
+    "rating_piano_audio": 3.0,
+    "rating_piano_detection": 3.0,
+    "rating_comments": "the bass goes mute in some sections and for drums onsets are added ",
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=r2ApX6DcVo0"
+        ]
+    },
+    "excerpt_duration": "03:05",
+    "timestamps": {
+        "start": "43:10",
+        "end": "46:15"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Barron",
+        "bassist": "Buster Williams",
+        "drummer": "Ben Riley",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "barronk-somedaymyprincewillcome-williamsbrileyb-1982-709cf40e",
+    "tempo": 122.69503251509987,
+    "validation": {
+        "piano": {
+            "f_score": 0.9539706626201315,
+            "precision": 0.9612640163098879,
+            "recall": 0.9467871485943775,
+            "mean_asynchrony": -0.006599000160127405,
+            "fraction_matched": 0.9467871485943775
+        },
+        "bass": {
+            "f_score": 0.927063339731286,
+            "precision": 0.9078947368421053,
+            "recall": 0.9470588235294117,
+            "mean_asynchrony": -0.003462298652174459,
+            "fraction_matched": 0.9470588235294117
+        },
+        "drums": {
+            "f_score": 0.976462676529926,
+            "precision": 0.9864130434782609,
+            "recall": 0.966711051930759,
+            "mean_asynchrony": 0.0007011674986221312,
+            "fraction_matched": 0.966711051930759
+        },
+        "mix": {
+            "f_score": 0.9973544973544973,
+            "precision": 1.0,
+            "recall": 0.9947229551451188,
+            "mean_asynchrony": -0.0006581978355444461,
+            "fraction_matched": 0.9947229551451188
+        },
+        "mix_downbeats": {
+            "f_score": 0.9920634920634921,
+            "precision": 1.0,
+            "recall": 0.984251968503937,
+            "mean_asynchrony": 0.0007098412879991098,
+            "fraction_matched": 0.984251968503937
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.006464327559919658,
+        "bass": 0.30682171378706846,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "track_name": "Angel Eyes",
+    "album_name": "Ahmad Jamal Eight Classic Albums",
+    "recording_year": "1960",
+    "in_30_corpus": false,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "707e43ef-0a07-40e9-b245-d14a4693471c",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=L3-lByt4XzY"
+        ]
+    },
+    "excerpt_duration": "01:15",
+    "timestamps": {
+        "start": "01:55",
+        "end": "03:10"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Israel Crosby",
+        "drummer": "Vernell Fournier",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-angeleyes-crosbyifournierv-1960-707e43ef",
+    "tempo": 144.84645308154438,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.2586902214017617,
+        "bass": 0.11492984817394436,
+        "drums": 0.0
+    }
+}

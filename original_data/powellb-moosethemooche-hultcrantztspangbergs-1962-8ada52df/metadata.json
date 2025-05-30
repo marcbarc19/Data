@@ -1,0 +1,60 @@
+{
+    "track_name": "Moose the Mooche",
+    "album_name": "At the Golden Circle Volume 4",
+    "recording_year": "1962",
+    "in_30_corpus": false,
+    "bandleader": "Bud Powell",
+    "pianist": "Bud Powell",
+    "channel_overrides": {},
+    "mbz_id": "8ada52df-5912-401c-aae4-d16ec21355e3",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=8Fy7TVCKwbE"
+        ]
+    },
+    "excerpt_duration": "04:15",
+    "timestamps": {
+        "start": "00:39",
+        "end": "04:54"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bud Powell",
+        "bassist": "Torbjorn Hultcrantz",
+        "drummer": "Sune Spangberg",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "powellb-moosethemooche-hultcrantztspangbergs-1962-8ada52df",
+    "tempo": 217.76721121885674,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0001966923670911891,
+        "bass": 0.38207687932798784,
+        "drums": 0.0
+    }
+}

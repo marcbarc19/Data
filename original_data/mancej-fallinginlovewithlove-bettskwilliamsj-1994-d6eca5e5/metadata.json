@@ -1,0 +1,60 @@
+{
+    "track_name": "Falling In Love With Love",
+    "album_name": "Blue Mance",
+    "recording_year": "1994",
+    "in_30_corpus": true,
+    "bandleader": "Junior Mance",
+    "pianist": "Junior Mance",
+    "channel_overrides": {},
+    "mbz_id": "d6eca5e5-2e2d-432c-b268-9bf6931ab6f2",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 5.17,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=--kDBM59FUI"
+        ]
+    },
+    "excerpt_duration": "02:25",
+    "timestamps": {
+        "start": "01:55",
+        "end": "04:20"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Junior Mance",
+        "bassist": "Keter Betts",
+        "drummer": "Jackie Williams",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "mancej-fallinginlovewithlove-bettskwilliamsj-1994-d6eca5e5",
+    "tempo": 245.2095119324301,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.04183103339790206,
+        "bass": 0.05049746280521872,
+        "drums": 0.0
+    }
+}

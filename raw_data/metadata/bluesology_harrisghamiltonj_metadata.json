@@ -1,0 +1,60 @@
+{
+    "track_name": "Bluesology",
+    "album_name": "Live at the Loa  Summer Wind",
+    "recording_year": "1988",
+    "in_30_corpus": false,
+    "bandleader": "Ray Brown",
+    "pianist": "Gene Harris",
+    "channel_overrides": {},
+    "mbz_id": "40232bd7-1b73-42a7-affe-153dbb717e25",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=97Dlu_EcqrE"
+        ]
+    },
+    "excerpt_duration": "02:20",
+    "timestamps": {
+        "start": "00:58",
+        "end": "03:18"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Gene Harris",
+        "bassist": "Ray Brown",
+        "drummer": "Jeff Hamilton",
+        "leader": "bassist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "brownr-bluesology-harrisghamiltonj-1988-40232bd7",
+    "tempo": 205.0355077780501,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.02832249695267608,
+        "bass": 0.1549450176575149,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "Double Exposure alternate",
+    "album_name": "The Complete Blue Note Recordings",
+    "recording_year": "1955",
+    "in_30_corpus": false,
+    "bandleader": "Herbie Nichols",
+    "pianist": "Herbie Nichols",
+    "channel_overrides": {},
+    "mbz_id": "68b44e1d-282d-45e5-bcdf-5ac5b84b8366",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=JAYf2_0P24w"
+        ]
+    },
+    "excerpt_duration": "00:54",
+    "timestamps": {
+        "start": "24:16",
+        "end": "25:10"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Herbie Nichols",
+        "bassist": "Al McKibbon",
+        "drummer": "Art Blakey",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "nicholsh-doubleexposurealternate-mckibbonablakeya-1955-68b44e1d",
+    "tempo": 171.57436262174937,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.03320933743058929,
+        "bass": 0.15262278289934772,
+        "drums": 0.0
+    }
+}

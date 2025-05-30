@@ -1,0 +1,60 @@
+{
+    "track_name": "Star Eyes alternate take 4",
+    "album_name": "The Complete Bud Powell on Verve",
+    "recording_year": "1955",
+    "in_30_corpus": false,
+    "bandleader": "Bud Powell",
+    "pianist": "Bud Powell",
+    "channel_overrides": {},
+    "mbz_id": "16979b6c-ecc0-4651-b7df-e3bcf698e84f",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=4U4ElgD2qMg"
+        ]
+    },
+    "excerpt_duration": "01:35",
+    "timestamps": {
+        "start": "04:25:25",
+        "end": "04:27:00"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bud Powell",
+        "bassist": "George Duvivier",
+        "drummer": "Art Taylor",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "powellb-stareyesalternatetake4-duviviergtaylora-1955-16979b6c",
+    "tempo": 182.63171189142423,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.07458335826845386,
+        "bass": 0.10074496487526319,
+        "drums": 0.0
+    }
+}

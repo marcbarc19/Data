@@ -1,0 +1,60 @@
+{
+    "track_name": "Ray Brown Suite Mvt II",
+    "album_name": "Walk On",
+    "recording_year": "2000",
+    "in_30_corpus": false,
+    "bandleader": "Ray Brown",
+    "pianist": "Geoffrey Keezer",
+    "channel_overrides": {},
+    "mbz_id": "aa21fba1-f8fa-4bc8-b736-4bf5fa2d95bc",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Jb1rXXjlBU8"
+        ]
+    },
+    "excerpt_duration": "01:18",
+    "timestamps": {
+        "start": "01:45",
+        "end": "03:03"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Geoffrey Keezer",
+        "bassist": "Ray Brown",
+        "drummer": "Karriem Riggins",
+        "leader": "bassist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "brownr-raybrownsuitemvtii-keezergrigginsk-2000-aa21fba1",
+    "tempo": 194.52185256345436,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.04025264861358313,
+        "drums": 0.0
+    }
+}

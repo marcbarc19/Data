@@ -1,0 +1,64 @@
+{
+    "track_name": "Who Can I Turn to",
+    "album_name": "Half Moon Bay",
+    "recording_year": "1974",
+    "in_30_corpus": true,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "5c2c078a-4102-4366-805f-8a20075afcd1",
+    "notes": "begins after applause from bass solo",
+    "time_signature": 4,
+    "first_downbeat": 19.9,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=5uClYUjyRG0"
+        ]
+    },
+    "excerpt_duration": "01:42",
+    "timestamps": {
+        "start": "03:53",
+        "end": "05:35"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Eddie Gomez",
+        "drummer": "Marty Morell",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-whocaniturnto-gomezemorellm-1974-5c2c078a",
+    "tempo": 211.36185033314683,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.4055459780589875,
+        "drums": 0.0
+    }
+}

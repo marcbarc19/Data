@@ -1,0 +1,95 @@
+{
+    "track_name": "Glorias Step take 3",
+    "album_name": "The Complete Village Vanguard Recordings 1961",
+    "recording_year": "1961",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "f72a8e95-4a9f-409a-aff7-8857540adf73",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 1.57,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": true,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=0bk_qy8ulXQ"
+        ]
+    },
+    "excerpt_duration": "00:30",
+    "timestamps": {
+        "start": "02:33",
+        "end": "03:03"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Scott LaFaro",
+        "drummer": "Paul Motian",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-gloriassteptake3-lafarosmotianp-1961-f72a8e95",
+    "tempo": 156.7986519230718,
+    "validation": {
+        "piano": {
+            "f_score": 0.9063670411985019,
+            "precision": 0.852112676056338,
+            "recall": 0.968,
+            "mean_asynchrony": -0.00949682354545449,
+            "fraction_matched": 0.968
+        },
+        "bass": {
+            "f_score": 0.9693877551020408,
+            "precision": 1.0,
+            "recall": 0.9405940594059405,
+            "mean_asynchrony": -0.005177706252631378,
+            "fraction_matched": 0.9405940594059405
+        },
+        "drums": {
+            "f_score": 0.8839285714285715,
+            "precision": 0.8608695652173913,
+            "recall": 0.908256880733945,
+            "mean_asynchrony": 0.001550195818181885,
+            "fraction_matched": 0.908256880733945
+        },
+        "mix": {
+            "f_score": 0.9873417721518988,
+            "precision": 0.9873417721518988,
+            "recall": 0.9873417721518988,
+            "mean_asynchrony": -0.010340136076922869,
+            "fraction_matched": 0.9873417721518988
+        },
+        "mix_downbeats": {
+            "f_score": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "mean_asynchrony": -0.010346938749999899,
+            "fraction_matched": 1.0
+        }
+    },
+    "stem_silent_perc": {
+        "piano": 0.13013986288663226,
+        "bass": 0.0,
+        "drums": 0.0
+    }
+}

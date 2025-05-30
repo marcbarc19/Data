@@ -1,0 +1,60 @@
+{
+    "track_name": "Reunion",
+    "album_name": "The Trio",
+    "recording_year": "1977",
+    "in_30_corpus": false,
+    "bandleader": "Hank Jones",
+    "pianist": "Hank Jones",
+    "channel_overrides": {},
+    "mbz_id": "9b2ec5e0-862b-435a-a26d-554b05649bbd",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=ap_sGPBSkmg"
+        ]
+    },
+    "excerpt_duration": "01:57",
+    "timestamps": {
+        "start": "34:41",
+        "end": "36:38"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hank Jones",
+        "bassist": "Milt Hinton",
+        "drummer": "Bobby Rosengarden",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jonesh-reunion-hintonmrosengardenb-1977-9b2ec5e0",
+    "tempo": 196.00074644341666,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.037619725024904405,
+        "bass": 0.2363157833534245,
+        "drums": 0.0
+    }
+}

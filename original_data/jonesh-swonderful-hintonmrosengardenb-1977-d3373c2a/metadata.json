@@ -1,0 +1,64 @@
+{
+    "track_name": "S Wonderful",
+    "album_name": "The Trio",
+    "recording_year": "1977",
+    "in_30_corpus": false,
+    "bandleader": "Hank Jones",
+    "pianist": "Hank Jones",
+    "channel_overrides": {
+        "piano": "l",
+        "bass": "r",
+        "drums": "r"
+    },
+    "mbz_id": "d3373c2a-cb7d-444c-b7bb-66e35700a304",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=ap_sGPBSkmg"
+        ]
+    },
+    "excerpt_duration": "01:53",
+    "timestamps": {
+        "start": "00:35",
+        "end": "02:28"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hank Jones",
+        "bassist": "Milt Hinton",
+        "drummer": "Bobby Rosengarden",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jonesh-swonderful-hintonmrosengardenb-1977-d3373c2a",
+    "tempo": 270.4344824979881,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.020624961372343376,
+        "bass": 0.002645542990474925,
+        "drums": 0.0
+    }
+}

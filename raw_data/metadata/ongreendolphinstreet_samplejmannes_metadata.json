@@ -1,0 +1,60 @@
+{
+    "track_name": "On Green Dolphin Street",
+    "album_name": "The Three",
+    "recording_year": "1975",
+    "in_30_corpus": false,
+    "bandleader": "Ray Brown",
+    "pianist": "Joe Sample",
+    "channel_overrides": {},
+    "mbz_id": "9a9278d1-f127-4fa7-b86a-23d8810c6f87",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=yKg-8qRLlmM"
+        ]
+    },
+    "excerpt_duration": "01:21",
+    "timestamps": {
+        "start": "06:13",
+        "end": "07:34"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Joe Sample",
+        "bassist": "Ray Brown",
+        "drummer": "Shelly Manne",
+        "leader": "bassist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "brownr-ongreendolphinstreet-samplejmannes-1975-9a9278d1",
+    "tempo": 282.3966901516516,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0,
+        "bass": 0.12080027495317602,
+        "drums": 0.0
+    }
+}

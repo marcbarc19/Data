@@ -1,0 +1,60 @@
+{
+    "track_name": "Hanks Blues",
+    "album_name": "Compassion",
+    "recording_year": "1978",
+    "in_30_corpus": false,
+    "bandleader": "Hank Jones",
+    "pianist": "Hank Jones",
+    "channel_overrides": {},
+    "mbz_id": "47611deb-130a-4c34-825f-147ecfa4fce9",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=Os8iK4oCNtw"
+        ]
+    },
+    "excerpt_duration": "01:56",
+    "timestamps": {
+        "start": "00:55",
+        "end": "02:51"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Hank Jones",
+        "bassist": "George Duvivier",
+        "drummer": "Alan Dawson",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jonesh-hanksblues-duviviergdawsona-1978-47611deb",
+    "tempo": 123.12347666592517,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.08188481429794425,
+        "bass": 0.1535066630702896,
+        "drums": 0.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "track_name": "ShawNuff",
+    "album_name": "1960 Essen Grugahalle",
+    "recording_year": "1960",
+    "in_30_corpus": true,
+    "bandleader": "Bud Powell",
+    "pianist": "Bud Powell",
+    "channel_overrides": {},
+    "mbz_id": "9b2240ad-d2d4-43e8-bf97-58362857161e",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 6.39,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=4QL19LuGmBE"
+        ]
+    },
+    "excerpt_duration": "02:23",
+    "timestamps": {
+        "start": "00:20",
+        "end": "02:43"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bud Powell",
+        "bassist": "Oscar Pettiford",
+        "drummer": "Kenny Clarke",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "powellb-shawnuff-pettifordoclarkek-1960-9b2240ad",
+    "tempo": 161.9351210331764,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 8.118633532494535e-05,
+        "bass": 0.023219291902931594,
+        "drums": 0.0
+    }
+}

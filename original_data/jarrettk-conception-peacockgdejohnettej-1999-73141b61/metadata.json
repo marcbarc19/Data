@@ -1,0 +1,60 @@
+{
+    "track_name": "Conception",
+    "album_name": "Whisper Not",
+    "recording_year": "1999",
+    "in_30_corpus": false,
+    "bandleader": "Keith Jarrett",
+    "pianist": "Keith Jarrett",
+    "channel_overrides": {},
+    "mbz_id": "73141b61-2b4a-4dd4-8072-922bff49bdd2",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=8zptsNyGLwo"
+        ]
+    },
+    "excerpt_duration": "05:06",
+    "timestamps": {
+        "start": "00:54",
+        "end": "06:00"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Keith Jarrett",
+        "bassist": "Gary Peacock",
+        "drummer": "Jack DeJohnette",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jarrettk-conception-peacockgdejohnettej-1999-73141b61",
+    "tempo": 205.03109977037136,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.004807480891897753,
+        "bass": 0.046576110920291125,
+        "drums": 0.0
+    }
+}

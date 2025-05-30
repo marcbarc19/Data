@@ -1,0 +1,60 @@
+{
+    "track_name": "Lullaby in Rhythm",
+    "album_name": "The Complete Bud Powell on Verve",
+    "recording_year": "1955",
+    "in_30_corpus": true,
+    "bandleader": "Bud Powell",
+    "pianist": "Bud Powell",
+    "channel_overrides": {},
+    "mbz_id": "87f4c8eb-594e-4d6d-83d8-12e1bc686748",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 7.73,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=BkAIoGSdmnw"
+        ]
+    },
+    "excerpt_duration": "01:14",
+    "timestamps": {
+        "start": "00:41",
+        "end": "01:55"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bud Powell",
+        "bassist": "George Duvivier",
+        "drummer": "Art Taylor",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "powellb-lullabyinrhythm-duviviergtaylora-1955-87f4c8eb",
+    "tempo": 207.3451608315368,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.024755405708487,
+        "bass": 0.06506336839705718,
+        "drums": 0.0
+    }
+}

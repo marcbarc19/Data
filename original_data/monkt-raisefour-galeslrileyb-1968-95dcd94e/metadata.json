@@ -1,0 +1,63 @@
+{
+    "track_name": "Raise Four",
+    "album_name": "Underground",
+    "recording_year": "1968",
+    "in_30_corpus": false,
+    "bandleader": "Thelonious Monk",
+    "pianist": "Thelonious Monk",
+    "channel_overrides": {
+        "bass": "l",
+        "drums": "r"
+    },
+    "mbz_id": "95dcd94e-1353-4c46-9987-95dc01ed490e",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=0KArkmkGwpw"
+        ]
+    },
+    "excerpt_duration": "02:06",
+    "timestamps": {
+        "start": "00:53",
+        "end": "02:59"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Thelonious Monk",
+        "bassist": "Larry Gales",
+        "drummer": "Ben Riley",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "monkt-raisefour-galeslrileyb-1968-95dcd94e",
+    "tempo": 160.22569067345185,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.00041103414318810483,
+        "bass": 0.04487254702237797,
+        "drums": 0.0
+    }
+}

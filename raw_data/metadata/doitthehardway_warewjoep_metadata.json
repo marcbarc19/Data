@@ -1,0 +1,60 @@
+{
+    "track_name": "Do It the Hard Way",
+    "album_name": "Pal Joey",
+    "recording_year": "1957",
+    "in_30_corpus": false,
+    "bandleader": "Kenny Drew",
+    "pianist": "Kenny Drew",
+    "channel_overrides": {},
+    "mbz_id": "57d5f9d9-20ab-4255-9ea1-0417cfde694e",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": NaN,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=sA4DZ4rPr9U"
+        ]
+    },
+    "excerpt_duration": "02:24",
+    "timestamps": {
+        "start": "00:46",
+        "end": "03:10"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Kenny Drew",
+        "bassist": "Wilbur Ware",
+        "drummer": "Philly Joe Jones",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "drewk-doitthehardway-warewjoep-1957-57d5f9d9",
+    "tempo": 160.6182145039053,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.017958075150311892,
+        "bass": 0.026120836582271822,
+        "drums": 0.0
+    }
+}

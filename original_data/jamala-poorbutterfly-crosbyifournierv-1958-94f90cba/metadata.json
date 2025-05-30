@@ -1,0 +1,60 @@
+{
+    "track_name": "Poor Butterfly",
+    "album_name": "Complete Live at the Pershing Lounge 1958",
+    "recording_year": "1958",
+    "in_30_corpus": true,
+    "bandleader": "Ahmad Jamal",
+    "pianist": "Ahmad Jamal",
+    "channel_overrides": {},
+    "mbz_id": "94f90cba-f3c7-4a05-b86a-e30fd9ebe989",
+    "notes": "rim clicks have to be sticks",
+    "time_signature": 4,
+    "first_downbeat": 6.79,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=nVhp7UdhyRU"
+        ]
+    },
+    "excerpt_duration": "00:50",
+    "timestamps": {
+        "start": "02:17",
+        "end": "03:07"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Ahmad Jamal",
+        "bassist": "Israel Crosby",
+        "drummer": "Vernell Fournier",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "jamala-poorbutterfly-crosbyifournierv-1958-94f90cba",
+    "tempo": 140.0964544136577,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.0006510711843873418,
+        "bass": 0.5076958790277094,
+        "drums": 0.0
+    }
+}

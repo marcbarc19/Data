@@ -1,0 +1,64 @@
+{
+    "track_name": "California Here I Come",
+    "album_name": "The Complete Bill Evans on Verve",
+    "recording_year": "1966",
+    "in_30_corpus": false,
+    "bandleader": "Bill Evans",
+    "pianist": "Bill Evans",
+    "channel_overrides": {
+        "bass": "l",
+        "piano": "r",
+        "drums": "r"
+    },
+    "mbz_id": "5f34d7a9-424a-4b4d-964e-236a69e3a284",
+    "notes": "",
+    "time_signature": 4,
+    "first_downbeat": 0.402,
+    "rating_bass_audio": NaN,
+    "rating_bass_detection": NaN,
+    "rating_drums_audio": NaN,
+    "rating_drums_detection": NaN,
+    "rating_mix": NaN,
+    "rating_piano_audio": NaN,
+    "rating_piano_detection": NaN,
+    "rating_comments": NaN,
+    "has_annotations": false,
+    "links": {
+        "external": [
+            "https://www.youtube.com/watch?v=enFEyc00SwI"
+        ]
+    },
+    "excerpt_duration": "01:09",
+    "timestamps": {
+        "start": "01:16",
+        "end": "02:25"
+    },
+    "log": [],
+    "musicians": {
+        "pianist": "Bill Evans",
+        "bassist": "Chuck Israels",
+        "drummer": "Larry Bunker",
+        "leader": "pianist"
+    },
+    "photos": {
+        "musicians": {
+            "pianist": null,
+            "bassist": null,
+            "drummer": null
+        },
+        "album_artwork": null
+    },
+    "fname": "evansb-californiahereicome-israelscbunkerl-1966-5f34d7a9",
+    "tempo": 218.54658751210474,
+    "validation": {
+        "piano": null,
+        "bass": null,
+        "drums": null,
+        "mix": null
+    },
+    "stem_silent_perc": {
+        "piano": 0.04704923635025382,
+        "bass": 0.0007413054336111724,
+        "drums": 0.0
+    }
+}
